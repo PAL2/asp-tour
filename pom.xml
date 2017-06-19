@@ -4,8 +4,8 @@
   <groupId>by.asp-tour</groupId>
   <artifactId>asp-tour</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>asp-tour Maven Webapp</name>
+  <version>1.0</version>
+  <name>asp-tour</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
