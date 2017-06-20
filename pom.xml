@@ -7,6 +7,11 @@
   <version>1.0</version>
   <name>asp-tour</name>
   <url>http://maven.apache.org</url>
+
+  <modules>
+    <module>entity</module>
+  </modules>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
