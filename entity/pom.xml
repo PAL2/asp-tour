@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>by.asp-tour</groupId>
-    <artifactId>asp-tour</artifactId>
+    <artifactId>entity</artifactId>
     <version>1.0</version>
 
 </project>
