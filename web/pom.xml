@@ -13,4 +13,10 @@
     <build>
         <finalName>asp-tour</finalName>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+        </dependency>
+    </dependencies>
 </project>
