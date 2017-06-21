@@ -4,7 +4,123 @@
     <jsp:directive.page contentType="text/html;charset=UTF-8"/>
     <jsp:output omit-xml-declaration="yes"/>
     <head>
-        <title>Index</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>ASP-tour</title>
+        <link rel="stylesheet" href="styles.css" type="text/css"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
     </head>
-    Hello!
+
+    <body>
+    <div class="width">
+        <div id="sitename">
+
+            <h1><a href="#">ASP-TOUR</a></h1>
+
+            <nav>
+                <ul>
+                    <li><a href="index.html">О компании</a></li>
+                    <li><a href="#">Заказ тура</a></li>
+                    <li><a href="#">Контакты</a></li>
+                    <li><a href="#">Новости</a></li>
+                    <li><a href="#">Подбор тура</a></li>
+                </ul>
+            </nav>
+
+            <div class="clear"></div>
+
+        </div>
+        <header>
+
+            <h2>Отдых круглый год!</h2>
+            <div class="tagline">
+                <p>Когда бы вы ни планировали отпуск, в наличии всегда предложения на любой вкус!
+                    Мы поможем выбрать достойный отель по хорошей цене! Греция, Кипр, Турция, Болгария, Испания и многие
+                    другие страны мира. Планируете ли Вы спокойный отдых с семьей или же желаете провести полное приключений
+                    лето в самых отдаленных уголках планеты - у нас Вы найдете все!</p>
+            </div>
+
+        </header>
+        <section id="body" class="clear">
+            <aside id="sidebar" class="column-left">
+                <ul>
+                    <li>
+                        <h4>Страны</h4>
+                        <ul class="blocklist">
+                            <li><a href="/bolgariya">Болгария</a></li>
+                            <li><a href="/greciya">Греция</a></li>
+                            <li><a href="/egipet">Египет</a></li>
+                            <li><a href="/ispaniya">Испания</a></li>
+                            <li><a href="/italiya">Италия</a></li>
+                            <li><a href="/kipr">Кипр</a></li>
+                            <li><a href="/kuba">Куба</a></li>
+                            <li><a href="/marokko">Марокко</a></li>
+                            <li><a href="/oae">ОАЭ</a></li>
+                            <li><a href="/tayland">Таиланд</a></li>
+                            <li><a href="/turciya">Турция</a></li>
+                            <li><a href="/seyshely">Черногория</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </aside>
+            <section id="content" class="column-right">
+
+                <article>
+
+                    <h2>Introduction to bloom</h2>
+                    <div class="article-info">Posted on
+                        <time datetime="2013-05-14">14 May</time>
+                        by <a href="#" rel="author">Joe Bloggs</a></div>
+
+                    <p>Welcome to bloom, a free premium valid CSS3 &amp; HTML5 web template from <a
+                            href="http://zypopwebtemplates.com/" title="ZyPOP">ZyPOP</a>. This template is completely
+                        <strong>free</strong> to use permitting a link remains back to <a
+                                href="http://zypopwebtemplates.com/"
+                                title="ZyPOP">http://zypopwebtemplates.com/</a>. Should
+                        you wish to use this template unbranded you can buy a template license from our website for 8.00
+                        GBP, this will allow you remove all branding related to our site, for more information about this
+                        see below.</p>
+
+                    <p>This template has been tested in:</p>
+
+                    <ul class="styledlist">
+                        <li>Firefox</li>
+                        <li>Opera</li>
+                        <li>IE</li>
+                        <li>Safari</li>
+                        <li>Chrome</li>
+                    </ul>
+
+                    <a href="#" class="button">Read more</a>
+                    <a href="#" class="button button-reversed">Comments</a>
+
+                </article>
+
+            </section>
+
+        </section>
+
+        <footer class="clear">
+
+            <div class="footer-content width">
+                <a href="index.html">О компании</a>
+                <a href="#">Заказ тура</a>
+                <a href="#">Контакты</a>
+                <a href="#">Новости</a>
+                <a href="#">Подбор тура</a>
+                <div class="network">
+                    <a href="https://vk.com/"><img src="vk.png"/></a>
+                    <a href="https://www.facebook.com/"><img src="fb.png"/></a>
+                    <a href="https://twitter.com/"><img src="twitter.png"/></a>
+                    <a href="https://ok.ru/"><img src="ok.png"/></a>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&amp;copy ASP-TOUR.BY 2017. Developed by Alexey Polegoshko</p>
+            </div>
+
+        </footer>
+
+    </div>
+    </body>
 </div>
