@@ -19,6 +19,7 @@
         <junit.version>3.8.1</junit.version>
         <spring.version>4.3.8.RELEASE</spring.version>
         <maven.compiler.plugin.version>3.6.1</maven.compiler.plugin.version>
+        <tomcat.maven.plugin.version>1.1</tomcat.maven.plugin.version>
     </properties>
 
     <dependencyManagement>
@@ -37,9 +38,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    <build>
-        <finalName>asp-tour</finalName>
-    </build>
+
     <build>
         <plugins>
             <plugin>
@@ -50,6 +49,26 @@
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>tomcat-maven-plugin</artifactId>
+                <version>${tomcat.maven.plugin.version}</version>
+                <configuration>
+                    <url>http://localhost:8080/manager/text</url>
+                    <username>tomcat</username>
+                    <password>tomcat</password>
+                    <path>/${project.build.finalName}</path>
+                    <warFile>target/${project.build.finalName}.war</warFile>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>redeploy</goal>
+                        </goals>
+                        <phase>install</phase>
+                    </execution>
+                </executions>
             </plugin>
         </plugins>
     </build>
