@@ -6,7 +6,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <title>ASP-tour</title>
-        <link rel="stylesheet" href="styles.css" type="text/css"/>
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/styles.css" type="text/css"/>
         <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
     </head>
 
@@ -18,7 +18,7 @@
 
             <nav>
                 <ul>
-                    <li><a href="index.html">О компании</a></li>
+                    <li><a href="#">О компании</a></li>
                     <li><a href="#">Заказ тура</a></li>
                     <li><a href="#">Контакты</a></li>
                     <li><a href="#">Новости</a></li>
@@ -91,7 +91,7 @@
                     </ul>
 
                     <a href="#" class="button">Read more</a>
-                    <a href="#" class="button button-reversed">Comments</a>
+                    <a href="#" class="button">Comments</a>
 
                 </article>
 
@@ -102,16 +102,19 @@
         <footer class="clear">
 
             <div class="footer-content width">
-                <a href="index.html">О компании</a>
+                <a href="#">О компании</a>
                 <a href="#">Заказ тура</a>
                 <a href="#">Контакты</a>
                 <a href="#">Новости</a>
                 <a href="#">Подбор тура</a>
                 <div class="network">
-                    <a href="https://vk.com/"><img src="vk.png"/></a>
-                    <a href="https://www.facebook.com/"><img src="fb.png"/></a>
-                    <a href="https://twitter.com/"><img src="twitter.png"/></a>
-                    <a href="https://ok.ru/"><img src="ok.png"/></a>
+                    <a href="https://vk.com/"><img
+                            src="${pageContext.request.contextPath}/resources/images/vk.png"/></a>
+                    <a href="https://www.facebook.com/"><img
+                            src="${pageContext.request.contextPath}/resources/images/fb.png"/></a>
+                    <a href="https://twitter.com/"><img
+                            src="${pageContext.request.contextPath}/resources/images/twitter.png"/></a>
+                    <a href="https://ok.ru/"><img src="${pageContext.request.contextPath}/resources/images/ok.png"/></a>
                 </div>
             </div>
 
