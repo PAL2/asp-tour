@@ -19,6 +19,6 @@
         <property name="suffix" value=".jspx"/>
     </bean>
 
-    <context:component-scan base-package="by.asp-tour"/>
+    <context:component-scan base-package="by.asptour"/>
 
 </beans>
