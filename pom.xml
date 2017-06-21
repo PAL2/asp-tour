@@ -12,6 +12,7 @@
         <module>entity</module>
         <module>web</module>
         <module>repository</module>
+        <module>service</module>
     </modules>
 
     <properties>
