@@ -255,7 +255,7 @@ section#body {
 
 /** content+sidebar styles **/
 section#content {
-    width: 600px;
+    width: 650px;
 }
 
 .column-left {
@@ -268,7 +268,7 @@ section#content {
 }
 
 aside#sidebar {
-    width: 250px;
+    width: 200px;
 }
 
 aside#sidebar ul {
