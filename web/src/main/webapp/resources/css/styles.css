@@ -267,6 +267,26 @@ section#content {
     float: right;
 }
 
+.block .element {
+    border: solid 1px #C7CADD;
+    margin: 0px 3px 3px 0px;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    height: 200px;
+    width: 210px;
+}
+
+.block .img img {
+    margin: 5px 0px 0px 5px;
+    padding: 0;
+    width: 200px;
+    height: 130px;
+}
+
+.block .text {
+    text-align: center;
+}
+
 aside#sidebar {
     width: 200px;
 }
