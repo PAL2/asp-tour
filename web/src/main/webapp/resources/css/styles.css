@@ -272,8 +272,8 @@ section#content {
     float: right;
 }
 
-.block .element {
-    border: solid 2px #C7CADD;
+.element {
+    border: solid 2px #549EE8;
     margin: 0 8px 8px 0;
     float: left;
     width: 208px;
@@ -301,7 +301,6 @@ section#content {
     text-align: center;
     border-radius: 5px;
     font-weight: bold;
-    font-size: 14px;
 }
 
 .byn {

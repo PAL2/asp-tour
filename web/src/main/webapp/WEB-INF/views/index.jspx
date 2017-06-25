@@ -144,12 +144,13 @@
                 <a href="#">Подбор тура</a>
                 <div class="network">
                     <a href="https://vk.com/"><img
-                            src="${pageContext.request.contextPath}/resources/images/vk.png"/></a>
+                            src="${pageContext.request.contextPath}/resources/images/network/vk.png"/></a>
                     <a href="https://www.facebook.com/"><img
-                            src="${pageContext.request.contextPath}/resources/images/fb.png"/></a>
+                            src="${pageContext.request.contextPath}/resources/images/network/fb.png"/></a>
                     <a href="https://twitter.com/"><img
-                            src="${pageContext.request.contextPath}/resources/images/twitter.png"/></a>
-                    <a href="https://ok.ru/"><img src="${pageContext.request.contextPath}/resources/images/ok.png"/></a>
+                            src="${pageContext.request.contextPath}/resources/images/network/twitter.png"/></a>
+                    <a href="https://ok.ru/"><img
+                            src="${pageContext.request.contextPath}/resources/images/network/ok.png"/></a>
                 </div>
             </div>
 
