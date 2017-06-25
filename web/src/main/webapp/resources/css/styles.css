@@ -309,8 +309,10 @@ section#content {
     top: 25px;
 }
 
-.block .text {
-    text-align: center;
+.block .offer-title {
+    padding: 4px 4px;
+    font-size: 17px;
+    color: blue;
 }
 
 aside#sidebar {
