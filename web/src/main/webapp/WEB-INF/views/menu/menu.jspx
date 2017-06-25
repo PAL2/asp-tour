@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page"
+     version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <aside id="sidebar" class="column-left">
+        <ul>
+            <li>
+                <h4>Страны</h4>
+                <ul class="blocklist">
+                    <li><a href="${pageContext.request.contextPath}/bulgaria">Болгария</a></li>
+                    <li><a href="/greciya">Греция</a></li>
+                    <li><a href="/egipet">Египет</a></li>
+                    <li><a href="/ispaniya">Испания</a></li>
+                    <li><a href="/italiya">Италия</a></li>
+                    <li><a href="/kipr">Кипр</a></li>
+                    <li><a href="/kuba">Куба</a></li>
+                    <li><a href="/marokko">Марокко</a></li>
+                    <li><a href="/oae">ОАЭ</a></li>
+                    <li><a href="/tayland">Таиланд</a></li>
+                    <li><a href="/turciya">Турция</a></li>
+                    <li><a href="/seyshely">Черногория</a></li>
+                </ul>
+            </li>
+        </ul>
+    </aside>
+</div>
