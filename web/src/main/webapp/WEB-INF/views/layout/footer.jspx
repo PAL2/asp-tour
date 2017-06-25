@@ -1,0 +1,25 @@
+<footer class="clear">
+
+    <div class="footer-content width">
+        <a href="#">О компании</a>
+        <a href="#">Заказ тура</a>
+        <a href="#">Контакты</a>
+        <a href="#">Новости</a>
+        <a href="#">Подбор тура</a>
+        <div class="network">
+            <a href="https://vk.com/"><img
+                    src="${pageContext.request.contextPath}/resources/images/network/vk.png"/></a>
+            <a href="https://www.facebook.com/"><img
+                    src="${pageContext.request.contextPath}/resources/images/network/fb.png"/></a>
+            <a href="https://twitter.com/"><img
+                    src="${pageContext.request.contextPath}/resources/images/network/twitter.png"/></a>
+            <a href="https://ok.ru/"><img
+                    src="${pageContext.request.contextPath}/resources/images/network/ok.png"/></a>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>&amp;copy ASP-TOUR.BY 2017. Developed by Alexey Polegoshko</p>
+    </div>
+
+</footer>
