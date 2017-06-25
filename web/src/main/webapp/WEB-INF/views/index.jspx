@@ -3,163 +3,70 @@
      version="2.0">
     <jsp:directive.page contentType="text/html;charset=UTF-8"/>
     <jsp:output omit-xml-declaration="yes"/>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <title>ASP-tour</title>
-        <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/styles.css" type="text/css"/>
-        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
-    </head>
 
-    <body>
-    <div class="width">
-        <div id="sitename">
-
-            <h1><a href="#">ASP-TOUR</a></h1>
-
-            <nav>
-                <ul>
-                    <li><a href="#">О компании</a></li>
-                    <li><a href="#">Заказ тура</a></li>
-                    <li><a href="#">Контакты</a></li>
-                    <li><a href="#">Новости</a></li>
-                    <li><a href="#">Подбор тура</a></li>
-                </ul>
-            </nav>
-
-            <div class="clear"></div>
-
-        </div>
-        <header>
-
-            <h2>Отдых круглый год!</h2>
-            <div class="tagline">
-                <p>Когда бы вы ни планировали отпуск, в наличии всегда предложения на любой вкус!
-                    Мы поможем выбрать достойный отель по хорошей цене! Греция, Кипр, Турция, Болгария, Испания и многие
-                    другие страны мира. Планируете ли Вы спокойный отдых с семьей или же желаете провести полное приключений
-                    лето в самых отдаленных уголках планеты - у нас Вы найдете все!</p>
+    <div class="block">
+        <form:form class="element">
+            <div class="img_block">
+                <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
+                     class="img_size"/>
+                <div class="offer-price byn">1234</div>
+                <div class="offer-price usd">5678</div>
             </div>
-
-        </header>
-        <section id="body" class="clear">
-            <aside id="sidebar" class="column-left">
-                <ul>
-                    <li>
-                        <h4>Страны</h4>
-                        <ul class="blocklist">
-                            <li><a href="/bolgariya">Болгария</a></li>
-                            <li><a href="/greciya">Греция</a></li>
-                            <li><a href="/egipet">Египет</a></li>
-                            <li><a href="/ispaniya">Испания</a></li>
-                            <li><a href="/italiya">Италия</a></li>
-                            <li><a href="/kipr">Кипр</a></li>
-                            <li><a href="/kuba">Куба</a></li>
-                            <li><a href="/marokko">Марокко</a></li>
-                            <li><a href="/oae">ОАЭ</a></li>
-                            <li><a href="/tayland">Таиланд</a></li>
-                            <li><a href="/turciya">Турция</a></li>
-                            <li><a href="/seyshely">Черногория</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </aside>
-            <section id="content" class="column-right">
-
-                <div class="block">
-                    <form:form class="element">
-                        <div class="img_block">
-                            <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                                 class="img_size"/>
-                            <div class="offer-price byn">1234</div>
-                            <div class="offer-price usd">5678</div>
-                        </div>
-                        <div class="offer-title">RENATA RESORT 4*</div>
-                        <div class="offer-options">
-                            <div>Шарм эль Шейх</div>
-                            <div>Вылет из Минска</div>
-                            <div>C 25.06, 7 ночей</div>
-                        </div>
-                        <input type="submit" class="button" value="Оставить заявку"/>
-                    </form:form>
-
-                    <form:form class="element">
-                        <div class="img_block">
-                            <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                                 class="img_size"/>
-                            <div class="offer-price byn">1234</div>
-                            <div class="offer-price usd">5678</div>
-                        </div>
-                        <div class="offer-title">RENATA RESORT 4*</div>
-                        <div class="offer-options">
-                            <div>Шарм эль Шейх</div>
-                            <div>Вылет из Минска</div>
-                            <div>C 25.06, 7 ночей</div>
-                        </div>
-                        <input type="submit" class="button" value="Оставить заявку"/>
-                    </form:form>
-
-                    <form:form class="element">
-                        <div class="img_block">
-                            <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                                 class="img_size"/>
-                            <div class="offer-price byn">1234</div>
-                            <div class="offer-price usd">5678</div>
-                        </div>
-                        <div class="offer-title">AMWAJ BLUE BEACH RESORT &amp; SPA 5*</div>
-                        <div class="offer-options">
-                            <div>Шарм эль Шейх</div>
-                            <div>Вылет из Минска</div>
-                            <div>C 25.06, 7 ночей</div>
-                        </div>
-                        <input type="submit" class="button" value="Оставить заявку"/>
-                    </form:form>
-
-                    <form:form class="element">
-                        <div class="img_block">
-                            <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                                 class="img_size"/>
-                            <div class="offer-price byn">1234</div>
-                            <div class="offer-price usd">5678</div>
-                        </div>
-                        <div class="offer-title">RENATA RESORT 4*</div>
-                        <div class="offer-options">
-                            <div>Шарм эль Шейх</div>
-                            <div>Вылет из Минска</div>
-                            <div>C 25.06, 7 ночей</div>
-                        </div>
-                        <input type="submit" class="button" value="Оставить заявку"/>
-                    </form:form>
-                </div>
-
-            </section>
-
-        </section>
-
-        <footer class="clear">
-
-            <div class="footer-content width">
-                <a href="#">О компании</a>
-                <a href="#">Заказ тура</a>
-                <a href="#">Контакты</a>
-                <a href="#">Новости</a>
-                <a href="#">Подбор тура</a>
-                <div class="network">
-                    <a href="https://vk.com/"><img
-                            src="${pageContext.request.contextPath}/resources/images/network/vk.png"/></a>
-                    <a href="https://www.facebook.com/"><img
-                            src="${pageContext.request.contextPath}/resources/images/network/fb.png"/></a>
-                    <a href="https://twitter.com/"><img
-                            src="${pageContext.request.contextPath}/resources/images/network/twitter.png"/></a>
-                    <a href="https://ok.ru/"><img
-                            src="${pageContext.request.contextPath}/resources/images/network/ok.png"/></a>
-                </div>
+            <div class="offer-title">RENATA RESORT 4*</div>
+            <div class="offer-options">
+                <div>Шарм эль Шейх</div>
+                <div>Вылет из Минска</div>
+                <div>C 25.06, 7 ночей</div>
             </div>
+            <input type="submit" class="button" value="Оставить заявку"/>
+        </form:form>
 
-            <div class="footer-bottom">
-                <p>&amp;copy ASP-TOUR.BY 2017. Developed by Alexey Polegoshko</p>
+        <form:form class="element">
+            <div class="img_block">
+                <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
+                     class="img_size"/>
+                <div class="offer-price byn">1234</div>
+                <div class="offer-price usd">5678</div>
             </div>
+            <div class="offer-title">RENATA RESORT 4*</div>
+            <div class="offer-options">
+                <div>Шарм эль Шейх</div>
+                <div>Вылет из Минска</div>
+                <div>C 25.06, 7 ночей</div>
+            </div>
+            <input type="submit" class="button" value="Оставить заявку"/>
+        </form:form>
 
-        </footer>
+        <form:form class="element">
+            <div class="img_block">
+                <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
+                     class="img_size"/>
+                <div class="offer-price byn">1234</div>
+                <div class="offer-price usd">5678</div>
+            </div>
+            <div class="offer-title">AMWAJ BLUE BEACH RESORT &amp; SPA 5*</div>
+            <div class="offer-options">
+                <div>Шарм эль Шейх</div>
+                <div>Вылет из Минска</div>
+                <div>C 25.06, 7 ночей</div>
+            </div>
+            <input type="submit" class="button" value="Оставить заявку"/>
+        </form:form>
 
+        <form:form class="element">
+            <div class="img_block">
+                <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
+                     class="img_size"/>
+                <div class="offer-price byn">1234</div>
+                <div class="offer-price usd">5678</div>
+            </div>
+            <div class="offer-title">RENATA RESORT 4*</div>
+            <div class="offer-options">
+                <div>Шарм эль Шейх</div>
+                <div>Вылет из Минска</div>
+                <div>C 25.06, 7 ночей</div>
+            </div>
+            <input type="submit" class="button" value="Оставить заявку"/>
+        </form:form>
     </div>
-    </body>
 </div>
