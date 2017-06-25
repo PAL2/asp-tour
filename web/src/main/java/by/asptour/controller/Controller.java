@@ -13,6 +13,12 @@ public class Controller {
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index() {
         System.out.println("Hello");
-        return "/index";
+        return "index";
+    }
+
+    @RequestMapping(value = "bulgaria", method = RequestMethod.GET)
+    public String bulgaria() {
+        System.out.println("Bulgaria");
+        return "bulgaria";
     }
 }
