@@ -73,6 +73,11 @@
                             <div class="offer-price usd">5678</div>
                         </div>
                         <div class="offer-title">RENATA RESORT 4*</div>
+                        <div class="offer-options">
+                            <div>Шарм эль Шейх</div>
+                            <div>Вылет из Минска</div>
+                            <div>C 25.06, 7 ночей</div>
+                        </div>
                     </div>
 
                     <div class="element">
