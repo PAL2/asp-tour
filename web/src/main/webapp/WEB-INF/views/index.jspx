@@ -69,8 +69,8 @@
                         <div class="img_block">
                             <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
                                  class="img_size"/>
-                            <div class="offer-price-byn">1234</div>
-                            <div class="offer-price-usd">5678</div>
+                            <div class="offer-price byn">1234</div>
+                            <div class="offer-price usd">5678</div>
                         </div>
                         <div class="text">Море</div>
                     </div>
@@ -79,8 +79,8 @@
                         <div class="img_block">
                             <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
                                  class="img_size"/>
-                            <div class="offer-price-byn">1234</div>
-                            <div class="offer-price-usd">5678</div>
+                            <div class="offer-price byn">1234</div>
+                            <div class="offer-price usd">5678</div>
                         </div>
                         <div class="text">Море</div>
                     </div>
@@ -89,8 +89,8 @@
                         <div class="img_block">
                             <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
                                  class="img_size"/>
-                            <div class="offer-price-byn">1234</div>
-                            <div class="offer-price-usd">5678</div>
+                            <div class="offer-price byn">1234</div>
+                            <div class="offer-price usd">5678</div>
                         </div>
                         <div class="text">Море</div>
                     </div>
@@ -99,8 +99,8 @@
                         <div class="img_block">
                             <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
                                  class="img_size"/>
-                            <div class="offer-price-byn">1234</div>
-                            <div class="offer-price-usd">5678</div>
+                            <div class="offer-price byn">1234</div>
+                            <div class="offer-price usd">5678</div>
                         </div>
                         <div class="text">Море</div>
                     </div>
