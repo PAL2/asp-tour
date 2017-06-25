@@ -1,0 +1,39 @@
+<!--
+  Created by IntelliJ IDEA.
+  User: Алексей
+  Date: 25.06.2017
+  Time: 18:05
+  To change this template use File | Settings | File Templates.
+-->
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+
+    <div id="sitename">
+
+        <h1><a href="#">ASP-TOUR</a></h1>
+
+        <nav>
+            <ul>
+                <li><a href="#">О компании</a></li>
+                <li><a href="#">Заказ тура</a></li>
+                <li><a href="#">Контакты</a></li>
+                <li><a href="#">Новости</a></li>
+                <li><a href="#">Подбор тура</a></li>
+            </ul>
+        </nav>
+
+        <div class="clear"></div>
+
+    </div>
+    <header>
+
+        <h2>Отдых круглый год!</h2>
+        <div class="tagline">
+            <p>Когда бы вы ни планировали отпуск, в наличии всегда предложения на любой вкус!
+                Мы поможем выбрать достойный отель по хорошей цене! Греция, Кипр, Турция, Болгария, Испания и многие
+                другие страны мира. Планируете ли Вы спокойный отдых с семьей или же желаете провести полное приключений
+                лето в самых отдаленных уголках планеты - у нас Вы найдете все!</p>
+        </div>
+
+    </header>
+
+</jsp:root>
