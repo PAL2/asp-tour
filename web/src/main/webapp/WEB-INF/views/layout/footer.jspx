@@ -3,7 +3,7 @@
     <div class="footer-content width">
         <a href="${pageContext.request.contextPath}/about">О компании</a>
         <a href="${pageContext.request.contextPath}/order">Заказ тура</a>
-        <a href="#">Контакты</a>
+        <a href="${pageContext.request.contextPath}/contacts">Контакты</a>
         <a href="#">Новости</a>
         <a href="#">Подбор тура</a>
         <div class="network">
