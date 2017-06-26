@@ -47,4 +47,8 @@
         <put-attribute name="body" value="/WEB-INF/views/countries/morocco.jspx"/>
     </definition>
 
+    <definition name="uae" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/countries/uae.jspx"/>
+    </definition>
+
 </tiles-definitions>
