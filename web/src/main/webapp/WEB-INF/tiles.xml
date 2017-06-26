@@ -35,4 +35,8 @@
         <put-attribute name="body" value="/WEB-INF/views/countries/italy.jspx"/>
     </definition>
 
+    <definition name="cypris" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/countries/cyprus.jspx"/>
+    </definition>
+
 </tiles-definitions>
