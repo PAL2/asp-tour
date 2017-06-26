@@ -17,7 +17,7 @@
                     <li><a href="${pageContext.request.contextPath}/cuba">Куба</a></li>
                     <li><a href="${pageContext.request.contextPath}/morocco">Марокко</a></li>
                     <li><a href="${pageContext.request.contextPath}/uae">ОАЭ</a></li>
-                    <li><a href="/tayland">Таиланд</a></li>
+                    <li><a href="${pageContext.request.contextPath}/thailand">Таиланд</a></li>
                     <li><a href="/turciya">Турция</a></li>
                     <li><a href="/seyshely">Черногория</a></li>
                 </ul>
