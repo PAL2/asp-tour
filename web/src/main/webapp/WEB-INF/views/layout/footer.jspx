@@ -1,7 +1,7 @@
 <footer class="clear">
 
     <div class="footer-content width">
-        <a href="#">О компании</a>
+        <a href="${pageContext.request.contextPath}/about">О компании</a>
         <a href="#">Заказ тура</a>
         <a href="#">Контакты</a>
         <a href="#">Новости</a>
