@@ -10,7 +10,7 @@
                 <li><a href="${pageContext.request.contextPath}/order">Заказ тура</a></li>
                 <li><a href="${pageContext.request.contextPath}/contacts">Контакты</a></li>
                 <li><a href="${pageContext.request.contextPath}/news">Новости</a></li>
-                <li><a href="#">Подбор тура</a></li>
+                <li><a href="${pageContext.request.contextPath}/picking">Подбор тура</a></li>
             </ul>
         </nav>
 

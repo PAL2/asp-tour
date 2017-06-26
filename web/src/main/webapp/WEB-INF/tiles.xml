@@ -79,4 +79,8 @@
         <put-attribute name="body" value="/WEB-INF/views/nav/news.jspx"/>
     </definition>
 
+    <definition name="picking" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/nav/picking.jspx"/>
+    </definition>
+
 </tiles-definitions>

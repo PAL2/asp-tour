@@ -5,7 +5,7 @@
         <a href="${pageContext.request.contextPath}/order">Заказ тура</a>
         <a href="${pageContext.request.contextPath}/contacts">Контакты</a>
         <a href="${pageContext.request.contextPath}/news">Новости</a>
-        <a href="#">Подбор тура</a>
+        <a href="${pageContext.request.contextPath}/picking">Подбор тура</a>
         <div class="network">
             <a href="https://vk.com/"><img
                     src="${pageContext.request.contextPath}/resources/images/network/vk.png"/></a>
