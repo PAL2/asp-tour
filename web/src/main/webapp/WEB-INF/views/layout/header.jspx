@@ -7,7 +7,7 @@
         <nav>
             <ul>
                 <li><a href="${pageContext.request.contextPath}/about">О компании</a></li>
-                <li><a href="#">Заказ тура</a></li>
+                <li><a href="${pageContext.request.contextPath}/order">Заказ тура</a></li>
                 <li><a href="#">Контакты</a></li>
                 <li><a href="#">Новости</a></li>
                 <li><a href="#">Подбор тура</a></li>

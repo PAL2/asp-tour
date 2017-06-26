@@ -67,4 +67,8 @@
         <put-attribute name="body" value="/WEB-INF/views/nav/about.jspx"/>
     </definition>
 
+    <definition name="order" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/nav/order.jspx"/>
+    </definition>
+
 </tiles-definitions>
