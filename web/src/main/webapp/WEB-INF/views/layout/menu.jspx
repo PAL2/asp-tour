@@ -15,7 +15,7 @@
                     <li><a href="${pageContext.request.contextPath}/italy">Италия</a></li>
                     <li><a href="${pageContext.request.contextPath}/cyprus">Кипр</a></li>
                     <li><a href="${pageContext.request.contextPath}/cuba">Куба</a></li>
-                    <li><a href="/marokko">Марокко</a></li>
+                    <li><a href="${pageContext.request.contextPath}/morocco">Марокко</a></li>
                     <li><a href="/oae">ОАЭ</a></li>
                     <li><a href="/tayland">Таиланд</a></li>
                     <li><a href="/turciya">Турция</a></li>
