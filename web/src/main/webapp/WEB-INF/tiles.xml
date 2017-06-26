@@ -11,13 +11,16 @@
         <put-attribute name="footer" value="/WEB-INF/views/layout/footer.jspx"/>
     </definition>
 
-    <definition name="bulgaria" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/bulgaria.jspx"/>
-    </definition>
-
     <definition name="index" extends="default">
         <put-attribute name="body" value="/WEB-INF/views/index.jspx"/>
     </definition>
 
+    <definition name="bulgaria" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/countries/bulgaria.jspx"/>
+    </definition>
+
+    <definition name="greece" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/countries/greece.jspx"/>
+    </definition>
 
 </tiles-definitions>
