@@ -1,3 +1,5 @@
+package by.asptour.service;
+
 import by.asptour.entity.Tour;
 
 import java.util.List;
