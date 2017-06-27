@@ -25,6 +25,7 @@ public class Tour implements Serializable {
         this.id = id;
     }
 
+    @Column(name = "COUNTRY")
     public String getCountry() {
         return country;
     }
@@ -33,6 +34,7 @@ public class Tour implements Serializable {
         this.country = country;
     }
 
+    @Column(name = "CITY")
     public String getCity() {
         return city;
     }
@@ -41,6 +43,7 @@ public class Tour implements Serializable {
         this.city = city;
     }
 
+    @Column(name = "HOTEL")
     public String getHotel() {
         return hotel;
     }
@@ -49,6 +52,7 @@ public class Tour implements Serializable {
         this.hotel = hotel;
     }
 
+    @Column(name = "STAR")
     public byte getStar() {
         return star;
     }
@@ -57,6 +61,7 @@ public class Tour implements Serializable {
         this.star = star;
     }
 
+    @Column(name = "DURATION")
     public byte getDuration() {
         return duration;
     }
@@ -65,6 +70,8 @@ public class Tour implements Serializable {
         this.duration = duration;
     }
 
+    @Column(name = "START_DATE")
+    @Temporal(TemporalType.DATE)
     public Date getStartDate() {
         return startDate;
     }
@@ -73,6 +80,7 @@ public class Tour implements Serializable {
         this.startDate = startDate;
     }
 
+    @Column(name = "PRICE_USD")
     public int getPriceUsd() {
         return priceUsd;
     }
@@ -81,6 +89,7 @@ public class Tour implements Serializable {
         this.priceUsd = priceUsd;
     }
 
+    @Column(name = "PRICE_BYN")
     public int getPriceByn() {
         return priceByn;
     }
@@ -89,6 +98,7 @@ public class Tour implements Serializable {
         this.priceByn = priceByn;
     }
 
+    @Column(name = "VERSION")
     public int getVersion() {
         return version;
     }
@@ -101,7 +111,24 @@ public class Tour implements Serializable {
         return photo;
     }
 
+    @Column(name = "PHOTO")
+    @Lob
     public void setPhoto(byte[] photo) {
         this.photo = photo;
+    }
+
+    @Override
+    public String toString() {
+        return "Tour{" +
+                "id=" + id +
+                ", country='" + country + '\'' +
+                ", city='" + city + '\'' +
+                ", hotel='" + hotel + '\'' +
+                ", star=" + star +
+                ", duration=" + duration +
+                ", startDate=" + startDate +
+                ", priceUsd=" + priceUsd +
+                ", priceByn=" + priceByn +
+                '}';
     }
 }
