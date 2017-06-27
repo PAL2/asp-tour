@@ -1,10 +1,10 @@
-package by.asptour;
+package by.asptour.repository;
 
 import by.asptour.entity.Tour;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-/**
- * Created by Алексей on 27.06.2017.
- */
+import java.util.List;
+
 public interface TourRepository extends JpaRepository<Tour, Integer> {
+    List<Tour> findByCountry(String country);
 }
