@@ -11,5 +11,12 @@
 
     <artifactId>service</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>by.asp-tour</groupId>
+            <artifactId>entity</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
 
 </project>
