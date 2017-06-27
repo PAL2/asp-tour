@@ -28,6 +28,8 @@
         <spring.data.version>1.11.4.RELEASE</spring.data.version>
         <slf4j.version>1.7.21</slf4j.version>
         <guava.version>21.0</guava.version>
+        <mysql.version>5.1.39</mysql.version>
+        <dbcp2.version>2.1.1</dbcp2.version>
     </properties>
 
     <dependencyManagement>
@@ -87,6 +89,17 @@
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
                 <version>${guava.version}</version>
+            </dependency>
+            <!-- MySQL -->
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>${mysql.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-dbcp2</artifactId>
+                <version>${dbcp2.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
