@@ -25,6 +25,8 @@
         <jstl.version>1.2</jstl.version>
         <hibernate.version>5.2.10.Final</hibernate.version>
         <javax.persistence.version>1.0.0.Final</javax.persistence.version>
+        <spring.data.version>1.11.4.RELEASE</spring.data.version>
+        <slf4j.version>1.7.21</slf4j.version>
     </properties>
 
     <dependencyManagement>
@@ -61,6 +63,17 @@
                 <groupId>org.hibernate.javax.persistence</groupId>
                 <artifactId>hibernate-jpa-2.1-api</artifactId>
                 <version>${javax.persistence.version}</version>
+            </dependency>
+            <!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
+            <dependency>
+                <groupId>org.springframework.data</groupId>
+                <artifactId>spring-data-jpa</artifactId>
+                <version>${spring.data.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-api</artifactId>
+                <version>${slf4j.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
