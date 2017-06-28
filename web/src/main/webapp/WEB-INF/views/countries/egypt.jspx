@@ -1,6 +1,22 @@
-<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
-    <html>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0"
+          xmlns:c="http://java.sun.com/jsp/jstl/core" xmlns:fmt="http://java.sun.com/jsp/jstl/fmt"
+          xmlns:form="http://www.springframework.org/tags/form">
     <head><title>Egypt</title></head>
-    <body>Egypt</body>
-    </html>
+    <c:forEach items="${tours}" var="tour">
+        <form:form class="element">
+            <div class="img_block">
+                <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
+                     class="img_size"/>
+                <div class="offer-price byn">${tour.priceByn}</div>
+                <div class="offer-price usd">${tour.priceUsd}$</div>
+            </div>
+            <div class="offer-title">${tour.hotel} ${tour.star}*</div>
+            <div class="offer-options">
+                <div>${tour.city}</div>
+                <div>Вылет из Минска</div>
+                <div>С <fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
+            </div>
+            <input type="submit" class="button" value="Оставить заявку"/>
+        </form:form>
+    </c:forEach>
 </jsp:root>
