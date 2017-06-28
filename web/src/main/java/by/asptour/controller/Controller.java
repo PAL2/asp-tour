@@ -1,10 +1,18 @@
 package by.asptour.controller;
 
+import by.asptour.entity.Tour;
+import by.asptour.service.TourService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+import java.util.List;
+
 @org.springframework.stereotype.Controller
 public class Controller {
+
+    private TourService tourService;
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index() {
@@ -31,8 +39,9 @@ public class Controller {
     }
 
     @RequestMapping(value = "egypt", method = RequestMethod.GET)
-    public String egypt() {
-        System.out.println("egypt");
+    public String egypt(Model model) {
+        List<Tour> tours = tourService.findByCountry("Египет");
+        model.addAttribute("tours", tours);
         return "egypt";
     }
 
@@ -107,5 +116,10 @@ public class Controller {
     @RequestMapping(value = "picking", method = RequestMethod.GET)
     public String picking() {
         return "picking";
+    }
+
+    @Autowired
+    public void setTourService(TourService tourService) {
+        this.tourService = tourService;
     }
 }
