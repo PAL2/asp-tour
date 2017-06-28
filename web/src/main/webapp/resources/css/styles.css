@@ -270,7 +270,7 @@ section#content {
 
 .element {
     border: solid 2px #549EE8;
-    margin: 0 8px 8px 0;
+    margin: 0 8px 4px 0;
     float: left;
     width: 208px;
     height: 254px;
@@ -422,7 +422,7 @@ footer p a {
 }
 
 .footer-content {
-    padding: 20px 25px 30px;
+    padding: 15px 30px 15px;
 }
 
 footer .footer-content ul {
@@ -484,7 +484,6 @@ footer .network a {
 }
 
 footer .footer-bottom {
-    padding: 10px;
     text-align: center;
 }
 
