@@ -76,7 +76,7 @@ a:focus {
     text-transform: uppercase;
     text-align: center;
     position: absolute;
-    top: 215px;
+    top: 210px;
     right: 21px;
 }
 
@@ -165,7 +165,7 @@ li {
 }
 
 .width {
-    width: 920px;
+    width: 1015px;
     margin: 0 auto;
 }
 
@@ -250,18 +250,18 @@ header p {
 
 /** body **/
 section#body {
-    padding: 10px 20px;
+    padding: 5px 0;
     background: #fff;
 }
 
 /** content+sidebar styles **/
 section#content {
-    width: 660px;
+    width: 845px;
 }
 
 .column-left {
     float: left;
-    margin-right: 10px;
+    margin-right: 3px;
 }
 
 .column-right {
@@ -270,17 +270,17 @@ section#content {
 
 .element {
     border: solid 2px #549EE8;
-    margin: 0 8px 4px 0;
+    margin: 0 3px 3px 0;
     float: left;
-    width: 208px;
-    height: 254px;
+    width: 204px;
+    height: 248px;
     border-radius: 7px;
     position: relative;
 }
 
 .img_block {
     position: relative;
-    margin: 4px 0 0 4px;
+    margin: 2px 0 0 2px;
 }
 
 .img_size {
@@ -320,7 +320,7 @@ section#content {
 }
 
 aside#sidebar {
-    width: 200px;
+    width: 155px;
 }
 
 aside#sidebar ul {
@@ -442,7 +442,6 @@ footer .footer-content a {
     font-size: 1.15em;
     letter-spacing: 0;
     text-decoration: none;
-    /*margin: 5px 0 0;*/
     padding: 10px;
 }
 
