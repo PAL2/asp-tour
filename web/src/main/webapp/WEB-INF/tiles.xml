@@ -87,4 +87,8 @@
         <put-attribute name="body" value="/WEB-INF/views/login.jspx"/>
     </definition>
 
+    <definition name="loginfail" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/loginfail.jspx"/>
+    </definition>
+
 </tiles-definitions>

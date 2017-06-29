@@ -10,7 +10,7 @@
         <intercept-url pattern='/' access='permitAll'/>
         <intercept-url pattern="/admin/**" access="hasRole('ROLE_ADMIN')"/>
         <form-login login-page="/login"
-                    authentication-failure-url="/security/loginfail"/>
+                    authentication-failure-url="/loginfail"/>
     </http>
 
     <authentication-manager>

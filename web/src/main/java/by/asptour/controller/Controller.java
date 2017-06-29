@@ -128,6 +128,11 @@ public class Controller {
         return "login";
     }
 
+    @RequestMapping(value = "/loginfail", method = RequestMethod.GET)
+    public String getLoginFailPage() {
+        return "loginfail";
+    }
+
     @RequestMapping(value = "/logout", method = RequestMethod.GET)
     public String getLogoutPage(HttpServletRequest request, HttpServletResponse response) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
