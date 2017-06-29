@@ -83,4 +83,8 @@
         <put-attribute name="body" value="/WEB-INF/views/nav/picking.jspx"/>
     </definition>
 
+    <definition name="login" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/login.jspx"/>
+    </definition>
+
 </tiles-definitions>
