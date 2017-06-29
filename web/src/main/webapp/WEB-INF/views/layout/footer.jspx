@@ -1,4 +1,4 @@
-<footer class="clear">
+<footer class="clear" xmlns:sec="http://www.springframework.org/security/tags">
 
     <div class="footer-content width">
         <a href="${pageContext.request.contextPath}/about">О компании</a>
@@ -6,6 +6,11 @@
         <a href="${pageContext.request.contextPath}/contacts">Контакты</a>
         <a href="${pageContext.request.contextPath}/news">Новости</a>
         <a href="${pageContext.request.contextPath}/picking">Подбор тура</a>
+        <sec:authorize access="isAnonymous()">
+            <a href="${pageContext.request.contextPath}/login">Войти на сайт</a></sec:authorize>
+        <sec:authorize access="isAuthenticated()">
+            <a href="${pageContext.request.contextPath}/logout">Выйти</a>
+        </sec:authorize>
         <div class="network">
             <a href="https://vk.com/"><img
                     src="${pageContext.request.contextPath}/resources/images/network/vk.png"/></a>
