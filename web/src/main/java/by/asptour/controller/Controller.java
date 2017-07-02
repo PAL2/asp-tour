@@ -133,6 +133,11 @@ public class Controller {
         return "loginfail";
     }
 
+    @RequestMapping(value = "/admin", method = RequestMethod.GET)
+    public String getAdminPage() {
+        return "admin";
+    }
+
     @RequestMapping(value = "/logout", method = RequestMethod.GET)
     public String getLogoutPage(HttpServletRequest request, HttpServletResponse response) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();

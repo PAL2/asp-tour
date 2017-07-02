@@ -64,20 +64,9 @@ a:focus {
 }
 
 .element .button {
-    background-color: #549EE8;
-    border-color: #549EE8;
-    border-radius: 5px 5px 5px 5px;
-    color: #FFFFFF;
-    font-weight: bold;
-    padding: 8px 15px;
-    text-transform: uppercase;
     position: absolute;
     top: 210px;
     right: 21px;
-}
-
-.element .button:hover {
-    background-color: #2885E2;
 }
 
 fieldset {
@@ -405,7 +394,7 @@ article .article-info a {
     margin: auto;
 }
 
-.login .button {
+.button {
     background-color: #549EE8;
     border-color: #549EE8;
     border-radius: 5px 5px 5px 5px;
@@ -413,6 +402,10 @@ article .article-info a {
     font-weight: bold;
     padding: 8px 15px;
     text-transform: uppercase;
+}
+
+.button:hover {
+    background-color: #2885E2;
 }
 
 /** footer **/
@@ -504,6 +497,10 @@ footer .footer-bottom p {
 
 footer .footer-bottom p, footer .footer-bottom p a {
     color: blue;
+}
+
+.admin {
+    margin: 30px 0 0 20px;
 }
 
 /** clear fix **/
