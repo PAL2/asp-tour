@@ -8,6 +8,9 @@
             <li>
                 <h4>Страны</h4>
                 <ul class="blocklist">
+                    <sec:authorize access="hasRole('ROLE_ADMIN')">
+                        <li><a href="${pageContext.request.contextPath}/admin">Админ</a></li>
+                    </sec:authorize>
                     <li><a href="${pageContext.request.contextPath}/bulgaria">Болгария</a></li>
                     <li><a href="${pageContext.request.contextPath}/greece">Греция</a></li>
                     <li><a href="${pageContext.request.contextPath}/egypt">Египет</a></li>
@@ -20,9 +23,6 @@
                     <li><a href="${pageContext.request.contextPath}/thailand">Таиланд</a></li>
                     <li><a href="${pageContext.request.contextPath}/turkey">Турция</a></li>
                     <li><a href="${pageContext.request.contextPath}/montenegro">Черногория</a></li>
-                    <sec:authorize access="hasRole('ROLE_ADMIN')">
-                        <li><a href="${pageContext.request.contextPath}/admin">Админ</a></li>
-                    </sec:authorize>
                 </ul>
             </li>
         </ul>
