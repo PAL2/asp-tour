@@ -279,7 +279,7 @@ section#content {
     margin: 0 3px 3px 0;
     float: left;
     width: 254px;
-    height: 460px;
+    height: 495px;
     border-radius: 7px;
     position: relative;
 }
@@ -295,7 +295,7 @@ section#content {
 }
 
 .element_add .button {
-    margin: 3px 70px;
+    margin: 2px 70px;
 }
 
 .offer-price {

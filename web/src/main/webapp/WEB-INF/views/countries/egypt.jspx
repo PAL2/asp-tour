@@ -5,10 +5,10 @@
     <head><title>Egypt</title></head>
     <sec:authorize access="isAnonymous()">
         <c:forEach items="${tours}" var="tour">
-            <form:form class="element_add">
+            <form:form class="element">
                 <div class="img_block">
                     <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                         class="img_size_add"/>
+                         class="img_size"/>
                     <div class="offer-price byn">${tour.priceByn}</div>
                     <div class="offer-price usd">${tour.priceUsd}$</div>
                 </div>
@@ -54,7 +54,7 @@
                     <td>${tour.priceUsd}</td>
                     <td>${tour.priceByn}</td>
                     <td>
-                        <a href="${pageContext.request.contextPath}/admin/${tour.id}">Edit</a>
+                        <a href="${pageContext.request.contextPath}/admin/${tour.id}?form">Edit</a>
                     </td>
                 </tr>
                 </tbody>

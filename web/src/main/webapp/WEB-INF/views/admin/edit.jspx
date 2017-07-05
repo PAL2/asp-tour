@@ -7,21 +7,24 @@
                  class="img_size_add"/>
         </div>
         <fieldset>
+            <label for="country">Страна: </label>
+            <form:input path="country" id="country"/>
             <label for="priceByn">Цена, руб.:</label>
             <form:input path="priceByn" id="priceByn"/>
             <label for="priceUsd">Цена, $:</label>
             <form:input path="priceUsd" id="priceUsd"/>
             <label for="hotel">Отель:</label>
-            <form:textarea  rows="2" path="hotel" id="hotel"/>
+            <form:textarea rows="2" path="hotel" id="hotel"/>
             <label for="star">Категория:</label>
             <form:input path="star" id="star"/>
             <label for="city">Город:</label>
             <form:input path="city" id="city"/>
-            <label for="startDate">Дата вылета:</label>
-            <form:input path="startDate" id="startDate"/>
+            <!--<label for="startDate">Дата вылета:</label>
+            <form:input path="startDate" id="startDate"/>-->
             <label for="duration">Ночей:</label>
             <form:input path="duration" id="duration"/>
+            <form:hidden path="version"/>
+            <input type="submit" class="button" value="Сохранить"/>
         </fieldset>
-        <input type="submit" class="button" value="Сохранить"/>
     </form:form>
 </jsp:root>

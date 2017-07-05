@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -149,28 +148,28 @@ public class Controller {
     }
 
     @RequestMapping(value = "admin/{id}", method = RequestMethod.GET)
-    public String editTour(@PathVariable Integer id, RedirectAttributes redirectAttributes) {
+    public String editTour(@PathVariable Integer id, Model model) {
         Tour tour = tourService.findById(id);
-        redirectAttributes.addFlashAttribute("tour", tour);
-        return "redirect:edit";
+        model.addAttribute("tour", tour);
+        return "admin/edit";
     }
 
-    @RequestMapping(value = "admin/add", method = RequestMethod.GET)
-    public String addNewTour(RedirectAttributes redirectAttributes) {
-        redirectAttributes.addFlashAttribute("tour", new Tour());
-        return "redirect:edit";
+    @RequestMapping(value = "admin/{id}", params = "form", method = RequestMethod.POST)
+    public String editTourPost(Tour tour) {
+        tourService.save(tour);
+        return "redirect:/admin";
     }
 
     @RequestMapping(value = "admin/edit", method = RequestMethod.GET)
-    public String addNewTour() {
+    public String addNewTour(Model model) {
+        model.addAttribute("tour", new Tour());
         return "admin/edit";
     }
 
     @RequestMapping(value = "admin/edit", method = RequestMethod.POST)
     public String addTour(@ModelAttribute("tour") Tour tour) {
-        System.out.println("ADMIN POST");
         tourService.save(tour);
-        return "index";
+        return "redirect:/admin";
     }
 
     @Autowired
