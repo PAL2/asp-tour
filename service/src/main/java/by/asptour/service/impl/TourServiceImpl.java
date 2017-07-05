@@ -24,6 +24,16 @@ public class TourServiceImpl implements TourService {
         return Lists.newArrayList(tourRepository.findByCountry(country));
     }
 
+    @Override
+    public Tour findById(Integer id) {
+        return tourRepository.findOne(id);
+    }
+
+    @Override
+    public Tour save(Tour tour) {
+        return tourRepository.save(tour);
+    }
+
     @Autowired
     public void setTourRepository(TourRepository tourRepository) {
         this.tourRepository = tourRepository;
