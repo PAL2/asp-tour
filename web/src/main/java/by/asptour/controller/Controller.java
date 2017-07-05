@@ -7,8 +7,11 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.web.authentication.logout.SecurityContextLogoutHandler;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -143,6 +146,32 @@ public class Controller {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         if (authentication != null) new SecurityContextLogoutHandler().logout(request, response, authentication);
         return "redirect:/";
+    }
+
+    @RequestMapping(value = "admin/{id}", method = RequestMethod.GET)
+    public String editTour(@PathVariable Integer id, RedirectAttributes redirectAttributes) {
+        Tour tour = tourService.findById(id);
+        redirectAttributes.addFlashAttribute("tour", tour);
+        return "redirect:edit";
+    }
+
+    @RequestMapping(value = "admin/add", method = RequestMethod.GET)
+    public String addNewTour(RedirectAttributes redirectAttributes) {
+        redirectAttributes.addFlashAttribute("tour", new Tour());
+        return "redirect:edit";
+    }
+
+    @RequestMapping(value = "admin/edit", method = RequestMethod.GET)
+    public String addNewTour() {
+
+        return "admin/edit";
+    }
+
+    @RequestMapping(value = "admin/edit", method = RequestMethod.POST)
+    public String addTour(@ModelAttribute("tour") Tour tour) {
+        System.out.println("ADMIN POST");
+        tourService.save(tour);
+        return "index";
     }
 
     @Autowired
