@@ -98,6 +98,7 @@ public class Tour implements Serializable {
         this.priceByn = priceByn;
     }
 
+    @Version
     @Column(name = "VERSION")
     public int getVersion() {
         return version;
