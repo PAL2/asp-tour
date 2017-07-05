@@ -1,0 +1,27 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0"
+          xmlns:form="http://www.springframework.org/tags/form">
+    <head><title>Edit</title></head>
+    <form:form modelAttribute="tour" class="element_add">
+        <div class="img_block">
+            <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
+                 class="img_size_add"/>
+        </div>
+        <fieldset>
+            <label for="priceByn">Цена, руб.:</label>
+            <form:input path="priceByn" id="priceByn"/>
+            <label for="priceUsd">Цена, $:</label>
+            <form:input path="priceUsd" id="priceUsd"/>
+            <label for="hotel">Отель:</label>
+            <form:textarea  rows="2" path="hotel" id="hotel"/>
+            <label for="star">Категория:</label>
+            <form:input path="star" id="star"/>
+            <label for="city">Город:</label>
+            <form:input path="city" id="city"/>
+            <label for="startDate">Дата вылета:</label>
+            <form:input path="startDate" id="startDate"/>
+            <label for="duration">Ночей:</label>
+            <form:input path="duration" id="duration"/>
+        </fieldset>
+        <input type="submit" class="button" value="Сохранить"/>
+    </form:form>
+</jsp:root>
