@@ -95,4 +95,8 @@
         <put-attribute name="body" value="/WEB-INF/views/admin/main.jspx"/>
     </definition>
 
+    <definition name="admin/edit" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/admin/edit.jspx"/>
+    </definition>
+
 </tiles-definitions>
