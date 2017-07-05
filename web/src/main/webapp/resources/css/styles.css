@@ -15,21 +15,18 @@ body {
 }
 
 /** element defaults **/
-table {
-    width: 100%;
-    text-align: left;
-}
-
 th, td {
-    padding: 5px 10px;
+    text-align: center;
 }
 
 th {
     color: #fff;
-    background-color: orange;
+    background-color: #3E91E5;
+    height: 40px;
 }
 
-td {
+.hotel {
+    width: 180px;
 }
 
 code, blockquote {
@@ -52,7 +49,7 @@ p {
 }
 
 a {
-    color: orange;
+    color: #3E91E5;
 }
 
 a:hover {
@@ -72,7 +69,6 @@ a:focus {
 fieldset {
     display: block;
     border: none;
-    border-top: 1px solid #e0e0e0;
 }
 
 fieldset legend {
@@ -242,6 +238,7 @@ section#body {
 /** content+sidebar styles **/
 section#content {
     width: 845px;
+    margin: 10px 0;
 }
 
 .column-left {
@@ -271,6 +268,34 @@ section#content {
 
 .img_size {
     width: 200px;
+}
+
+.img_size_admin {
+    width: 100px;
+}
+
+.element_add {
+    border: solid 2px #549EE8;
+    margin: 0 3px 3px 0;
+    float: left;
+    width: 254px;
+    height: 460px;
+    border-radius: 7px;
+    position: relative;
+}
+
+.img_size_add {
+    width: 250px;
+}
+
+.element_add input,
+.element_add label,
+.element_add textarea {
+    margin: 0 40px;
+}
+
+.element_add .button {
+    margin: 3px 70px;
 }
 
 .offer-price {
@@ -497,10 +522,6 @@ footer .footer-bottom p {
 
 footer .footer-bottom p, footer .footer-bottom p a {
     color: blue;
-}
-
-.admin {
-    margin: 30px 0 0 20px;
 }
 
 /** clear fix **/
