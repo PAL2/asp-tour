@@ -163,7 +163,6 @@ public class Controller {
 
     @RequestMapping(value = "admin/edit", method = RequestMethod.GET)
     public String addNewTour() {
-
         return "admin/edit";
     }
 

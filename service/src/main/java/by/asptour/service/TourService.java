@@ -7,8 +7,8 @@ import java.util.List;
 public interface TourService {
 
     List<Tour> findByCountry(String country);
+
     Tour findById(Integer id);
+
     Tour save(Tour tour);
-
-
 }
