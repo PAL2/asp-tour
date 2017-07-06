@@ -7,6 +7,13 @@
 <jsp:directive.page pageEncoding="UTF-8"/>
 <head>
     <link href="${pageContext.request.contextPath}/resources/css/styles.css" rel="stylesheet" type="text/css"/>
+    <link href="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/jquery-ui.min.css"
+          rel="stylesheet"
+          type="text/css"/>
+    <script src="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/external/jquery/jquery.js"
+            type="text/javascript"><jsp:text/></script>
+    <script src="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/jquery-ui.min.js"
+            type="text/javascript"><jsp:text/></script>
 </head>
 <body>
 <div class="width">
