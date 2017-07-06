@@ -2,7 +2,7 @@ package by.asptour.entity;
 
 import javax.persistence.*;
 import java.io.Serializable;
-import java.util.Date;
+import java.sql.Date;
 
 @Entity
 @Table(name = "tour")
@@ -71,7 +71,7 @@ public class Tour implements Serializable {
     }
 
     @Column(name = "START_DATE")
-    @Temporal(TemporalType.DATE)
+//    @Temporal(TemporalType.DATE)
     public Date getStartDate() {
         return startDate;
     }
