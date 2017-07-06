@@ -1,3 +1,4 @@
+<!--suppress ALL -->
 <html xmlns:jsp="http://java.sun.com/JSP/Page"
       xmlns:tiles="http://tiles.apache.org/tags-tiles"
 >
@@ -14,6 +15,14 @@
             type="text/javascript"><jsp:text/></script>
     <script src="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/jquery-ui.min.js"
             type="text/javascript"><jsp:text/></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#startDate').datepicker({
+                dateFormat: 'yy-mm-dd',
+                changeYear: true
+            });
+        });
+    </script>
 </head>
 <body>
 <div class="width">
