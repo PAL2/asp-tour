@@ -65,6 +65,8 @@
 
     <context:annotation-config/>
 
+    <bean id="multipartResolver" class="org.springframework.web.multipart.support.StandardServletMultipartResolver"/>
+
     <jpa:repositories base-package="by.asptour" entity-manager-factory-ref="emf"
                       transaction-manager-ref="transactionManager"/>
 
