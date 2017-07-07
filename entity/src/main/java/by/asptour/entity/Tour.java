@@ -71,7 +71,6 @@ public class Tour implements Serializable {
     }
 
     @Column(name = "START_DATE")
-//    @Temporal(TemporalType.DATE)
     public Date getStartDate() {
         return startDate;
     }
@@ -130,6 +129,7 @@ public class Tour implements Serializable {
                 ", startDate=" + startDate +
                 ", priceUsd=" + priceUsd +
                 ", priceByn=" + priceByn +
+                ", photo='" + photo + '\'' +
                 '}';
     }
 }
