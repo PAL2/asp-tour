@@ -278,20 +278,20 @@ section#content {
     border: solid 2px #549EE8;
     margin: 0 3px 3px 0;
     float: left;
-    width: 254px;
-    height: 495px;
+    width: 274px;
+    height: 545px;
     border-radius: 7px;
     position: relative;
 }
 
 .img_size_add {
-    width: 250px;
+    width: 270px;
 }
 
 .element_add input,
 .element_add label,
 .element_add textarea {
-    margin: 0 40px;
+    margin: 0 50px;
 }
 
 .element_add .button {
