@@ -50,10 +50,10 @@ p {
 
 a {
     color: #3E91E5;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #2284B8;
 }
 
 a:focus {
@@ -62,7 +62,7 @@ a:focus {
 
 .element .button {
     position: absolute;
-    top: 210px;
+    top: 208px;
     right: 21px;
 }
 
@@ -256,7 +256,7 @@ section#content {
     margin: 0 3px 3px 0;
     float: left;
     width: 204px;
-    height: 248px;
+    height: 240px;
     border-radius: 7px;
     position: relative;
 }
@@ -279,7 +279,7 @@ section#content {
     margin: 0 3px 3px 0;
     float: left;
     width: 274px;
-    height: 545px;
+    height: 540px;
     border-radius: 7px;
     position: relative;
 }
@@ -295,7 +295,7 @@ section#content {
 }
 
 .element_add .button {
-    margin: 2px 70px;
+    margin: 4px 70px;
 }
 
 .offer-price {
@@ -425,7 +425,7 @@ article .article-info a {
     border-radius: 5px 5px 5px 5px;
     color: #FFFFFF;
     font-weight: bold;
-    padding: 8px 15px;
+    padding: 4px 15px;
     text-transform: uppercase;
 }
 

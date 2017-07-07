@@ -50,10 +50,10 @@
                     <td>${tour.priceUsd}</td>
                     <td>${tour.priceByn}</td>
                     <td>
-                        <a href="${pageContext.request.contextPath}/admin/${tour.id}?form">Edit</a>
+                        <a class="button" href="${pageContext.request.contextPath}/admin/${tour.id}?form">Edit</a>
                     </td>
                     <td>
-                        <a href="${pageContext.request.contextPath}/admin/delete/${tour.id}">Delete</a>
+                        <a class="button" href="${pageContext.request.contextPath}/admin/delete/${tour.id}">Delete</a>
                     </td>
                 </tr>
                 </tbody>
