@@ -32,6 +32,7 @@
         <dbcp2.version>2.1.1</dbcp2.version>
         <spring.security.version>4.2.3.RELEASE</spring.security.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
+        <commons-io.version>2.5</commons-io.version>
     </properties>
 
     <dependencyManagement>
@@ -128,6 +129,12 @@
                 <groupId>javax.servlet</groupId>
                 <artifactId>javax.servlet-api</artifactId>
                 <version>${javax.servlet.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>commons-io</groupId>
+                <artifactId>commons-io</artifactId>
+                <version>${commons-io.version}</version>
             </dependency>
 
         </dependencies>
