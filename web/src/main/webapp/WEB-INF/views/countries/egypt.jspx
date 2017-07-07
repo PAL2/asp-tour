@@ -7,8 +7,7 @@
         <c:forEach items="${tours}" var="tour">
             <form:form class="element">
                 <div class="img_block">
-                    <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                         class="img_size"/>
+                    <img src="/asp-tour/tour/${tour.id}" class="img_size"></img>
                     <div class="offer-price byn">${tour.priceByn}</div>
                     <div class="offer-price usd">${tour.priceUsd}$</div>
                 </div>
