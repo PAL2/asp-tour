@@ -40,8 +40,7 @@
             <c:forEach items="${tours}" var="tour">
                 <tbody>
                 <tr>
-                    <td><img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                             class="img_size_admin"/></td>
+                    <td><img src="/asp-tour/tour/${tour.id}" class="img_size_admin"/></td>
                     <td>
                         <div class="offer-title">${tour.hotel}</div>
                     </td>
