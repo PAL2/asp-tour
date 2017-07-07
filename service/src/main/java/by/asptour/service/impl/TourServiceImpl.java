@@ -34,6 +34,11 @@ public class TourServiceImpl implements TourService {
         return tourRepository.save(tour);
     }
 
+    @Override
+    public void delete(Integer id) {
+        tourRepository.delete(id);
+    }
+
     @Autowired
     public void setTourRepository(TourRepository tourRepository) {
         this.tourRepository = tourRepository;

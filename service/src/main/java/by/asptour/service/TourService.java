@@ -11,4 +11,6 @@ public interface TourService {
     Tour findById(Integer id);
 
     Tour save(Tour tour);
+
+    void delete(Integer id);
 }

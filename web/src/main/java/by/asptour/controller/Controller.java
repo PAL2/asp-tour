@@ -162,6 +162,12 @@ public class Controller {
         return "redirect:/admin";
     }
 
+    @RequestMapping(value = "admin/delete/{id}", method = RequestMethod.GET)
+    public String deleteTour(@PathVariable Integer id) {
+        tourService.delete(id);
+        return "redirect:/admin";
+    }
+
     @RequestMapping(value = "admin/edit", method = RequestMethod.GET)
     public String addNewTour(Model model) {
         model.addAttribute("tour", new Tour());
