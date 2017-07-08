@@ -316,6 +316,17 @@ section#content {
     top: 27px;
 }
 
+.country {
+    position: absolute;
+    right: 64px;
+    top: 97px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 21px;
+    color: white;
+}
+
 .offer-title {
     padding: 0 6px;
     font-size: 16px;
