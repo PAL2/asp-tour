@@ -3,13 +3,12 @@ package by.asptour.service.impl;
 import by.asptour.entity.Tour;
 import by.asptour.repository.TourRepository;
 import by.asptour.service.TourService;
-import com.google.common.collect.Lists;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
-import java.util.List;
 
 @Repository
 @Service
@@ -20,8 +19,9 @@ public class TourServiceImpl implements TourService {
 
     @Override
     @Transactional(readOnly = true)
-    public List<Tour> findByCountry(String country) {
-        return Lists.newArrayList(tourRepository.findByCountry(country));
+    public Page<Tour> findByCountry(String country, int pageNumber) {
+        PageRequest request = new PageRequest(pageNumber - 1, 20);
+        return tourRepository.findByCountry(country, request);
     }
 
     @Override

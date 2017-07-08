@@ -1,12 +1,11 @@
 package by.asptour.service;
 
 import by.asptour.entity.Tour;
-
-import java.util.List;
+import org.springframework.data.domain.Page;
 
 public interface TourService {
 
-    List<Tour> findByCountry(String country);
+    Page<Tour> findByCountry(String country, int pageNumber);
 
     Tour findById(Integer id);
 
