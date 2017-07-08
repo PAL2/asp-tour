@@ -13,7 +13,7 @@
                     </sec:authorize>
                     <li><a href="${pageContext.request.contextPath}/bulgaria">Болгария</a></li>
                     <li><a href="${pageContext.request.contextPath}/greece">Греция</a></li>
-                    <li><a href="${pageContext.request.contextPath}/egypt">Египет</a></li>
+                    <li><a href="${pageContext.request.contextPath}/egypt/1">Египет</a></li>
                     <li><a href="${pageContext.request.contextPath}/spain">Испания</a></li>
                     <li><a href="${pageContext.request.contextPath}/italy">Италия</a></li>
                     <li><a href="${pageContext.request.contextPath}/cyprus">Кипр</a></li>
