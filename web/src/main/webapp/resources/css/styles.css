@@ -430,7 +430,7 @@ article .article-info a {
 }
 
 .pagination {
-    margin: 5px 240px 0;
+    margin: 5px 240px 5px;
     display: inline-block;
 }
 
