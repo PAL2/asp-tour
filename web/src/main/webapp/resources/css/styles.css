@@ -255,7 +255,7 @@ section#content {
     margin: 0 5px 5px 0;
     float: left;
     width: 174px;
-    height: 245px;
+    height: 244px;
     border-radius: 7px;
     position: relative;
 }
@@ -318,12 +318,12 @@ section#content {
 
 .country {
     position: absolute;
-    right: 64px;
-    top: 97px;
+    right: 10px;
+    top: 100px;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 21px;
+    font-size: 19px;
     color: white;
 }
 
