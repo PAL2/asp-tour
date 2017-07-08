@@ -318,13 +318,13 @@ section#content {
 
 .country {
     position: absolute;
-    right: 10px;
     top: 100px;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 19px;
     color: white;
+    margin-left: 2px;
 }
 
 .offer-title {
