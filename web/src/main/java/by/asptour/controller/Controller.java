@@ -4,6 +4,7 @@ import by.asptour.entity.Tour;
 import by.asptour.service.TourService;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.web.authentication.logout.SecurityContextLogoutHandler;
@@ -46,10 +47,18 @@ public class Controller {
         return "cyprus";
     }
 
-    @RequestMapping(value = "egypt", method = RequestMethod.GET)
-    public String egypt(Model model) {
-        List<Tour> tours = tourService.findByCountry("Египет");
+    @RequestMapping(value = "egypt/{pageNumber}", method = RequestMethod.GET)
+    public String egypt(Model model, @PathVariable int pageNumber) {
+        Page<Tour> pages = tourService.findByCountry("Египет", pageNumber);
+        List<Tour> tours = pages.getContent();
+        int current = pages.getNumber() + 1;
+        int begin = Math.max(1, current - 5);
+        int end = Math.min(begin + 20, pages.getTotalPages());
+        model.addAttribute("pages", pages);
         model.addAttribute("tours", tours);
+        model.addAttribute("beginIndex", begin);
+        model.addAttribute("endIndex", end);
+        model.addAttribute("currentIndex", current);
         return "egypt";
     }
 
