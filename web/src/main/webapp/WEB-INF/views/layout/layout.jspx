@@ -24,10 +24,6 @@
             });
         });
     </script>
-    <c:url var="firstUrl" value="/egypt/1"/>
-    <c:url var="lastUrl" value="/egypt/${pages.totalPages}"/>
-    <c:url var="prevUrl" value="/egypt/${currentIndex - 1}"/>
-    <c:url var="nextUrl" value="/egypt/${currentIndex + 1}"/>
 </head>
 <body>
 <div class="width">

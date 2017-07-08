@@ -3,10 +3,6 @@
     <head><title>Edit</title>
     </head>
     <form:form modelAttribute="tour" class="element_add" enctype="multipart/form-data" method="post">
-        <div class="img_block">
-            <img src="${pageContext.request.contextPath}/resources/images/renata-resort.jpg"
-                 class="img_size_add"/>
-        </div>
         <fieldset>
             <label>Загрузить файл:</label>
             <input type="file" name="file"/>

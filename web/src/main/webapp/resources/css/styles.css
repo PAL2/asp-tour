@@ -62,8 +62,8 @@ a:focus {
 
 .element .button {
     position: absolute;
-    top: 208px;
-    right: 21px;
+    top: 215px;
+    right: 4px;
 }
 
 fieldset {
@@ -146,7 +146,7 @@ li {
 }
 
 .width {
-    width: 1015px;
+    width: 915px;
     margin: 0 auto;
 }
 
@@ -237,8 +237,7 @@ section#body {
 
 /** content+sidebar styles **/
 section#content {
-    width: 845px;
-    margin: 10px 0;
+    width: 735px;
 }
 
 .column-left {
@@ -253,39 +252,36 @@ section#content {
 /*noinspection CssUnusedSymbol*/
 .element {
     border: solid 2px #549EE8;
-    margin: 0 3px 3px 0;
+    margin: 0 5px 5px 0;
     float: left;
-    width: 204px;
-    height: 240px;
+    width: 174px;
+    height: 245px;
     border-radius: 7px;
     position: relative;
 }
 
 .img_block {
     position: relative;
-    margin: 2px 0 0 2px;
+    margin: 1px 0 0 7px;
 }
 
 .img_size {
-    width: 200px;
+    width: 160px;
+    height: 120px;
 }
 
 .img_size_admin {
-    width: 100px;
+    width: 80px;
+    height: 60px;
 }
 
 .element_add {
     border: solid 2px #549EE8;
-    margin: 0 3px 3px 0;
     float: left;
-    width: 274px;
-    height: 540px;
+    width: 310px;
+    height: 385px;
     border-radius: 7px;
     position: relative;
-}
-
-.img_size_add {
-    width: 270px;
 }
 
 .element_add input,
@@ -295,7 +291,7 @@ section#content {
 }
 
 .element_add .button {
-    margin: 4px 70px;
+    margin: 3px 80px;
 }
 
 .offer-price {
@@ -331,7 +327,7 @@ section#content {
 }
 
 aside#sidebar {
-    width: 155px;
+    width: 165px;
 }
 
 aside#sidebar ul {
@@ -434,7 +430,7 @@ article .article-info a {
 }
 
 .pagination {
-    margin: 5px 315px 0;
+    margin: 5px 240px 0;
     display: inline-block;
 }
 

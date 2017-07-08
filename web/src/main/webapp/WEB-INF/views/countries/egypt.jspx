@@ -3,6 +3,10 @@
           xmlns:form="http://www.springframework.org/tags/form"
           xmlns:sec="http://www.springframework.org/security/tags">
     <head><title>Egypt</title></head>
+    <c:url var="firstUrl" value="/egypt/1"/>
+    <c:url var="lastUrl" value="/egypt/${pages.totalPages}"/>
+    <c:url var="prevUrl" value="/egypt/${currentIndex - 1}"/>
+    <c:url var="nextUrl" value="/egypt/${currentIndex + 1}"/>
     <div>
         <sec:authorize access="isAnonymous()">
             <c:forEach items="${tours}" var="tour">
