@@ -433,6 +433,11 @@ article .article-info a {
     background-color: #2885E2;
 }
 
+.pagination {
+    margin: 5px 315px 0;
+    display: inline-block;
+}
+
 /** footer **/
 footer {
     margin: 0 auto 0;
