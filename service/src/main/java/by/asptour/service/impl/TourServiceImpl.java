@@ -10,6 +10,10 @@ import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
+
 @Repository
 @Service
 @Transactional
@@ -37,6 +41,20 @@ public class TourServiceImpl implements TourService {
     @Override
     public void delete(Integer id) {
         tourRepository.delete(id);
+    }
+
+    @Override
+    public List<Tour> findToursForMainPage() {
+        Tour tour;
+        List<Tour> tours = new ArrayList<>();
+        Random random = new Random();
+        long count = (long) (tourRepository.count() * 1.2);
+        while (tours.size() <= 15) {
+            int id = random.nextInt((int) (count)) + 1;
+            tour = tourRepository.findOne(id);
+            if (tour != null) tours.add(tour);
+        }
+        return tours;
     }
 
     @Autowired

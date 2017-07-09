@@ -24,8 +24,9 @@ public class Controller {
     private TourService tourService;
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
-    public String index() {
-        System.out.println("Hello");
+    public String index(Model model) {
+        List<Tour> tours = tourService.findToursForMainPage();
+        model.addAttribute("tours", tours);
         return "index";
     }
 
