@@ -5,7 +5,7 @@ import java.io.Serializable;
 
 @Entity
 @Table(name = "client")
-public class Client implements Serializable {
+public class Bid implements Serializable {
     private Integer id;
     private String name, phone, definition, note;
     private int version;
@@ -69,7 +69,7 @@ public class Client implements Serializable {
 
     @Override
     public String toString() {
-        return "Client{" +
+        return "Bid{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", phone='" + phone + '\'' +

@@ -1,7 +1,7 @@
 package by.asptour.repository;
 
-import by.asptour.entity.Client;
+import by.asptour.entity.Bid;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface ClientRepository extends JpaRepository<Client, Integer> {
+public interface BidRepository extends JpaRepository<Bid, Integer> {
 }
