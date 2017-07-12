@@ -18,14 +18,6 @@
     <script src="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/jquery-ui.min.js"
             type="text/javascript"><jsp:text/>
     </script>
-    <script type="text/javascript">
-        $(function () {
-            $('#startDate').datepicker({
-                dateFormat: 'yy-mm-dd',
-                changeYear: true
-            });
-        });
-    </script>
 </head>
 <body>
 <div class="width">
@@ -44,5 +36,19 @@
         <tiles:insertAttribute name="footer"/>
     </div>
 </div>
+<script>
+    var country = document.getElementById('country').textContent;
+    var city = document.getElementById('city').textContent;
+    var hotel = document.getElementById('hotel').textContent;
+    var date = document.getElementById('d').textContent;
+    var usd = document.getElementById('usd').textContent;
+    var byn = document.getElementById('byn').textContent;
+    var dialog = $(".order-form").dialog({autoOpen: false, height: 600, width: 500, modal: true});
+    $(".button").click(function () {
+        document.getElementById('description').innerHTML = country + ", " + city + ', \r\n' + hotel + ', \r\n' +
+                date + ',\r\n' + usd + ', ' + byn + 'BYN';
+        dialog.dialog("open")
+    });
+</script>
 </body>
 </html>
