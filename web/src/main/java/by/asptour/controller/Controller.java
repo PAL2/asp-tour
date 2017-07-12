@@ -183,10 +183,23 @@ public class Controller {
         return "redirect:/admin";
     }
 
+    @RequestMapping(value = "admin/bids", method = RequestMethod.GET)
+    public String findAllBids(Model model) {
+        List<Bid> bids = bidService.findAll();
+        model.addAttribute("bids", bids);
+        return "admin/bids";
+    }
+
     @RequestMapping(value = "admin/delete/{id}", method = RequestMethod.GET)
     public String deleteTour(@PathVariable Integer id) {
         tourService.delete(id);
         return "redirect:/admin";
+    }
+
+    @RequestMapping(value = "admin/delete/bid/{id}", method = RequestMethod.GET)
+    public String deleteBid(@PathVariable Integer id) {
+        bidService.delete(id);
+        return "redirect:/admin/bids";
     }
 
     @RequestMapping(value = "admin/edit", method = RequestMethod.GET)
