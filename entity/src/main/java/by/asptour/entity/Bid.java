@@ -7,7 +7,7 @@ import java.io.Serializable;
 @Table(name = "client")
 public class Bid implements Serializable {
     private Integer id;
-    private String name, phone, definition, note;
+    private String name, phone, description, note;
     private int version;
 
     @Id
@@ -39,13 +39,13 @@ public class Bid implements Serializable {
         this.phone = phone;
     }
 
-    @Column(name ="DEFINITION")
-    public String getDefinition() {
-        return definition;
+    @Column(name ="DESCRIPTION")
+    public String getDescription() {
+        return description;
     }
 
-    public void setDefinition(String definition) {
-        this.definition = definition;
+    public void setDescription(String description) {
+        this.description = description;
     }
 
     @Column(name = "NOTE")
@@ -73,7 +73,7 @@ public class Bid implements Serializable {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", phone='" + phone + '\'' +
-                ", definition='" + definition + '\'' +
+                ", description='" + description + '\'' +
                 ", note='" + note + '\'' +
                 ", version=" + version +
                 '}';
