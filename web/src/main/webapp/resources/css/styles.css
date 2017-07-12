@@ -63,7 +63,7 @@ a:focus {
 .element .button {
     position: absolute;
     top: 215px;
-    right: 4px;
+    right: 9px;
 }
 
 fieldset {
@@ -432,7 +432,7 @@ article .article-info a {
     border-radius: 5px 5px 5px 5px;
     color: #FFFFFF;
     font-weight: bold;
-    padding: 4px 15px;
+    padding: 4px 10px;
     text-transform: uppercase;
 }
 
