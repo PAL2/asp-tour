@@ -1,7 +1,8 @@
-package by.asptour.service.impl;
+package by.asptour.service;
 
-/**
- * Created by Алексей on 12.07.2017.
- */
+import by.asptour.entity.Bid;
+
 public interface BidService {
+
+    Bid save(Bid bid);
 }
