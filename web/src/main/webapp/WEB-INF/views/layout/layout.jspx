@@ -13,9 +13,11 @@
           rel="stylesheet"
           type="text/css"/>
     <script src="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/external/jquery/jquery.js"
-            type="text/javascript"><jsp:text/></script>
+            type="text/javascript"><jsp:text/>
+    </script>
     <script src="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/jquery-ui.min.js"
-            type="text/javascript"><jsp:text/></script>
+            type="text/javascript"><jsp:text/>
+    </script>
     <script type="text/javascript">
         $(function () {
             $('#startDate').datepicker({
