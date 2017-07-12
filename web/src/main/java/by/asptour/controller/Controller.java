@@ -1,6 +1,9 @@
+
 package by.asptour.controller;
 
+import by.asptour.entity.Bid;
 import by.asptour.entity.Tour;
+import by.asptour.service.BidService;
 import by.asptour.service.TourService;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,12 +25,20 @@ import java.util.List;
 public class Controller {
 
     private TourService tourService;
+    private BidService bidService;
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index(Model model) {
         List<Tour> tours = tourService.findToursForMainPage();
         model.addAttribute("tours", tours);
+        model.addAttribute("bid", new Bid());
         return "index";
+    }
+
+    @RequestMapping(value = "/", method = RequestMethod.POST)
+    public String indexPost(@ModelAttribute("bid") Bid bid) {
+        bidService.save(bid);
+        return "redirect:/";
     }
 
     @RequestMapping(value = "bulgaria", method = RequestMethod.GET)
@@ -219,5 +230,10 @@ public class Controller {
     @Autowired
     public void setTourService(TourService tourService) {
         this.tourService = tourService;
+    }
+
+    @Autowired
+    public void setBidService(BidService bidService) {
+        this.bidService = bidService;
     }
 }
