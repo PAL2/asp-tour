@@ -4,7 +4,13 @@ import by.asptour.entity.Bid;
 import by.asptour.repository.BidRepository;
 import by.asptour.service.BidService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
+@Repository
+@Service
+@Transactional
 public class BidServiceImpl implements BidService {
 
     private BidRepository bidRepository;
