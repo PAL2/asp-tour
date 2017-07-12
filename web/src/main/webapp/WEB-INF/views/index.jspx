@@ -5,31 +5,41 @@
     <jsp:directive.page contentType="text/html;charset=UTF-8"/>
     <jsp:output omit-xml-declaration="yes"/>
     <head><title>Main</title></head>
-    <form:form id="order-form">
-        <label>Name:</label>
-        <input type="text"></input>
-    </form:form>
     <c:forEach items="${tours}" var="tour">
-        <form:form class="element">
+        <div class="element">
             <div class="img_block">
                 <img src="/asp-tour/tour/${tour.id}" class="img_size"></img>
-                <div class="offer-price byn">${tour.priceByn}</div>
-                <div class="offer-price usd">${tour.priceUsd}$</div>
-                <div class="country">${tour.country}</div>
+                <div id="byn" class="offer-price byn">${tour.priceByn}</div>
+                <div id="usd" class="offer-price usd">${tour.priceUsd}$</div>
+                <div id="country" class="country">${tour.country}</div>
             </div>
-            <div class="offer-title">${tour.hotel} ${tour.star}*</div>
+            <div id="hotel" class="offer-title">${tour.hotel} ${tour.star}*</div>
             <div class="offer-options">
-                <div>${tour.city}</div>
+                <div id="city">${tour.city}</div>
                 <div>Вылет из Минска</div>
-                <div>С <fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
+                <div id="d">С <fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
             </div>
             <input type="button" class="button" value="Оставить заявку"/>
-        </form:form>
-        <script>
-            var dialog = $("#order-form").dialog({autoOpen: false, height: 500, width: 400, modal: true});
-            $(".button").click(function () {
-                dialog.dialog("open")
-            });
-        </script>
+        </div>
     </c:forEach>
+    <form:form class="order-form" modelAttribute="bid">
+        <label for="name">Имя</label>
+        <br/>
+        <form:input path="name" id="name"/>
+        <br/>
+        <label for="phone">Телефон</label>
+        <br/>
+        <form:input path="phone" id="phone"/>
+        <br/>
+        <label for="description">Описание</label>
+        <br/>
+        <form:textarea rows="7" cols="40" path="description" id="description"/>
+        <br/>
+        <label for="note">Примечание</label>
+        <br/>
+        <form:textarea rows="5" cols="40" path="note" id="note"/>
+        <form:hidden path="version"/>
+        <br/>
+        <input type="submit" class="button" value="Оставить заявку"/>
+    </form:form>
 </div>
