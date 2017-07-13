@@ -18,6 +18,8 @@
     <script src="${pageContext.request.contextPath}/resources/scripts/jquery-ui-1.12.1.custom/jquery-ui.min.js"
             type="text/javascript"><jsp:text/>
     </script>
+    <script src="${pageContext.request.contextPath}/resources/scripts/scripts.js" type="text/javascript"><jsp:text/>
+    </script>
 </head>
 <body>
 <div class="width">
