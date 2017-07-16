@@ -240,6 +240,11 @@ public class Controller {
         return tour;
     }
 
+    @GetMapping(value = "hotels/{country}/{city}/{hotel}")
+    public String showHotel(@PathVariable String country, @PathVariable String city, @PathVariable String hotel) {
+        return "hotels/" + country + "/" + city + "/" + hotel;
+    }
+
     @Autowired
     public void setTourService(TourService tourService) {
         this.tourService = tourService;
