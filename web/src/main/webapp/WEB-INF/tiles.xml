@@ -103,4 +103,8 @@
         <put-attribute name="body" value="/WEB-INF/views/admin/bids.jspx"/>
     </definition>
 
+    <definition name="hotels/*/*/*" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/hotels/{1}/{2}/{3}.jspx"/>
+    </definition>
+
 </tiles-definitions>
