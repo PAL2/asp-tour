@@ -333,6 +333,10 @@ section#content {
     color: blue;
 }
 
+.offer-title:hover {
+    text-decoration: underline;
+}
+
 .offer-options {
     padding: 0 6px;
 }
