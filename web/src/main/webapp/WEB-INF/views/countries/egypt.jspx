@@ -16,7 +16,9 @@
                         <div class="offer-price byn">${tour.priceByn}</div>
                         <div class="offer-price usd">${tour.priceUsd}$</div>
                     </div>
-                    <div class="offer-title">${tour.hotel} ${tour.star}*</div>
+                    <a class="offer-title"
+                       href="${pageContext.request.contextPath}/hotels/${tour.country}/${tour.city}/${tour.hotel}">
+                       ${tour.hotel} ${tour.star}*</a>
                     <div class="offer-options">
                         <div>${tour.city}</div>
                         <div>Вылет из Минска</div>
