@@ -80,22 +80,22 @@ public class Controller {
         return "picking";
     }
 
-    @RequestMapping(value = "/login", method = RequestMethod.GET)
+    @RequestMapping(value = "login", method = RequestMethod.GET)
     public String getLoginPage() {
         return "login";
     }
 
-    @RequestMapping(value = "/loginfail", method = RequestMethod.GET)
+    @RequestMapping(value = "loginfail", method = RequestMethod.GET)
     public String getLoginFailPage() {
         return "loginfail";
     }
 
-    @RequestMapping(value = "/admin", method = RequestMethod.GET)
+    @RequestMapping(value = "admin", method = RequestMethod.GET)
     public String getAdminPage() {
         return "admin";
     }
 
-    @RequestMapping(value = "/logout", method = RequestMethod.GET)
+    @RequestMapping(value = "logout", method = RequestMethod.GET)
     public String getLogoutPage(HttpServletRequest request, HttpServletResponse response) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         if (authentication != null) new SecurityContextLogoutHandler().logout(request, response, authentication);
