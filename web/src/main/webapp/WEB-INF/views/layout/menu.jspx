@@ -11,18 +11,18 @@
                     <sec:authorize access="hasRole('ROLE_ADMIN')">
                         <li><a href="${pageContext.request.contextPath}/admin">Админ</a></li>
                     </sec:authorize>
-                    <li><a href="${pageContext.request.contextPath}/bulgaria">Болгария</a></li>
-                    <li><a href="${pageContext.request.contextPath}/greece">Греция</a></li>
-                    <li><a href="${pageContext.request.contextPath}/egypt/1">Египет</a></li>
-                    <li><a href="${pageContext.request.contextPath}/spain">Испания</a></li>
-                    <li><a href="${pageContext.request.contextPath}/italy">Италия</a></li>
-                    <li><a href="${pageContext.request.contextPath}/cyprus">Кипр</a></li>
-                    <li><a href="${pageContext.request.contextPath}/cuba">Куба</a></li>
-                    <li><a href="${pageContext.request.contextPath}/morocco">Марокко</a></li>
-                    <li><a href="${pageContext.request.contextPath}/uae">ОАЭ</a></li>
-                    <li><a href="${pageContext.request.contextPath}/thailand">Таиланд</a></li>
-                    <li><a href="${pageContext.request.contextPath}/turkey">Турция</a></li>
-                    <li><a href="${pageContext.request.contextPath}/montenegro">Черногория</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Болгария/1">Болгария</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Греция/1">Греция</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Египет/1">Египет</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Испания/1">Испания</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Италия/1">Италия</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Кипр/1">Кипр</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Куба/1">Куба</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Марокко/1">Марокко</a></li>
+                    <li><a href="${pageContext.request.contextPath}/ОАЭ/1">ОАЭ</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Таиланд/1">Таиланд</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Турция/1">Турция</a></li>
+                    <li><a href="${pageContext.request.contextPath}/Черногория/1">Черногория</a></li>
                 </ul>
             </li>
         </ul>

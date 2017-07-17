@@ -2,11 +2,11 @@
           xmlns:c="http://java.sun.com/jsp/jstl/core" xmlns:fmt="http://java.sun.com/jsp/jstl/fmt"
           xmlns:form="http://www.springframework.org/tags/form"
           xmlns:sec="http://www.springframework.org/security/tags">
-    <head><title>Egypt</title></head>
-    <c:url var="firstUrl" value="/egypt/1"/>
-    <c:url var="lastUrl" value="/egypt/${pages.totalPages}"/>
-    <c:url var="prevUrl" value="/egypt/${currentIndex - 1}"/>
-    <c:url var="nextUrl" value="/egypt/${currentIndex + 1}"/>
+    <head><title>Египет</title></head>
+    <c:url var="firstUrl" value="/Египет/1"/>
+    <c:url var="lastUrl" value="/Египет/${pages.totalPages}"/>
+    <c:url var="prevUrl" value="/Египет/${currentIndex - 1}"/>
+    <c:url var="nextUrl" value="/Египет/${currentIndex + 1}"/>
     <div>
         <sec:authorize access="isAnonymous()">
             <c:forEach items="${tours}" var="tour">

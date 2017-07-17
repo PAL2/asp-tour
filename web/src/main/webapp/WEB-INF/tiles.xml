@@ -15,54 +15,6 @@
         <put-attribute name="body" value="/WEB-INF/views/index.jspx"/>
     </definition>
 
-    <definition name="bulgaria" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/bulgaria.jspx"/>
-    </definition>
-
-    <definition name="greece" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/greece.jspx"/>
-    </definition>
-
-    <definition name="egypt" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/egypt.jspx"/>
-    </definition>
-
-    <definition name="spain" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/spain.jspx"/>
-    </definition>
-
-    <definition name="italy" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/italy.jspx"/>
-    </definition>
-
-    <definition name="cyprus" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/cyprus.jspx"/>
-    </definition>
-
-    <definition name="cuba" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/cuba.jspx"/>
-    </definition>
-
-    <definition name="morocco" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/morocco.jspx"/>
-    </definition>
-
-    <definition name="uae" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/uae.jspx"/>
-    </definition>
-
-    <definition name="thailand" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/thailand.jspx"/>
-    </definition>
-
-    <definition name="turkey" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/turkey.jspx"/>
-    </definition>
-
-    <definition name="montenegro" extends="default">
-        <put-attribute name="body" value="/WEB-INF/views/countries/montenegro.jspx"/>
-    </definition>
-
     <definition name="about" extends="default">
         <put-attribute name="body" value="/WEB-INF/views/nav/about.jspx"/>
     </definition>
@@ -101,6 +53,10 @@
 
     <definition name="admin/bids" extends="default">
         <put-attribute name="body" value="/WEB-INF/views/admin/bids.jspx"/>
+    </definition>
+
+    <definition name="*" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/hotels/{1}/{1}.jspx"/>
     </definition>
 
     <definition name="hotels/*/*/*" extends="default">

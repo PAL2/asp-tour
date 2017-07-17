@@ -1,4 +1,3 @@
-
 package by.asptour.controller;
 
 import by.asptour.entity.Bid;
@@ -41,26 +40,8 @@ public class Controller {
         return "redirect:/";
     }
 
-    @RequestMapping(value = "bulgaria", method = RequestMethod.GET)
-    public String bulgaria() {
-        System.out.println("Bulgaria");
-        return "bulgaria";
-    }
-
-    @RequestMapping(value = "cuba", method = RequestMethod.GET)
-    public String cuba() {
-        System.out.println("Cuba");
-        return "cuba";
-    }
-
-    @RequestMapping(value = "cyprus", method = RequestMethod.GET)
-    public String cyprus() {
-        System.out.println("cyprus");
-        return "cyprus";
-    }
-
-    @RequestMapping(value = "egypt/{pageNumber}", method = RequestMethod.GET)
-    public String egypt(Model model, @PathVariable int pageNumber) {
+    @RequestMapping(value = "{country}/{pageNumber}", method = RequestMethod.GET)
+    public String egypt(Model model,@PathVariable String country, @PathVariable int pageNumber) {
         Page<Tour> pages = tourService.findByCountry("Египет", pageNumber);
         List<Tour> tours = pages.getContent();
         int current = pages.getNumber() + 1;
@@ -71,55 +52,7 @@ public class Controller {
         model.addAttribute("beginIndex", begin);
         model.addAttribute("endIndex", end);
         model.addAttribute("currentIndex", current);
-        return "egypt";
-    }
-
-    @RequestMapping(value = "greece", method = RequestMethod.GET)
-    public String greece() {
-        System.out.println("greece");
-        return "greece";
-    }
-
-    @RequestMapping(value = "italy", method = RequestMethod.GET)
-    public String italy() {
-        System.out.println("italy");
-        return "italy";
-    }
-
-    @RequestMapping(value = "montenegro", method = RequestMethod.GET)
-    public String montenegro() {
-        System.out.println("montenegro");
-        return "montenegro";
-    }
-
-    @RequestMapping(value = "morocco", method = RequestMethod.GET)
-    public String morocco() {
-        System.out.println("morocco");
-        return "morocco";
-    }
-
-    @RequestMapping(value = "spain", method = RequestMethod.GET)
-    public String spain() {
-        System.out.println("spain");
-        return "spain";
-    }
-
-    @RequestMapping(value = "thailand", method = RequestMethod.GET)
-    public String thailand() {
-        System.out.println("thailand");
-        return "thailand";
-    }
-
-    @RequestMapping(value = "turkey", method = RequestMethod.GET)
-    public String turkey() {
-        System.out.println("turkey");
-        return "turkey";
-    }
-
-    @RequestMapping(value = "uae", method = RequestMethod.GET)
-    public String uae() {
-        System.out.println("uae");
-        return "uae";
+        return country;
     }
 
     @RequestMapping(value = "about", method = RequestMethod.GET)
