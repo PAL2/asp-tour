@@ -24,13 +24,13 @@ public class BidServiceImpl implements BidService {
     }
 
     @Override
-    public void delete(Integer id) {
-        bidRepository.delete(id);
+    public void process(Integer id) {
+        bidRepository.processBid(id);
     }
 
     @Override
-    public List<Bid> findAll() {
-        return Lists.newArrayList(bidRepository.findAll());
+    public List<Bid> findByProcessed(boolean processed) {
+        return bidRepository.findByProcessed(processed);
     }
 
     @Autowired

@@ -8,7 +8,7 @@ public interface BidService {
 
     Bid save(Bid bid);
 
-    void delete(Integer id);
+    void process(Integer id);
 
-    List<Bid> findAll();
+    List<Bid> findByProcessed(boolean processed);
 }

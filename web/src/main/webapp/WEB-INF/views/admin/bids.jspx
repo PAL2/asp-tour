@@ -19,7 +19,7 @@
                 <td>${bid.description}</td>
                 <td>${bid.note}</td>
                 <td>
-                    <a class="button" href="${pageContext.request.contextPath}/admin/delete/bid/${bid.id}">Delete</a>
+                    <a class="button" href="${pageContext.request.contextPath}/admin/process/bid/${bid.id}">Processed</a>
                 </td>
             </tr>
         </c:forEach>

@@ -118,7 +118,7 @@ public class Controller {
 
     @RequestMapping(value = "admin/bids", method = RequestMethod.GET)
     public String findAllBids(Model model) {
-        List<Bid> bids = bidService.findAll();
+        List<Bid> bids = bidService.findByProcessed(false);
         model.addAttribute("bids", bids);
         return "admin/bids";
     }
@@ -129,9 +129,9 @@ public class Controller {
         return "redirect:/admin";
     }
 
-    @RequestMapping(value = "admin/delete/bid/{id}", method = RequestMethod.GET)
+    @RequestMapping(value = "admin/process/bid/{id}", method = RequestMethod.GET)
     public String deleteBid(@PathVariable Integer id) {
-        bidService.delete(id);
+        bidService.process(id);
         return "redirect:/admin/bids";
     }
 

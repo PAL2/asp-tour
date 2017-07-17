@@ -8,6 +8,7 @@ import java.io.Serializable;
 public class Bid implements Serializable {
     private Integer id;
     private String name, phone, description, note;
+    private boolean processed;
     private int version;
 
     @Id
@@ -55,6 +56,15 @@ public class Bid implements Serializable {
 
     public void setNote(String note) {
         this.note = note;
+    }
+
+    @Column(name = "PROCESSED")
+    public boolean isProcessed() {
+        return processed;
+    }
+
+    public void setProcessed(boolean processed) {
+        this.processed = processed;
     }
 
     @Version
