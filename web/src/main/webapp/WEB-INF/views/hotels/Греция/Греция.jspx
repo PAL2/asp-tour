@@ -1,6 +1,105 @@
-<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
-    <html>
-    <head><title>Greece</title></head>
-    <body>Greece</body>
-    </html>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0"
+          xmlns:c="http://java.sun.com/jsp/jstl/core" xmlns:fmt="http://java.sun.com/jsp/jstl/fmt"
+          xmlns:form="http://www.springframework.org/tags/form"
+          xmlns:sec="http://www.springframework.org/security/tags">
+    <head><title>Греция</title></head>
+    <c:url var="firstUrl" value="/Греция/1"/>
+    <c:url var="lastUrl" value="/Греция/${pages.totalPages}"/>
+    <c:url var="prevUrl" value="/Греция/${currentIndex - 1}"/>
+    <c:url var="nextUrl" value="/Греция/${currentIndex + 1}"/>
+    <div>
+        <sec:authorize access="isAnonymous()">
+            <c:forEach items="${tours}" var="tour">
+                <form:form class="element">
+                    <div class="img_block">
+                        <img src="/asp-tour/tour/${tour.id}" class="img_size"></img>
+                        <div class="offer-price byn">${tour.priceByn}</div>
+                        <div class="offer-price usd">${tour.priceUsd}$</div>
+                    </div>
+                    <a class="offer-title"
+                       href="${pageContext.request.contextPath}/hotels/${tour.country}/${tour.city}/${tour.hotel}">
+                        ${tour.hotel} ${tour.star}*</a>
+                    <div class="offer-options">
+                        <div>${tour.city}</div>
+                        <div>Вылет из Минска</div>
+                        <div>С <fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
+                    </div>
+                    <input type="submit" class="button" value="Оставить заявку"/>
+                </form:form>
+            </c:forEach>
+        </sec:authorize>
+    </div>
+    <sec:authorize access="hasRole('ROLE_ADMIN')">
+        <table>
+            <thead>
+            <tr>
+                <th>Фото</th>
+                <th class="hotel">Отель</th>
+                <th>*</th>
+                <th>Город</th>
+                <th>Дата вылета</th>
+                <th>Ночей</th>
+                <th>Цена $</th>
+                <th>Цена Br</th>
+                <th colspan="2">Действие</th>
+            </tr>
+            </thead>
+            <c:forEach items="${tours}" var="tour">
+                <tbody>
+                <tr>
+                    <td><img src="/asp-tour/tour/${tour.id}" class="img_size_admin"/></td>
+                    <td>
+                        <div class="offer-title">${tour.hotel}</div>
+                    </td>
+                    <td>${tour.star}</td>
+                    <td>${tour.city}</td>
+                    <td><fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/></td>
+                    <td>${tour.duration}</td>
+                    <td>${tour.priceUsd}</td>
+                    <td>${tour.priceByn}</td>
+                    <td>
+                        <a class="button" href="${pageContext.request.contextPath}/admin/${tour.id}?form">Edit</a>
+                    </td>
+                    <td>
+                        <a class="button" href="${pageContext.request.contextPath}/admin/delete/${tour.id}">Delete</a>
+                    </td>
+                </tr>
+                </tbody>
+            </c:forEach>
+        </table>
+    </sec:authorize>
+    <br/>
+    <div class="pagination">
+        <c:choose>
+            <c:when test="${currentIndex == 1}">
+                <a class="button" href="#">&lt;&lt;</a>
+                <a class="button" href="#">&lt;</a>
+            </c:when>
+            <c:otherwise>
+                <a class="button" href="${firstUrl}">&lt;&lt;</a>
+                <a class="button" href="${prevUrl}">&lt;</a>
+            </c:otherwise>
+        </c:choose>
+        <c:forEach var="i" begin="${beginIndex}" end="${endIndex}">
+            <c:url var="pageUrl" value="/Греция/${i}"/>
+            <c:choose>
+                <c:when test="${i == currentIndex}">
+                    <a class="button" href="${pageUrl}"><c:out value="${i}"/></a>
+                </c:when>
+                <c:otherwise>
+                    <a class="button" href="${pageUrl}"><c:out value="${i}"/></a>
+                </c:otherwise>
+            </c:choose>
+        </c:forEach>
+        <c:choose>
+            <c:when test="${currentIndex == pages.totalPages}">
+                <a class="button" href="#">&gt;</a>
+                <a class="button" href="#">&gt;&gt;</a>
+            </c:when>
+            <c:otherwise>
+                <a class="button" href="${nextUrl}">&gt;</a>
+                <a class="button" href="${lastUrl}">&gt;&gt;</a>
+            </c:otherwise>
+        </c:choose>
+    </div>
 </jsp:root>

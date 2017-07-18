@@ -18,7 +18,7 @@
                     </div>
                     <a class="offer-title"
                        href="${pageContext.request.contextPath}/hotels/${tour.country}/${tour.city}/${tour.hotel}">
-                       ${tour.hotel} ${tour.star}*</a>
+                        ${tour.hotel} ${tour.star}*</a>
                     <div class="offer-options">
                         <div>${tour.city}</div>
                         <div>Вылет из Минска</div>
@@ -81,7 +81,7 @@
             </c:otherwise>
         </c:choose>
         <c:forEach var="i" begin="${beginIndex}" end="${endIndex}">
-            <c:url var="pageUrl" value="/egypt/${i}"/>
+            <c:url var="pageUrl" value="/Египет/${i}"/>
             <c:choose>
                 <c:when test="${i == currentIndex}">
                     <a class="button" href="${pageUrl}"><c:out value="${i}"/></a>
