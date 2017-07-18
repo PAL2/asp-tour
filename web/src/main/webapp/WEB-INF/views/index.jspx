@@ -13,7 +13,9 @@
                 <div id="usd" class="offer-price usd">${tour.priceUsd}$</div>
                 <div id="country" class="country">${tour.country}</div>
             </div>
-            <div id="hotel" class="offer-title">${tour.hotel} ${tour.star}*</div>
+            <a class="offer-title"
+               href="${pageContext.request.contextPath}/hotels/${tour.country}/${tour.city}/${tour.hotel}">
+                ${tour.hotel} ${tour.star}*</a>
             <div class="offer-options">
                 <div id="city">${tour.city}</div>
                 <div>Вылет из Минска</div>

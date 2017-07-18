@@ -41,8 +41,8 @@ public class Controller {
     }
 
     @RequestMapping(value = "{country}/{pageNumber}", method = RequestMethod.GET)
-    public String egypt(Model model,@PathVariable String country, @PathVariable int pageNumber) {
-        Page<Tour> pages = tourService.findByCountry("Египет", pageNumber);
+    public String showToursByCountry(Model model, @PathVariable String country, @PathVariable int pageNumber) {
+        Page<Tour> pages = tourService.findByCountry(country, pageNumber);
         List<Tour> tours = pages.getContent();
         int current = pages.getNumber() + 1;
         int begin = Math.max(1, current - 5);
