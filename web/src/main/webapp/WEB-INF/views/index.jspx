@@ -13,7 +13,7 @@
                 <div id="usd" class="offer-price usd">${tour.priceUsd}$</div>
                 <div id="country" class="country">${tour.country}</div>
             </div>
-            <a class="offer-title"
+            <a class="offer-title" id="hotel"
                href="${pageContext.request.contextPath}/hotels/${tour.country}/${tour.city}/${tour.hotel}">
                 ${tour.hotel} ${tour.star}*</a>
             <div class="offer-options">
