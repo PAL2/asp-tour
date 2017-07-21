@@ -39,14 +39,15 @@
     </div>
 </div>
 <script>
-    var country = document.getElementById('country').textContent;
-    var city = document.getElementById('city').textContent;
-    var hotel = document.getElementById('hotel').textContent;
-    var date = document.getElementById('d').textContent;
-    var usd = document.getElementById('usd').textContent;
-    var byn = document.getElementById('byn').textContent;
     var dialog = $(".order-form").dialog({autoOpen: false, height: 600, width: 500, modal: true});
-    $(".button").click(function () {
+    $(".bid").click(function () {
+        var parent = this.parentNode;
+        var country = $(parent).find('.country').valueOf().text();
+        var city = $(parent).find('.city').valueOf().text();
+        var hotel = $(parent).find('.offer-title').valueOf().text();
+        var date = $(parent).find('.d').valueOf().text();
+        var usd = $(parent).find('.usd').valueOf().text();
+        var byn = $(parent).find('.byn').valueOf().text();
         document.getElementById('description').innerHTML = country + ", " + city + ', \r\n' + hotel + ', \r\n' +
                 date + ',\r\n' + usd + ', ' + byn + 'BYN';
         dialog.dialog("open")

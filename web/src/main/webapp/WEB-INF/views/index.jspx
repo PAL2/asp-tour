@@ -9,19 +9,18 @@
         <div class="element">
             <div class="img_block">
                 <img src="/asp-tour/tour/${tour.id}" class="img_size"></img>
-                <div id="byn" class="offer-price byn">${tour.priceByn}</div>
-                <div id="usd" class="offer-price usd">${tour.priceUsd}$</div>
-                <div id="country" class="country">${tour.country}</div>
+                <div class="offer-price byn">${tour.priceByn}</div>
+                <div class="offer-price usd">${tour.priceUsd}$</div>
+                <div class="country">${tour.country}</div>
             </div>
-            <a class="offer-title" id="hotel"
-               href="${pageContext.request.contextPath}/hotels/
+            <a class="offer-title" href="${pageContext.request.contextPath}/hotels/
                ${tour.country}/${tour.city}/${tour.hotel}">${tour.hotel} ${tour.star}*</a>
             <div class="offer-options">
-                <div id="city">${tour.city}</div>
+                <div class="city">${tour.city}</div>
                 <div>Вылет из Минска</div>
-                <div id="d">С <fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
+                <div class="d">С <fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
             </div>
-            <input type="button" class="button" value="Оставить заявку"/>
+            <input type="button" class="button bid" value="Оставить заявку"/>
         </div>
     </c:forEach>
     <form:form class="order-form" modelAttribute="bid">
