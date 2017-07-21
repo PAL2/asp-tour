@@ -9,6 +9,10 @@ body {
     background-size: cover;
 }
 
+span {
+    color: rgb(0, 153, 204);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -44,8 +48,8 @@ blockquote p {
 }
 
 p {
-    line-height: 1.9em;
-    margin-bottom: 20px;
+    line-height: 1.5em;
+    margin-bottom: 10px;
 }
 
 a {
