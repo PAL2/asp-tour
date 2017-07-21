@@ -1,8 +1,55 @@
 <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
     <html>
-    <head><title>Lora</title></head>
+    <head><title>Болгария. Албена. Отель Лора 2**</title></head>
     <body>
-    ЛОРА
+    <h2><span>Албена. Отель Лора 2 звезды</span></h2>
+    <p>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391286.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391293.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391299.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391307.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391311.jpg"/>
+        <br/>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель расположен в 300 метрах от моря, в тихой и спокойной части к.к. Албена.<br/>
+        Рядом с отелем центральное почтовое отделение Албены, дискотека "Горски Цар".<br/>
+        <br/>
+        <span><strong>Описание отеля:</strong></span><br/>
+        Отель располагает 4 этажами и 93 номерами:<br/>
+        ▪ 4 апартаментами (3 комнаты)<br/>
+        ▪ 3 апартаментами (2 комнаты)<br/>
+        <br/>
+        <span><strong>Рестораны и кафе:</strong></span><br/>
+        ▪ ресторан / столовая<br/>
+        ▪ лобби-бар<br/>
+        ▪ дневной бар с летней террасой<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ сейф на рецепции ▪ пункт обмена валюты<br/>
+        ▪ парковка ▪ холл с мягкой мебелью и телевизором<br/>
+        <br/>
+        <span><strong>Спорт и развлечения:</strong></span><br/>
+        Недалеко от отеля: ▪ теннисные корты ▪ боулинг ▪ футбольное поле ▪ конная база<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ Детская площадка<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ Бассейны отелей ".КОМ" и "Ралица"<br/>
+        Зонтики и шезлонги - платно.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        ▪ Пляж песчаный (муниципальный)<br/>
+        Зонтики и шезлонги - платно.<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ ванная комната: душ/WC ▪ балкон ▪ холодильник (доп.плата) ▪ телевизор (доп.плата)<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ основной ресторан (столовая)<br/>
+        Континентальный завтрак<br/>
+    </p>
+
     </body>
     </html>
 </jsp:root>
