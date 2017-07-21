@@ -52,7 +52,14 @@ public class Controller {
         model.addAttribute("beginIndex", begin);
         model.addAttribute("endIndex", end);
         model.addAttribute("currentIndex", current);
+        model.addAttribute("bid", new Bid());
         return country;
+    }
+
+    @RequestMapping(value = "{country}/{pageNumber}", method = RequestMethod.POST)
+    public String saveBid(@ModelAttribute("bid") Bid bid) {
+        bidService.save(bid);
+        return "redirect:/";
     }
 
     @RequestMapping(value = "about", method = RequestMethod.GET)
