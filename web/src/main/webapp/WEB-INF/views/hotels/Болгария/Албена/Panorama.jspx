@@ -1,0 +1,51 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Албена. Отель Панорама 3 звезды</title></head>
+    <body>
+    <h2><span>Албена. Отель Панорама 3 звезды</span></h2>
+    <p>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632381.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632388.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632397.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632401.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632407.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632414.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632423.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632428.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632433.jpg"/>
+        <br/>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель "Panorama" расположен в 350 метрах от моря и 1500 метрах от пляжа к.к. Албена (для гостей отеля по расписанию ходит бесплатный транспорт до пляжа и обратно). От отеля можно очень быстро добраться до мыса Калиакра.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель располагает 150 стандартными номерами (1-2-3 человека), 3 апартаментами (до 4 человек) и 16 двухэтажными апартаментами (мезонетами до 5 человек).<br/>
+        Есть возможность установки дополнительной кровати.<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ основной ресторан "Панорама"<br/>
+        ▪ лобби-бар<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ телевизор<br/>
+        ▪ телефон<br/>
+        ▪ совмещенный санузел: душ/ WC/ раковина<br/>
+        ▪ балкон<br/>
+        ▪ смена белья - 1 раз в неделю<br/>
+        ▪ смена полотенец и уборка - 1 раз в день<br/>
+        ▪ холодильник (за доп.плату)<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ гости отеля пользуются бассейном отеля "Компас" расположенного рядом.<br/>
+        Лежаки и зонтики - доп.плата.<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ парковка<br/>
+        ▪ массажный кабинет<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ информационный стенд<br/>
+        ▪ парковая зона<br/>
+        ▪ пункт обмена валюты<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
