@@ -1,0 +1,47 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Албена. Отель Компас 3***</title></head>
+    <body><h2><span>Албена. Отель Компас 3***</span></h2>
+    <p>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393593.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393598.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393603.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393610.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393616.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393628.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393637.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393642.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393658.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393669.jpg"/>
+        <br/>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель "Kompas" расположен в спокойной и тихой части курорта, на 3 линии, в 650 метрах от моря и 1500 метрах от
+        центра Албены, - в 40 км от аэропорта Варны.<br/>
+        Рядом с отелем есть магазины и торговый центр.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель располагает 3 этажами, 118 двухместными номерами, 5 одноместными номерами, 42 соединяющихся между собой
+        двухместными номерами и 5 студий и несколько апартаментов. Есть возможность установки дополнительное спальное место.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        <u>Во всех номерах (18 кв.м.):</u><br/>
+        ▪ телефон ▪ радио ▪ телевизор с кабельными каналами ▪ балкон ▪ холодильник - доп.плата (рецепция) ▪ сушилка для белья<br/>
+        <u>В апартаментах:</u><br/>
+        ▪ 2 комнаты: спальня и гостиная<br/>
+        ▪ в остальном обставлены так же как и остальные номера<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ массажный кабинет ▪ парковка у отеля ▪ сейф на рецепции ▪ информационный стенд<br/>
+        ▪ парковая зона ▪ пункт обмена валюты<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ дневной бар<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн<br/>
+        ▪ детский бассейн<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
