@@ -1,0 +1,56 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Албена. Отель Алтея 3***</title></head>
+    <body>
+    <h2><span>Албена. Отель Алтея 3***</span></h2>
+    <p>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605502.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605510.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605516.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605522.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605527.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605532.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605546.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605554.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605560.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605564.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605571.jpg"/>
+        <br/>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель "Алтея" (бывшая "Лайпциг") расположена в 850 метрах от пляжа, в непосредственной близости к международному
+        институту "Маастрих" - Албена - в Северо-Западной части курорта. Вокруг отеля раскинулся зеленый парк, а так же
+        множество спортивных и детскийх развлечений, кафе и ресторанчиков с болгарской кухней, дискотек и магазинов.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        В отеле всех ждет приятная и уютная обстановка, современные удобства и отличное обслуживание. Гостиница
+        разделена на три отдельных сектора по 2, 3 и 4 этажа, имеется 1 лифт. В отеле 182 номера и 18 мезонетов.<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ парикмахерская<br/>
+        ▪ магазины<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ стоянка такси<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        <u>Во всех номерах:</u><br/>
+        ▪ балкон<br/>
+        ▪ телефон<br/>
+        ▪ ванная комната: душ / туалет<br/>
+        ▪ телевизор со спутниковыми каналами<br/>
+        ▪ доп.место - раскладное кресло<br/>
+        ▪ холодильник - на прокат (рецепция)<br/>
+        <u>В мезонетах:</u><br/>
+        ▪ 2 комнаты: гостиная и спальня<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с секцией для детей<br/>
+        Шезлонги у бассейна - бесплатно.<br/>
+    </p>
+
+    </body>
+    </html>
+</jsp:root>
