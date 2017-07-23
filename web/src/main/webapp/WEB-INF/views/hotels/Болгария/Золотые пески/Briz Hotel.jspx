@@ -1,0 +1,72 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Золотые Пески. Отель Бриз 3 ***</title></head>
+    <body>
+    <h2><span>Болгария. Золотые Пески. Отель Бриз 3 ***</span></h2>
+    <p>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088556.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088564.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088581.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088605.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088611.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088618.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088632.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088638.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088728.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088743.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088749.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088755.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088762.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088768.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088775.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088783.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088791.jpg"/>
+        <br/>
+        <span><strong>Расположение</strong></span>:<br/>
+        Уютный современный отель "Briz"; расположен среди зелени парка в северной части курорта Золотые пески, в 450
+        метрах от моря, на 50 метров над уровнем моря.<br/>
+        К отелю от пляжа ведет лестница.<br/>
+        На территории отеля "Бриз" работает детский международный лагерь "Бриз" - все лето, для детей от 6-18 лет!!!<br/>
+        <br/>
+        <span><strong>Описание</strong></span>:<br/>
+        В отеле 3 соединенных между собой корпуса по 4 этажа, номерной фонд:<br/>
+        <u>Детский лагерь:</u><br/>
+        ▪ 130 номеров (трехместных и четырехместных)<br/>
+        <u>Отель:</u><br/>
+        ▪ 5 апартаментов с 1 спальней<br/>
+        ▪ 5 апартаментов с 2 спальнями<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ совмещенный санузел / душ ▪ балкон / терраса ▪ телевизор со спутниковыми каналами ▪ телефон ▪ мини-бар
+        ▪ пол - кафель ▪ необходимая мебель: платяной шкаф/ письменный стол/ бра/ стулья/ тумбочки/ зеркало<br/>
+        В апартаментах:<br/>
+        ▪ 2 или 3 комнаты: гостиная и спальня / 2 спальни<br/>
+        ▪ в гостиной: мягкая кожаная мебель/ телевизор/ телефон<br/>
+        ▪ номер оснащен, так же как и стандартный<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ сейф на reception ▪ прокат на reception: холодильник, фен ▪ пункт обмена валюты<br/>
+        ▪ магазин сопутствующих товаров ▪ автомобильная стоянка<br/>
+        <br/>
+        <span><strong>Рестораны/кафе:</strong></span><br/>
+        ▪ основной ресторан с открытой террасой и баром<br/>
+        ▪ лобби-бар с мягкой мебелью и телевизором<br/>
+        ▪ ночной бар<br/>
+        Питание - (BB / HB) для гостей отеля<br/>
+        Питание для детского лагеря - ALL<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с секцией для детей<br/>
+        Лежаки, зонтики и шезлонги - бесплатно.<br/>
+        <br/>
+        <span><strong>Спорт/развлечения:</strong></span><br/>
+        ▪ сауна ▪ тренажерный зал ▪ джакузи ▪ массажный кабинет<br/>
+        <br/>
+        <span><strong>Детям</strong></span>:<br/>
+        ▪ детский лагерь на территории отеля "Бриз" - работает все лето!<br/>
+        ▪ детская игровая площадка<br/>
+        ▪ развлекательная программа в течение дня<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
