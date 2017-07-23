@@ -1,0 +1,82 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Золотые Пески. Отель Варшава 2 **</title></head>
+    <body>
+    <h2><span>Болгария. Золотые Пески. Отель Варшава 2 **</span></h2>
+    <p>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066165.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066176.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066187.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066196.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066210.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066224.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066235.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066248.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066455.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066470.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066481.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/varshava/1301066491.jpg"/>
+        <br/>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель "Varshava" расположен в юго-западной части курорта, в 400 метрах от моря, на 3 пляжной линии, в парковой
+        зоне,- рядом с улицей баров и клубов курорта Золотые Пески. В 5 минутах ходьбы автобусная остановка (регулярные
+        автобусы в Варну). Аквапарк - в 3-5 минутах ходьбы от отеля.<br/>
+        <br/>
+        <span><strong>Описание</strong></span>^<br/>
+        Отель "Варшава" - 2 **, но в 2008 году был построен небольшой новый корпус позиционирующий себя как 3 **,
+        так же в части номеров старого здания был осуществлен капитальный ремонт.<br/>
+        <u>Гостиница насчитывает 2 соединенных между собой корпуса 11 и 7 этажей, 2 лифта:</u><br/>
+        ▪ двухместных номера 2** и 3***<br/>
+        ▪ апартаменты<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        <u>В номерах 2**:</u><br/>
+        телевизор со спутниковыми каналами (за доп.плату)<br/>
+        балкон<br/>
+        холодильник (за доп.плату)<br/>
+        совмещенный санузел: душ / туалет<br/>
+        вентилятор (доп.плата)<br/>
+        детская кроватка (по запросу)<br/>
+        <u>В номерах 3**:</u><br/>
+        телевизор со спутниковыми<br/>
+        телефон<br/>
+        балкон<br/>
+        холодильник<br/>
+        совмещенный санузел: душ / туалет<br/>
+        детская кроватка (по запросу)<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        магазин<br/>
+        сейф на рецепции<br/>
+        пункт обмена валюты<br/>
+        вызов врача<br/>
+        фойе с телевизором и бильярдом<br/>
+        пункт аренды автомобилей<br/>
+        стоянка такси<br/>
+        парковка у отеля<br/>
+        <br/>
+        <span><strong>Рестораны/кафе:</strong></span><br/>
+        основной ресторан<br/>
+        лобби-бар<br/>
+        бар у бассейна<br/>
+        <u>Тип питания</u>: завтраки<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        открытый бассейн<br/>
+        Лежаки, зонты и шезлонги - доп. плата.<br/>
+        <br/>
+        <span><strong>Пляж</strong></span>:<br/>
+        Городской, песчаный пляж в 400 метрах от моря (спуститься по лестнице)<br/>
+        Матрасы, зонты и шезлонги - платно.<br/>
+        <br/>
+        <span><strong>Спорт / Развлечения</strong></span>:<br/>
+        настольный теннис<br/>
+        бильярд<br/>
+        <br/>
+        <span><strong>Детям</strong></span>:<br/>
+        детская комната<br/>
+    </p>
+
+    </body>
+    </html>
+</jsp:root>

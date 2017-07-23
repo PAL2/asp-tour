@@ -1,0 +1,54 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <body>
+    <h2><span>Кранево. Отель Кристел Парк 3 ***</span></h2>
+    <p>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409848.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409854.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409860.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409865.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409870.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409876.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409883.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409897.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409903.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409907.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409911.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409916.jpg"/>
+        <br/>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель "Кристел Парк" расположен в самом центре курортного комплекса Кранево, в нескольких минутах ходьбы от
+        пляжа (500 метров). Рядом с отелем множество магазинов, ресторанов, баров, дискотек.<br/>
+        <br/>
+        <span><strong>Описание отеля:</strong></span><br/>
+        Открылся в 2001 году, здание располагает 4 этажами с 95 номерами (двухместные и одноместные стандартные номера,
+        апартаменты).<br/>
+        В стандартных двухместных номерах предусмотрено дополнительное место - раскладное кресло.<br/>
+        Апартаменты рассчитаны от 2-х до 5 человек и состоят из гостиной и спальни.<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ телефон ▪ спутниковое телевидение (российский канал) ▪ совмещенный санузел: душ/туалет ▪ дополнительное место
+        (кресло) ▪ холодильник (апартаменты или за доп.плату) ▪ балкон<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ медицинский кабинет ▪ сейф на рецепции ▪ пункт обмена валюты<br/>
+        <br/>
+        <span><strong>Рестораны/кафе:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар<br/>
+        ▪ бар у бассейна<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с секцией для детей<br/>
+        Зонтики, шезлонги - за доп.плату.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        ▪ Городской, песчаный пляж в 500 метрах от отеля.<br/>
+        Зонтики, шезлонги - платно.<br/>
+        <br/>
+        <span><strong>Спорт/развлечения:</strong></span><br/>
+        ▪ массаж ▪ сауна ▪ тренажерный зал</p>
+    </body>
+    </html>
+</jsp:root>
