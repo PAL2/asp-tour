@@ -1,0 +1,91 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Отель Поморие 3 звезды.</title></head>
+    <body>
+    <h2>Отель Поморие 3 звезды. Солнечный Берег. Болгария</h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627274.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627278.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627283.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627288.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627291.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627296.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627306.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627311.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627318.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627324.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627329.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627334.jpg"/>
+    <br/>
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Поморие" (Pomorie) расположен на 1 пляжной линии, рядом с песчаными дюнами, в 70 м от моря (нужно перейти дорогу и дюны).
+        Рядом расположен отели "Fenix", "Жерави", "Европа". На пляже несколько баров, бассейн, детские горки, дискоетка.
+        Рядом с отелем большой супер-маркет.<br/>
+        <u>Расстояние:</u><br/>
+        ▪ до центра Солнечного Берега - 1,3 км;<br/>
+        ▪ до пляжа - 70 метров;<br/>
+        ▪ до аэропорта Бургаса - 25,5 км;<br/>
+        ▪ до центра Бургаса - 35 км;<br/>
+        ▪ до Старого Несебра - 5 км.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель "Поморие" (Pomorie) представляет собой 2 шестиэтажных корпуса, лифты.<br/>
+        <u>Отель располагает:</u><br/>
+        ▪ 308 двухместными номерами (~ 15 кв.м., макс. 2+1 чел.);<br/>
+        ▪ 31 номерами studio (~24 кв.м., макс. 2+2 чел.).<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ балкон;<br/>
+        ▪ телефон;<br/>
+        ▪ телевизор;<br/>
+        ▪ совмещенный санузел: душ / раковина / туалет;<br/>
+        ▪ одна двуспальная или 2 односпальные кровати;<br/>
+        ▪ дополнительное место - раскладное кресло или диван в studio;<br/>
+        ▪ пол - ковровое покрытие.<br/>
+        <strong><span><em>P.S. Кондиционеров и фенов в номерах нет</em>!!!</span></strong><br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ сейф на рецепции;<br/>
+        ▪ салон красоты / парикмахерская;<br/>
+        ▪ пункт обмена валюты;<br/>
+        ▪ мини-маркет;<br/>
+        ▪ прачечная / химчистка.<br/>
+        <br/>
+        <span><strong>Рестораны, кафе:</strong></span><br/>
+        ▪ основной ресторан;<br/>
+        ▪ лобби-бар;<br/>
+        ▪ бар у бассейна;<br/>
+        <u>Система питания: All Inclusive</u><br/>
+        ▪ Завтрак - с 7:30 до 10:00<br/>
+        ▪ обед -; 12:30-14:30<br/>
+        ▪ ужин - 18:30-21:00<br/>
+        - питание шведский стол в главном ресторане;<br/>
+        - местные напитки, включая разливное пиво, вино, безалкогольные и алкогольные напитки можно заказать с едой в
+        главном ресторане и лобби-баре с 11:00 до 23:00;<br/>
+        - кофе, чай - закуски, блины, пироги, фрукты и мороженое между приемами пищи (10.30 до 12.00 15 до 17.30) доступны в баре;<br/>
+        - за дополнительную плату: напитки иностранного производства, местные и импортные напитки и питание после 23:00.<br/>
+        <br/>
+        <span><strong>Развлечения и спорт:</strong></span><br/>
+        ▪ анимационная программа для взрослых и детей днем / вечером - 6 дней в неделю;<br/>
+        ▪ амфитеатр для проведения вечерних развлекательных программ;<br/>
+        ▪ бильярд;<br/>
+        ▪ настольный теннис;<br/>
+        ▪ пляжный волейбол.<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ отделение в бассейне;<br/>
+        ▪ детская игровая комната;<br/>
+        ▪ детский клуб - в отеле "Fenix";<br/>
+        ▪ детские водные горки на пляже.<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ открытый бассейн с секцией для детей;<br/>
+        ▪ детский бассейн;<br/>
+        ▪ шезлонги и зонты - бесплатно.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        ▪ городской песчаный пляж с пологим входом в море;<br/>
+        ▪ шезлонги и зонты - платно.</p>
+
+    </body>
+    </html>
+</jsp:root>
