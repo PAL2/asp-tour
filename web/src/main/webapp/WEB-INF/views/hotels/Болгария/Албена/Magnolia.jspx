@@ -1,0 +1,75 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Албена. Отель Магнолия 3***</title></head>
+    <body>
+    <h2><span>Албена. Отель Магнолия 3***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395298.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395303.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395307.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395313.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395320.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395331.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395336.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395342.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395347.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395355.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395359.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395365.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395378.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение</strong></span>:<br/>
+        Недавно реконструированный (2004) отель Расположен в верхней,<br/>
+        северной части курорта, на 3 линии, в 500 метрах от пляжа. Бывший отель "Звезда".<br/>
+        <br/>
+        <span><strong>Описание отеля:</strong></span><br/>
+        Очень приятный отель, расположенный в живописном месте. По отзывам туристов<br/>
+        - отель полностью соответствует своей категории и даже превосходит ее.<br/>
+        Доброжелательный персонал, невысокие цены, ухоженный парк.<br/>
+        Здание отеля насчитывает 5 этажей и 200 номеров single, double, triple) в которых 390 мест.<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ центральное кондиционирование ▪ балкон ▪ душ / туалет<br/>
+        ▪ спутниковое телевидение ▪ телефон ▪ холодильник (за доп. плату)<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ пункт обмена валюты ▪ сейф на reception ▪ Прокат машин ▪ Дискотека ▪ Информационный коктейль ▪ парковка на 30 машин<br/>
+        ▪ Регулярный транспорт на автобусе: Орхидея - Добротица - Орхидея - бесплатно<br/>
+        ▪ Аренда автомобилей<br/>
+        <br/>
+        <span><strong>Рестораны/кафе:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ ресторан a la carte<br/>
+        ▪ лобби-бар<br/>
+        ▪ бар при бассейне<br/>
+        ▪ снэк-бар<br/>
+        <strong>Работает по системе "Все включено".</strong><br/>
+        Завтрак - шведский стол - с 07.00 ч. до 10.00 ч.<br/>
+        Обед, включающий болгарские напитки - с 11.00 ч. до 15.00 ч. - пицца, гамбургер, хот-дог с гарниром в баре
+        при бассейне и с 12.00 ч. до 14.00 ч. - шведский стол в ресторане.<br/>
+        Чай, кофе, мороженое и пирожное с 10.00 до 16.00 в баре при бассейне.<br/>
+        Ужин - шведский стол в ресторане с 18.00 ч. до 21.00 ч.<br/>
+        Бесплатные напитки в баре - с 11.00 ч. до 23.00 ч. - болгарские напитки - вино, пиво, безалкогольные напитки;
+        с 11.00 ч. до 23.00 ч. болгарские алкогольные напитки типа ракии, коньяка, ликера.<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн<br/>
+        ▪ детский бассейн<br/>
+        Зонтики и шезлонги - бесплатно.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Городской, песочный<br/>
+        Зонтики, лежаки и шезлонги - платно.<br/>
+        <br/>
+        <span><strong>Специально для детей:</strong></span><br/>
+        ▪ детская площадка<br/>
+        <br/>
+        <span><strong>Спорт/развлечения:</strong></span><br/>
+        ▪ бадминтон ▪ настольный теннис ▪ стрельба из лука ▪ мини-футбол ▪ виндсерфинг ▪ пляжный волейбол ▪ шоу-программы
+        ▪ танцы ▪ фольклорные вечера ▪ конкурсы на открытом воздухе ▪ теннисный корт ▪ школа парашютистов
+        ▪ школа виндсерфинга ▪ прокат водных велосипедов / водных бананов / горных велосипедов ▪ дартс ▪ шахматы ▪ бильярд<br/>
+    </p>
+
+    </body>
+    </html>
+</jsp:root>
