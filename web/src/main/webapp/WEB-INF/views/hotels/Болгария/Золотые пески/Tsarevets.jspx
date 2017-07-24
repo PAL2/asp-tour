@@ -1,0 +1,100 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Отель-лагерь "Царевец" 2 звезды. Болгария. Золотые Пески.</title></head>
+    <body>
+    <h1><span>Отель-лагерь "Царевец" 2 звезды. Болгария. Золотые Пески.</span></h1>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287514.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287516.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287519.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287521.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287525.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287528.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287530.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287532.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287552.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287576.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287585.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287593.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287598.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287603.jpg"/>
+    <br/>
+
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Царевец" расположен в южной части курорта Золотые Пески, на 3 пляжной линии, в ~400 метрах от моря.
+        Рядом с отелем распложены основные развлекательные комплексы курорта: бары, дискотеки, рестораны, магазины и др.
+        До "Улицы Баров" - 150 метров. С 2013 года, отель переориентирован на прием детских групп.
+    </p>
+
+    <p><span><strong>Описание:</strong></span><br/>
+        С 2013 года на территории лагеря размещается детский международный лагерь "Царевец"<br/>
+        Один основной корпус, насчитывает 12 этажей включая рецепцию, 138 номеров (трехместные и четырехместные).
+        Последняя реконструкция проходила 2012-2013 гг.
+    </p>
+
+    <p><span><strong>На территории:</strong></span></p>
+
+    <ul>
+        <li>маленький открытый бассейн перед отелем, а также около бассейна небольшая территория с зонтиками и лежаками</li>
+        <li>пристройка к основному ресторану в виде летней открытой террасы</li>
+        <li>новая, мультифункциональная площадка для волейбола, мини-футбола, тенниса, а так же место для проведения
+            анимационных и развлекательных программ в стиле амфитеатра</li>
+        <li>обновление лобби-бара</li>
+        <li>обновление внешнего вида отеля</li>
+        <li>во всех номерах будут <u>кондеционеры и мини-холодильники</u></li>
+        <li>парковка рядом с отелем</li>
+    </ul>
+
+    <p><span><strong>Питание:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар</p>
+
+    <p>
+        <strong>Питание</strong>: ALL INCLUSIVE (завтрак, обед, полдник, ужин) сок и вода в ресторане во время питания,
+        а также стоит кулер с водой возле рецепции - питьевая вода будет доступна круглосуточно.
+    </p>
+
+    <ul>
+        <li>
+            <u>На завтрак</u>: выпечка, молочные продукты, колбасы,салаты, фрукты, десерты, напитки
+            (какао,чай, фруктовые напитки, вода);
+        </li>
+        <li>
+            <u>На обед:</u> салаты, горячие и холодные закуски,супы, основные месные и постные блюда,гарниры, фрукты и
+            десерты, напитки (чай, фруктовые напитки, вода);
+        </li>
+        <li><u>На полдник</u>: салаты, выпечка, пица, жареная колбаска, напитки (чай, фруктовые напитки, вода);
+        </li>
+        <li>
+            <u>На ужин:</u>салаты, основные месные и постные блюда, гарниры, запеченое мясо, фрукты и десерты, напитки
+            (чай, фруктовые напитки, вода);На поздний ужин: горячий и холодный супы с гренками.
+        </li>
+    </ul>
+
+    <p><span><strong>В номерах:</strong></span><br/>
+        ▪ 3-4 раздельные кровати<br/>
+        ▪ прикроватные тумбочки<br/>
+        ▪ шкаф, совмещенный санузел: душ / раковина<br/>
+        ▪ балкон<br/>
+        ▪ телевизор<br/>
+        ▪ кондиционер<br/>
+        ▪ мини-холодильник<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Городской песчаный пляж, в 400 метрах от отеля.<br/>
+        Зонтики и шезлонги - платно.<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с детской секцией, шезлонги и зонты бесплатно.</p>
+
+    <p><span><strong>Анимация:</strong></span></p>
+
+    <p>Международный молодежный центр "Царевец" приглашает активную, творческую и позитивно мыслящую молодёжь провести
+        летние каникулы. Тёплый песок болгарского побережья, ласковое море и всепоглощающая атмосфера ночных клубов не
+        оставит равнодушными взрослых, а прекрасные условия для детишек будут радовать самых маленьких все каникулы.
+        Небольшая уютная территория отельного комплекса располагает к быстрому знакомству всей отдыхающих здесь.
+        Анимационная программа составлена с учётом возрастных особенностей отдыхающих детей и включает в себя
+        развлекательные и спортивные мероприятия.</p>
+
+    </body>
+    </html>
+</jsp:root>
