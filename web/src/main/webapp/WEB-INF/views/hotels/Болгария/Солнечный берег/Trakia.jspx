@@ -1,0 +1,85 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный берег. Отель Тракия 3 звезды.</title></head>
+    <body>
+    <h1>Отель Тракия 3 звезды. Солнечный Берег. Болгария</h1>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963121.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963126.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963131.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963137.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963143.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963148.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963155.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963175.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963183.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963188.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963193.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963200.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963209.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963220.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963227.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963235.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963243.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963252.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963260.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963292.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963300.jpg"/>
+    <br/>
+
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Тракия" расположен в южной части к.к. Солнечный Берег, в 500 метрах от центра, на главной улице курорта.
+        До моря - 250 метров. В непосредственной близости - автобусная остановка (можно доехать до Несебра или Бургаса),
+        а так же магазины, рестораны, бары.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель "Trakia" был построен в 2003 году, в 2006 был полностью реконструирован.<br/>
+        Представляет собой основное здание с 2 крыльями, с 3 и 4 этажами, в окружении зелени и цветов.<br/>
+        <u>Располагает</u>:<br/>
+        ▪ 182 стандартными номерами<br/>
+        ▪ 3 апартаментами "студии"<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ 2 раздельные кровати или 1 двуспальная кровать<br/>
+        ▪ кондиционер<br/>
+        ▪ совмещенный санузел: душ / раковина / туалет<br/>
+        ▪ телефон<br/>
+        ▪ телевизор с кабельными каналами<br/>
+        ▪ мини-бар в холодильнике<br/>
+        ▪ 24 часовое обслуживание номеров<br/>
+        ▪ доп.место - раскладной диванчик<br/>
+        ▪ балкон<br/>
+        <span><u>В апартаментах:</u></span><br/>
+        ▪ спальня<br/>
+        ▪ холл с кухонным боксом и мягкой мебелью и кухонным столом<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ прокат велосипедов<br/>
+        ▪ доступ к интернету<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ парковка рядомс с отелем<br/>
+        ▪ интернет в холле<br/>
+        ▪ прачечная / химчистка<br/>
+        ▪ банкомат<br/>
+        ▪ бильярд<br/>
+        ▪ тренажерный зал<br/>
+        ▪ сауна<br/>
+        <br/>
+        <span><strong>Рестораны, кафе:</strong></span><br/>
+        ▪ основной ресторан с открытой террасой<br/>
+        ▪ бар в холле<br/>
+        ▪ бар у бассейна<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ 2 открытыйх бассейна с секцииями для детей<br/>
+        ▪ 2 водные горки<br/>
+        Шезлонги и зонты бесплатно<br/>
+        <br/>
+        <span><strong>Пляж</strong></span>:<br/>
+        Песчаный городской пляж.<br/>
+        Шезлонги и зонты - платно.<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>

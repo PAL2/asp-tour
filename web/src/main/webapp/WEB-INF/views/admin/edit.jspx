@@ -8,10 +8,10 @@
             <input type="file" name="file"/>
             <label for="country">Страна: </label>
             <form:input path="country" id="country"/>
-            <label for="priceByn">Цена, руб.:</label>
-            <form:input path="priceByn" id="priceByn"/>
             <label for="priceUsd">Цена, $:</label>
             <form:input path="priceUsd" id="priceUsd"/>
+            <label for="priceByn">Цена, руб.:</label>
+            <form:input path="priceByn" id="priceByn"/>
             <label for="hotel">Отель:</label>
             <form:textarea rows="2" path="hotel" id="hotel"/>
             <label for="star">Категория:</label>
