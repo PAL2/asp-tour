@@ -1,0 +1,77 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Албена. Отель КОМ 3 ***</title></head>
+    <body>
+    <h2><span>Албена. Отель КОМ 3 ***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610575.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610582.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610589.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610594.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610601.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610607.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610611.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610616.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610621.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610627.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610633.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610642.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610652.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610657.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610663.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610673.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610679.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610685.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610691.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span>
+        <br/>
+        Отель находится в северо-западной части курорта на 3 линии, не давно реконструирован, в 1 км от пляжа.
+        Для удобства гостей есть бесплатный автобус до пляжа, который ходит каждые 30 минут с 9.30 до 17.00 ч. во время сезона.<br/>
+        <br/>
+        <span><strong>Описание отеля:</strong></span><br/>
+        Ком - замечательный оазис уюта и комфорта.<br/>
+        Номерной фонд:<br/>
+        ▪ 20 одноместных номеров,<br/>
+        ▪ 191 двухместных номеров<br/>
+        ▪ 22 семейных номера<br/>
+        ▪ 91 вилл<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ спутниковое TV ▪ телефон ▪ плиточный пол ▪ санузел с душем ▪ балкон<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ пункт обмена валюты ▪ сейф у рецепции ▪ прокат авто ▪ сувенирные магазины ▪ интернет кафе
+        ▪ информационный стенд ▪ почтовое отделение ▪ парковка ▪ дискотека<br/>
+        <br/>
+        <span><strong>Рестораны/кафе:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар<br/>
+        ▪ шницель-бар<br/>
+        ▪ дневной бар<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ Открытый бассейн с секцией для детей<br/>
+        Лежаки и зонтики - бесплатно.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Городской, песочный, в 1050 метрах от отеля.<br/>
+        Зонтики, лежаки и шезлонги - платно.<br/>
+        <br/>
+        <span><strong>Специально для детей:</strong></span><br/>
+        ▪ детская спортивная анимация<br/>
+        ▪ детская площадка<br/>
+        ▪ за доп. плату услуги няни<br/>
+        ▪ кинотеатр со сценой<br/>
+        <br/>
+        <span><strong>Спорт/развлечения:</strong></span><br/>
+        ▪ настольный теннис ▪ дартс ▪ пляжный волейбол и футбол ▪ аква-аэробика ▪ аэробика ▪ бадминтон ▪ баскетбол
+        ▪ скейт-площадка и скейт-трасса ▪ shuttle-bus до пляжа ▪ школа тенниса ▪ дельтапланер ▪ школа серфинга
+        ▪ верховая езда ▪ велосипеды ▪ волейбол<br/>
+        <br/>
+        <strong><span>Питание:</span></strong> ALL INCLUSIVE<br/>
+        <strong>Размещение с животными:</strong> да<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
