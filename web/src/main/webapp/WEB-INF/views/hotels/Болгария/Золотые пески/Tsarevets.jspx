@@ -2,7 +2,7 @@
     <html>
     <head><title>Отель-лагерь "Царевец" 2 звезды. Болгария. Золотые Пески.</title></head>
     <body>
-    <h1><span>Отель-лагерь "Царевец" 2 звезды. Болгария. Золотые Пески.</span></h1>
+    <h2><span>Отель-лагерь "Царевец" 2 звезды. Болгария. Золотые Пески.</span></h2>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287514.jpg"/>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287516.jpg"/>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287519.jpg"/>

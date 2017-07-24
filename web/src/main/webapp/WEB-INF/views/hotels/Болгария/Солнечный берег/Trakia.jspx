@@ -2,7 +2,7 @@
     <html>
     <head><title>Болгария. Солнечный берег. Отель Тракия 3 звезды.</title></head>
     <body>
-    <h1>Отель Тракия 3 звезды. Солнечный Берег. Болгария</h1>
+    <h2>Отель Тракия 3 звезды. Солнечный Берег. Болгария</h2>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963121.jpg"/>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963126.jpg"/>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963131.jpg"/>
