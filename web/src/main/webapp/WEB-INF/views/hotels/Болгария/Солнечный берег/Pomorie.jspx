@@ -2,7 +2,7 @@
     <html>
     <head><title>Болгария. Солнечный Берег. Отель Поморие 3 звезды.</title></head>
     <body>
-    <h2>Отель Поморие 3 звезды. Солнечный Берег. Болгария</h2>
+    <h2><span>Отель Поморие 3 звезды. Солнечный Берег. Болгария</span></h2>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627274.jpg"/>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627278.jpg"/>
     <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627283.jpg"/>
@@ -85,7 +85,6 @@
         <span><strong>Пляж:</strong></span><br/>
         ▪ городской песчаный пляж с пологим входом в море;<br/>
         ▪ шезлонги и зонты - платно.</p>
-
     </body>
     </html>
 </jsp:root>

@@ -1,0 +1,88 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Отель Тракия Плаза 4 звезды</title></head>
+    <body>
+    <h2><span>Отель Тракия Плаза 4 звезды. Солнечный Берег. Болгария</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488181.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488187.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488191.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488201.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488207.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488212.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488216.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488230.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488234.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488241.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488246.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488250.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488255.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488260.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488266.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488270.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488275.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488280.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488287.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488293.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488299.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488309.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia%20plaza/1336488314.jpg"/>
+    <br/>
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Trakia Plaza" раположен в центральной части Солнечный Берег, до основных развлечений курорта
+        - 5 минут ходьбы, до пляжа - 250 метров.<br/>
+        Рядом отели - "Тракия" и "Байкал".<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Здание отеля имеет уникальную форму корабля.<br/>
+        Отель "Trakia Plaza" был открыт в 2003 году, располагает 9 этажами и размещение в 171 комфорально оборудованных номерах:<br/>
+        ▪ стандартные номера (макс. 2+1);<br/>
+        ▪ номера "studio" (макс. 2+2);<br/>
+        ▪ 2 апартамента: с 1 спальней и с 2 спальнями.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ 2 одноместные кровати или 1 двухместная;<br/>
+        ▪ раскладной диван - доп. место;<br/>
+        ▪ совмещенный санузел: душ / туалет / раковина / фен;<br/>
+        ▪ балкон;<br/>
+        ▪ телевизор со спутниковыми каналами;<br/>
+        ▪ центральный кондиционер;<br/>
+        ▪ мини-бар в холодильнике;<br/>
+        ▪ телефон;<br/>
+        <u>В апартаментах:</u><br/>
+        ▪ спальня + гостиная;<br/>
+        ▪ в гостиной: мягкая мебель, обеденный стол, раскладной диван, ЖК телевизор, в ванной комнате - ванна.<br/>
+        <br/>
+        <span><strong>Рестораны, бары:</strong></span><br/>
+        ▪ ресторан "Чучура" - национальный Болгарский ресторан на 400 мест, с зеленым садом где еще 80 мест.<br/>
+        Этот ресторан был открыт еще в 1963 году (самый старый ресторан на Солнечном Берегу), был полностью
+        отремонтирован в 1990 и 2008 годах.<br/>
+        ▪ лобби-бар с открытой террасой;<br/>
+        ▪ мезанин бар;<br/>
+        ▪ бар у бассейна.<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ интернет зал и wi-fi;<br/>
+        ▪ магазин;<br/>
+        ▪ кабинет врача;<br/>
+        ▪ салон красоты;<br/>
+        ▪ пункт обмена валюты;<br/>
+        ▪ парикмахерская;<br/>
+        ▪ сейф на рецепции.<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ открытый бассейн с секциями для детей;<br/>
+        ▪ 2 детские водяные горки;<br/>
+        ▪ шезлонги и зонты - бесплатно.<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ детские секции в открытом бассейне с горками;<br/>
+        ▪ детская игровая площадка;<br/>
+        ▪ мини-клуб.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        ▪песчаный пляж в 250 метрах от отеля (городской).<br/>
+        ▪зонты и шезлонги - платно.<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
