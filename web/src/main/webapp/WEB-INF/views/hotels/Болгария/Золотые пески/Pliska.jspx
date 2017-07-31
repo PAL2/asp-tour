@@ -1,0 +1,76 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Золотые Пески. Отель Плиска 3 звезды.</title></head>
+    <body>
+    <h2><span>Отель Плиска 3 звезды. Золотые Пески. Болгария.</span>
+    </h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143170.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143175.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143179.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143186.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143189.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143207.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143211.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143214.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143218.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143225.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143229.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143232.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143237.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143244.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143248.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143252.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143254.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143258.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143263.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143266.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/pliska/1362143271.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Размещение:</strong></span><br/>
+        Отель "Плиска" (Pliska) расположен в южной части курорта Золотые пески, в 300 метрах от моря и между оживленным
+        центром курорта, с его ресторанами, барами, клубами, магазинами и закрытого клубного отеля "Ривьера".<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Здание отеля насчитывает 10 этажей, работает круглый год.<br/>
+        <u>Отель располагает:</u><br/>
+        ▪ 142 двухместными номерами<br/>
+        ▪ 6 одноместными номерами<br/>
+        ▪ несколько апартаментов и фамильными номерами<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ индивидуальный кондиционер<br/>
+        ▪ телефон<br/>
+        ▪ холодильник<br/>
+        ▪ телевизор с кабельными каналами<br/>
+        ▪ балкон<br/>
+        ▪ совмещенный санузел: душ / раковина / туалет<br/>
+        <br/>
+        <span><strong>Рестораны, бары:</strong></span><br/>
+        ▪ основной ресторан на 150 мест с панорамной террасой у бассейна на 80 мест<br/>
+        ▪ ресторан барбекью рядом с бассейном<br/>
+        ▪ бар у басейна на 60 мест<br/>
+        ▪ лобби бар на 60 мест и террасой<br/>
+        ▪ кафе-кондитерская на 50 мест<br/>
+        ▪ бар на дискотеке<br/>
+        <br/>
+        <span><strong>Услуги отеля:</strong></span><br/>
+        ▪ массажный кабинет<br/>
+        ▪ сауна<br/>
+        ▪ тангеторная ванна<br/>
+        ▪ тренажерный зал<br/>
+        ▪ условия для проведения свадебных торжеств, конференций, семинаров, презентаций - конференц-зал на 60 сидячих
+        мест с кондиционерами, мультимедийным проектором,экраном, доской, дополнительной техникой<br/>
+        ▪ дискотека<br/>
+        ▪ натольный теннис<br/>
+        ▪ бильярд<br/>
+        ▪ детская игровая площадка<br/>
+        ▪ 2 магазина<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ открытый бассейн с детской секцией<br/>
+        ▪ закрытый бассейн с подогревом<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
