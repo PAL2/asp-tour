@@ -1,0 +1,113 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный берег. Отель Континенталь</title></head>
+    <body>
+    <h2>
+        <span>Отель Континенталь (корпуса: 2 звезды, 3 звезды, Континенталь Парк 3 звезды +). Солнечный Берег. Болгария</span>
+    </h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651592.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651612.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651617.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651633.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651638.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651646.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651654.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651657.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651673.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651679.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651684.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651688.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651692.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651696.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651702.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651705.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651712.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651716.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651720.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651723.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651727.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651731.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651764.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651769.jpg"/>
+    <br/>
+    <p><span><strong>Расположение:</strong></span><br/>
+        Гостинечный комплекс "Континенталь" расположен в южной части к.к. Солнечный Берег, в 300 м от пляжа (перейти песчаные дюны)<br/>
+        <u>Расстояния:</u><br/>
+        ▪ до пляжа - 300 м<br/>
+        ▪ до центра Солнечного Берега - 1,8 км<br/>
+        ▪ до аэропорта Бургаса - 25 км<br/>
+        ▪ до центра Бургаса - 34 км<br/>
+        ▪ до Старого Несебра - 4 км<br/>
+        <br/>
+        <strong><span>Описание:</span></strong><br/>
+        Комплекс "Континенталь" включает в себя три корпуса 2**, 3*** и Континенталь Парк 3***+.<br/>
+        Последняя реконструкция была в 2003 году.<br/>
+        Территория комплекса и инфраструктура - общая.<br/>
+        <u>Общее количество номеров:</u><br/>
+        ▪ 400 двухместных номеров<br/>
+        ▪ 3 апартамета<br/>
+        ▪ 1 президентский апартамент<br/>
+        <br/>
+        <u><strong>В номерах:</strong></u><br/>
+        <span>В корпусе 2**</span><br/>
+        ▪ 2 отдельные кровати<br/>
+        ▪ дополнительное место - кресло раскладное для детей до 12 лет<br/>
+        ▪ балкон<br/>
+        ▪ совмещенный санузел: душ / раковина / туалет<br/>
+        ▪ аренда вентилятора - на рецепции (при наличии)<br/>
+        <span><em>P.S. Холодильника. Кондиционера, телевизора, фена - в корпусе 2** - нет!</em></span><br/>
+        <span>В корпусе 3***</span><br/>
+        ▪ 2 отдельные кровати<br/>
+        ▪ дополнительное место - кресло раскладное<br/>
+        ▪ центральный кондиционер<br/>
+        ▪ телевизор<br/>
+        ▪ телефон<br/>
+        ▪ мини-холодильник<br/>
+        ▪ совмещенный санузел: душ / раковина / туалет / фен<br/>
+        <span>В корпусе 3***+</span><br/>
+        ▪ 2 отдельные кровати<br/>
+        ▪ дополнительное место - кресло раскладное<br/>
+        ▪ центральный кондиционер<br/>
+        ▪ телевизор<br/>
+        ▪ телефон<br/>
+        ▪ мини-холодильник<br/>
+        ▪ совмещенный санузел: душ / раковина / туалет / фен<br/>
+        ▪ сейф - (доп.плата)<br/>
+        ▪ мини-бар в мини-холодильнике<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ конференц-зал<br/>
+        ▪ парикмахерская<br/>
+        ▪ массажист<br/>
+        <br/>
+        <strong><span>Рестораны, бары:</span></strong><br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар<br/>
+        ▪ бар у бассейна<br/>
+        <u>Типы патания</u>: BB (завтраки), HB (завтрак + ужин), ALL Inclusive (все включено)<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ большой открытый бассейн<br/>
+        ▪ детский бассейн с 1 маленькой горкой<br/>
+        Шезлонги и зонты - бесплатно.<br/>
+        <br/>
+        <span><strong>Развлечения и спорт:</strong></span><br/>
+        ▪ рядом с отелем - теннисный корт<br/>
+        ▪ на пляже - водные виды спорта и развлечения<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ детская анимация в течение дня<br/>
+        ▪ детская игровая площадка<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Городской песчаный пляж с пологим входом в море - 300 метров.<br/>
+        Шезлонги и зонты - платно.<br/>
+        <br/>
+        <strong>Заселение:</strong> в 14:00<br/>
+        <strong>Освобождение номеров:</strong> - 12:00<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
