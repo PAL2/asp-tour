@@ -1,0 +1,72 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Отель Байкал 3 звезды.</title></head>
+    <body>
+    <h2><span>Отель Байкал 3 звезды. Солнечный Берег. Болгария</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818769.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818775.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818786.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818802.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818827.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818831.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818839.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818844.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818853.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818866.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818875.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818891.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818897.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335818904.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819178.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819184.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819190.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819201.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819211.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819219.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819232.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819242.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819252.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819259.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819266.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819274.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/baikal/1335819293.jpg"/>
+    <br/>
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Байкал" расположен в южной части комплекса "Солнечный берег", недалеко от центра. Один из самых
+        популярных отелей данной категории. Рядом с отелем множество ресторанов, баров, клубов и магазинов.<br/>
+        До моря - 5 минут пешком.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель был полностью реконструирован в 2003/2004 г., располагает 200 стандартными номерами 3* и 3*+
+        (с кондиционером на верхних этажах и без него - на нижних), а так же семейными номерами.<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ бюро обмена валюты<br/>
+        ▪ магазины<br/>
+        ▪ парковка<br/>
+        ▪ сейф (платно)<br/>
+        <br/>
+        <span><strong>В номерах</strong></span><br/>
+        ▪ балкон с пластиковыми стульями и столом<br/>
+        ▪ раскладное кресло - доп.место<br/>
+        ▪ телевизор<br/>
+        ▪ совмещенный санузел: раковина / душ / фен<br/>
+        ▪ пол - керамическая плитка<br/>
+        <u>В апартаментах:</u><br/>
+        ▪ мягкая мебель<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар<br/>
+        ▪ бар-барбекю у бассейна<br/>
+        <br/>
+        <span><strong>Спорт и досуг</strong></span><br/>
+        ▪ настольный теннис<br/>
+        ▪ бильярд<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с секцией для детей<br/>
+        Зонты и шезлонги - бесплатно.</p>
+    </body>
+    </html>
+</jsp:root>

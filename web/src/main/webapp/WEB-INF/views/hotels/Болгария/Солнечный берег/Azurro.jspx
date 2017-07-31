@@ -1,0 +1,73 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Отель Азуро 3 звезды.</title></head>
+    <body>
+    <h2><span>Отель Азуро 3 звезды. Солнечный Берег. Болгария</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611576.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611581.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611585.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611590.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611596.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611604.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611611.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611619.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611628.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611637.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611643.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611651.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/azurro/1337611657.jpg"/>
+    <br/>
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Азуро" расположен в самом центре к.к. Солнечный Берег.<br/>
+        <u>Расстояния</u>:<br/>
+        ▪ до пляжа - 100 метров (через дорогу)<br/>
+        ▪ до аэропорта Бургаса - 25 км<br/>
+        ▪ до центра Бургаса - 35 км (ходит рейсовый автобус)<br/>
+        ▪ до Несебра - 5 км<br/>
+        ▪ до аэропорта Варны - 90 км<br/>
+        Недалеко от отеля супермаркет, популярный диско-клуб "Lazur", дискотека "Планета", и другие.<br/>
+        <br/>
+        <span><strong>Описание</strong></span>:<br/>
+        Отель "Azurro" располагает 3 этажами и номерным фондом:<br/>
+        ▪ 108 стандартных номеров<br/>
+        ▪ 8 апартаментов<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ кондиционер<br/>
+        ▪ телевизор с кабельными каналами<br/>
+        ▪ мини-бар в холодильнике<br/>
+        ▪ телефон<br/>
+        ▪ балкон<br/>
+        ▪ совмещенный санузел с ванной или душем / раковина / туалет / фен (по запросу на рецепции)<br/>
+        ▪ уборка номеров - ежедневно<br/>
+        ▪ смена белья - 1 раз в неделю<br/>
+        <br/>
+        <span><strong>Питание</strong></span>:<br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ сейф на рецепции<br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ бильярд<br/>
+        ▪ фитнес-зал<br/>
+        ▪ тренажерный зал<br/>
+        ▪ интернет<br/>
+        ▪ теннисный корт рядом с отелем<br/>
+        ▪ парковка<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ рядом с отелем открытый бассейн с секцией для детей<br/>
+        Шезлонги и зонты - бесплатно.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Песчаный пляж с пологим входом (городской) в 100 метрах от отеля.<br/>
+        Шезлонги и зонты - платно.<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ секция для детей в бассейне<br/>
+        ▪ небольшая детская игровая площадка<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>

@@ -1,0 +1,68 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Золотые Пески. Отель Блю Скай 3 ***</title></head>
+    <body>
+    <h2>
+        <span>Болгария. Золотые Пески. Отель Блю Скай 3 ***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020091.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020103.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020110.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020118.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020122.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020131.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020139.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020145.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020152.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020159.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020169.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020176.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020183.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020195.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020202.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span>
+        <br/>
+        Отель "Blue Sky" расположен в спокойном, тихом месте, на 3 курортной линии, в 350-400 метрах от пляжа
+        (10 минут пешком до моря по лестнице вниз), рядом с отелем "Плиска". До развлекательного центра курорта 10-15
+        минут ходьбы, до улицы баров - 5-7 минут.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель "Блю Скай" был полностью отремонтирован в 2005-2007 гг., располагает 4 этажами и 77 номерами:<br/>
+        ▪ стандартные одноместные номера (12-16 кв.м)<br/>
+        ▪ стандартные двухместные номера (12-16 кв.м., макс. 2+1)<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ 1 двуспальная или 2 односпальные кровати<br/>
+        ▪ раскладное кресло - доп.место<br/>
+        ▪ телевизор со спутниковыми каналами<br/>
+        ▪ балкон / терраса: стол, 2 стула, сушилка для белья<br/>
+        ▪ пол - ковровое покрытие<br/>
+        ▪ ванная комната: ванна или душ / туалет / раковина / зеркало<br/>
+        ▪ индивидуальный кондиционер<br/>
+        ▪ мини-бар<br/>
+        <br/>
+        <strong><span>Бассейн:</span></strong><br/>
+        ▪ открытый бассейн (20 кв.м.) с секцией для детей<br/>
+        Шезлонги - для гостей отеля б/п.<br/>
+        <br/>
+        <span><strong>Рестораны, бары:</strong></span><br/>
+        ▪ основной ресторан (питание - шведский стол)<br/>
+        ▪ лобби-бар в холле<br/>
+        ▪ бар у бассейна<br/>
+        Отель работает по системе: All Inclusive:<br/>
+        ▪ Завтрак, обед, ужин<br/>
+        ▪ Безалкогольные напитки и болгарский алкоголь с 15:00-22:00 часов.<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ сейф на рецепции (доп.плата)<br/>
+        ▪ холл с ТВ<br/>
+        ▪ интернет-терминалы (продажа карт на рецепции)<br/>
+        ▪ рядом с отелем - парковка<br/>
+        ▪ настольный теннис<br/>
+        ▪ на рецепции по запросу: детская кроватка, детский стульчик для кормления<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
