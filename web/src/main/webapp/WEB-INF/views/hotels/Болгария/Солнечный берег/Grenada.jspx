@@ -1,0 +1,98 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Отель Гренада 4 звезды</title></head>
+    <body>
+    <h2><span>Отель Гренада 4 звезды. Солнечный Берег. Болгария</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793222.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793228.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793234.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793238.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793245.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793249.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793254.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793260.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793265.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793273.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793278.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/grenada/1335793284.jpg"/>
+    <br/>
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Grenada" расположен в южной части Солнечного Берега, рядом с уникальным природным образованием - дюнами,
+        на 2 пляжной линии курорта. Отель находится в спокойном месте, до центра Солнечного берега 15-20 минут пешком,
+        так же можно доехать на мини-поезде за 3 минуты.<br/>
+        До аэропорта Бургаса - 35 км<br/>
+        До центра Солнечного Берега - 3,5 км.<br/>
+        До центра Несебра- 1,5 км<br/>
+        До пляжа - 150 метров</p>
+
+    <p><span><strong>Описание:</strong></span><br/>
+        Отель "Grenada" построен в современном стиле, интерьер - в пастельных тонах, располагает 6 этажами и 175 номерами:<br/>
+        ▪ 80 стандартных двухместных номеров (макс. 2+1)<br/>
+        ▪ 60 апартаментов с 1 спальней (36 кв.м, макс. 2+2)<br/>
+        ▪ 32 апартамента с 2 спальнями (до 95 кв.м., макс. 4+2)<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        <u>Во всех номерах:</u><br/>
+        ▪ двуспальная кровать в стандартных номерах + дополнительная кровать<br/>
+        ▪ телевизор с кабельными каналами<br/>
+        ▪ кондиционер<br/>
+        ▪ мини-бар<br/>
+        ▪ телефон<br/>
+        ▪ балкон<br/>
+        ▪ интернет<br/>
+        ▪ холодильник с мини-баром (не во всех номерах)<br/>
+        ▪ совмещенный санузел: душевая кабина / раковина / фен<br/>
+        ▪ в большинстве номеров есть балконы с панорамным видом на море<br/>
+        <u>В апартаментах:</u><br/>
+        ▪ гостиная совмещеная с кухней<br/>
+        ▪ облорудованный кухонный бокс: чайник, кофеварка, набор необходимой посуды, холодильник, тостер, вытяжка, плита или СВЧ<br/>
+        ▪ в гостиной: раскладно диван (на 2х чел.), телевизор, журнальный столик<br/>
+        ▪ в спальне: двуспальная кровать или 2 односпальные кровати<br/>
+        ▪ балкон<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ магазин<br/>
+        ▪ фитнес-клуб<br/>
+        ▪ парикмахерская<br/>
+        ▪ массажный салон<br/>
+        ▪ интернет-кафе<br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ комната хранения багажа<br/>
+        ▪ охраняемая парковка на 29 автомобилей (платно)<br/>
+        ▪ wi-fi интернет (~ 10 левов в сутки, 5 левов за час)<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ игровая комната для детей<br/>
+        <br/>
+        <span><strong>Рестораны:</strong></span><br/>
+        ▪ основной ресторан на 120 мест + открытая терраса у бассейна на 100 мест<br/>
+        ▪ пиццерия<br/>
+        ▪ лобби-бар<br/>
+        ▪ бар у бассейна<br/>
+        Отель работает по системе: BB (завтраки), HB (завтрак + ужин):<br/>
+        - Завтрак: с 8:00 до 10:00<br/>
+        - Ужин: 18:00 вечера до 21:45<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ открытый бассейн<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ бизнес-центр<br/>
+        ▪ конференц-зал<br/>
+        ▪ интернет<br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ парикмахерская<br/>
+        ▪ магазины / супермаркет<br/>
+        ▪ парковка<br/>
+        ▪ массажный кабинет<br/>
+        ▪ бильярд</p>
+
+    <p><span><strong>Пляж:</strong></span><br/>
+        Пляж муниципальный - песчаный, в 100 метрах от отеля.<br/>
+        Зонты и шезлонги - доп.плата.<br/>
+    </p>
+
+    </body>
+    </html>
+</jsp:root>
