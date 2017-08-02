@@ -1,0 +1,91 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <body>
+    <h2><span>Болгария. Золотые Пески. Отель Славей (Slavey) 4****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275454.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275460.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275469.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275474.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275478.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275482.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275489.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275496.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275501.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275507.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275513.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275518.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275522.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275881.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/slavey/1337275887.jpg"/>
+    <br/>
+    <p>
+        <strong><span>Расположение:</span></strong><br/>
+        Отель "Славей" (Slavey) расположен в центральной части курорта Золотые Пески, на побережье Черного моря. Отель
+        окружает зеленый парк. Расстояние до пляжа примерно 250-300 м. До центра курорта всего 700 метров с его
+        ресторанами, барами, клубами и магазинами.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель был построен в 2009 году.<br/>
+        <u>Располагает:</u><br/>
+        ▪ 156 номерами на двоих<br/>
+        ▪ 65 расширенными номерами на двоих<br/>
+        ▪ 12 студиями с индивидуальным кондиционером<br/>
+        Кондиционерами оснащены места общественного пользования и заведения общественного питания.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ 2 кровати (twin или king size)<br/>
+        ▪ балкон<br/>
+        ▪ индивидуальный кондиционер<br/>
+        ▪ дополнительное место - раскладной диванчик<br/>
+        ▪ ванная комната: раковина / душевая кабина / фен<br/>
+        <br/>
+        <span><strong>Бары и рестораны:</strong></span><br/>
+        ▪ <u>Основной ресторан </u>на 200 мест в помещении и 100 мест на открытой террасе ресторана.<br/>
+        Разнообразие фирменных блюд болгарской и европейской кухни удовлетворит самый изысканный вкус. Для любителей
+        здорового питания предлагается изобилие свежих овощей и фруктов. "Show cooking" по время основных приемов пищи.<br/>
+        ▪
+        <u>A-la-Carte ресторан</u> с болгарской и европейской кухней, бронирование осуществляется на рецепции до 11
+        часов предыдущего дня.<br/>
+        ▪
+        <u>Лобби-бар</u> открыт круглосуточно. Предлагает разнообразие местных алкогольных и безалкогольных напитков.
+        Напиток на солнечной террасе лобби-бара с видом на море надолго зарядит Вас положительными эмоциями.<br/>
+        ▪
+        <u>Снек бар </u>предлагает завтрак любителям поспать допоздна. Для тех, кто любит поесть около бассейна,
+        предлагаются пиццы, картофель, сандвичи, кондитерские изделия и мороженое.<br/>
+        <br/>
+        <span><strong>В программу All Inclusive (все включено) входит:</strong></span><br/>
+        ▪ бассейн<br/>
+        ▪ шезлонги и зонт (на номер) у бассейна, полотенца<br/>
+        ▪ шведский стол (завтрак, обед, ужин)<br/>
+        ▪ легкая закуска - 10:00-17:00<br/>
+        ▪ болгарские алкогольные и безалкогольные напитки - 10:30-23:00<br/>
+        ▪ бар у бассейна 10.00-21.00<br/>
+        ▪ ресторан с выбором блюд по меню 19.00-21.00, 1 раз в неделю (по запросу)<br/>
+        ▪ аэробика, настольный теннис, дротики, футбол на пляже, воллейбол на пляже<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ сейф на рецепции<br/>
+        ▪ интернет<br/>
+        ▪ бильярд<br/>
+        ▪ химчистка / прачечная<br/>
+        <br/>
+        <span><strong>Спорт и отдых:</strong></span><br/>
+        ▪ фитнес-зал<br/>
+        ▪ игровая площадка для волейбола и мини-футбола<br/>
+        ▪ настольный теннис<br/>
+        ▪ анимационные программы: аква-аэробика, водная гимнастика<br/>
+        ▪ джакузи / сауна / массажный кабинет<br/>
+        ▪ бильярд<br/>
+        <br/>
+        <span><strong>Для детей:</strong></span><br/>
+        ▪ дневные и вечерние занятия с детьми<br/>
+        ▪ детский сад.<br/>
+        ▪ детская анимационная программа<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ открытый бассейн с секцией для детей<br/>
+        Шезлонги и зонтики - б/платно.</p>
+    </body>
+    </html>
+</jsp:root>
