@@ -1,0 +1,101 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Золотые Пески. Отель Перла 3 ***</title></head>
+    <body>
+    <h2><span>Болгария. Золотые Пески. Отель Перла 3 ***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061109.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061116.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061121.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061126.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061133.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061141.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061148.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061154.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061164.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061176.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061184.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061191.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061215.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061223.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061240.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061249.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/perla/1338061257.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение</strong></span>:<br/>
+        Отель "Perla" расположен на 2 линии курорта, в западной части курорта, в 200-300 метрах от пляжа, на территории
+        красивого парка. Рядом расположена автобусная остановка (до Варны).<br/>
+        Поблизости механа "Кошарата" с национальной кухней и программами, ресторан "Гаванна", магазины, боулинг, банк,
+        стоянка такси. На пляже - водные мотоциклы, парашюты, детские аттракционы, водные горки.<br/>
+        <br/>
+        <span><strong>Описание</strong></span>:<br/>
+        Отель насчитывает 7 этажей, 2 лифта, был реконструирован в 2005 году и предлагает великолепные условия для семейного отдыха.<br/>
+        <u> Располагает 212 номерами:</u><br/>
+        192 номера (макс. 2+1 чел.)<br/>
+        20 фамильных номеров (2 стандартные номера с межкомнатной дверью, макс. 4 чел.).<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ центральный кондиционер<br/>
+        ▪ спутниковое TV<br/>
+        ▪ мини-бар<br/>
+        ▪ телефон<br/>
+        ▪ радио<br/>
+        ▪ санузел с душем/ванной<br/>
+        ▪ балкон<br/>
+        ▪ пол - ковровое покрытие или ламинат<br/>
+        ▪ уборка номера - ежедневно<br/>
+        ▪ смена белья - 3 раза в неделю<br/>
+        ▪ смена полотенец - 3 раза в неделю<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ магазин (продукты)<br/>
+        ▪ обмен валюты<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ room-service 24<br/>
+        ▪ парковка<br/>
+        ▪ аренда машин<br/>
+        ▪ банкомат<br/>
+        ▪ прачечная / химчистка<br/>
+        ▪ медицинский центр<br/>
+        ▪ комната отдыха с телевизором и мягкой мебелью<br/>
+        ▪ казино<br/>
+        ▪ интернет-зал 24 часа<br/>
+        <br/>
+        <span><strong>Рестораны / кафе:</strong></span><br/>
+        ресторан "Перла" с открытой террасой и барбекю, живой музыкой<br/>
+        кафе-бар<br/>
+        летний бар у бассейна<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        открытый бассейн с детской секцией<br/>
+        Зонтики, шезлонги - доп.плата.<br/>
+        <br/>
+        <span><strong>Пляж</strong></span><br/>
+        Городской песчаный пляж в 300 метрах от отеля.<br/>
+        Зонтики, шезлонги - платно.<br/>
+        <br/>
+        <span><strong>Спорт / развлечения</strong></span><br/>
+        джакузи<br/>
+        сауна<br/>
+        настольный теннис<br/>
+        бильярд<br/>
+        солярий<br/>
+        тренажерный зал <br/>
+        спортивная площадка<br/>
+        <br/>
+        <span><strong>Здоровье:</strong></span><br/>
+        Отель "Перла" предлагает широкий выбор услуг в собственном SPA-центре: массажи, косметологические процедуры,
+        расслабляющие и оздоровительные программы.<br/>
+        <br/>
+        <span><strong>Детям</strong></span><br/>
+        ▪ детский мини-клуб с аниматором<br/>
+        ▪ детская кроватка (за доп. плату)<br/>
+        ▪ детский стульчик для кормления<br/>
+        ▪ детский бассейн<br/>
+        ▪ детская площадка<br/>
+        ▪ услуги няни (под запрос - платно)<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
