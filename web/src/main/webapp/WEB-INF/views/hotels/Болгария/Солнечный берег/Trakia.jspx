@@ -3,29 +3,28 @@
     <head><title>Болгария. Солнечный берег. Отель Тракия 3 звезды.</title></head>
     <body>
     <h2>Отель Тракия 3 звезды. Солнечный Берег. Болгария</h2>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963121.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963126.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963131.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963137.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963143.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963148.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963155.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963175.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963183.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963188.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963193.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963200.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963209.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963220.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963227.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963235.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963243.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963252.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963260.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963292.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/trakia/1337963300.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963121.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963126.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963131.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963137.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963143.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963148.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963155.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963175.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963183.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963188.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963193.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963200.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963209.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963220.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963227.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963235.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963243.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963252.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963260.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963292.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/trakia/1337963300.jpg"/>
     <br/>
-
     <p><span><strong>Расположение:</strong></span><br/>
         Отель "Тракия" расположен в южной части к.к. Солнечный Берег, в 500 метрах от центра, на главной улице курорта.
         До моря - 250 метров. В непосредственной близости - автобусная остановка (можно доехать до Несебра или Бургаса),

@@ -3,18 +3,18 @@
     <head><title>Болгария. Солнечный Берег. Отель Поморие 3 звезды.</title></head>
     <body>
     <h2><span>Отель Поморие 3 звезды. Солнечный Берег. Болгария</span></h2>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627274.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627278.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627283.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627288.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627291.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627296.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627306.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627311.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627318.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627324.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627329.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/pomorie/1359627334.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627274.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627278.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627283.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627288.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627291.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627296.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627306.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627311.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627318.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627324.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627329.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/pomorie/1359627334.jpg"/>
     <br/>
     <p><span><strong>Расположение:</strong></span><br/>
         Отель "Поморие" (Pomorie) расположен на 1 пляжной линии, рядом с песчаными дюнами, в 70 м от моря (нужно перейти дорогу и дюны).

@@ -4,15 +4,15 @@
     <body>
     <h2><span>Албена. Отель Панорама 3 звезды</span></h2>
     <p>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632381.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632388.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632397.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632401.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632407.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632414.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632423.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632428.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/panorama/1274632433.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632381.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632388.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632397.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632401.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632407.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632414.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632423.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632428.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/panorama/1274632433.jpg"/>
         <br/>
         <span><strong>Расположение:</strong></span><br/>
         Отель "Panorama" расположен в 350 метрах от моря и 1500 метрах от пляжа к.к. Албена (для гостей отеля по расписанию ходит бесплатный транспорт до пляжа и обратно). От отеля можно очень быстро добраться до мыса Калиакра.<br/>

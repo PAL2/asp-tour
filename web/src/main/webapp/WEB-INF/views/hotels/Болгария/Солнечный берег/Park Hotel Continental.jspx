@@ -5,30 +5,30 @@
     <h2>
         <span>Отель Континенталь (корпуса: 2 звезды, 3 звезды, Континенталь Парк 3 звезды +). Солнечный Берег. Болгария</span>
     </h2>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651592.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651612.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651617.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651633.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651638.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651646.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651654.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651657.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651673.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651679.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651684.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651688.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651692.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651696.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651702.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651705.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651712.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651716.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651720.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651723.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651727.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651731.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651764.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651769.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651592.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651612.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651617.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651633.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651638.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651646.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651654.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651657.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651673.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651679.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651684.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651688.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651692.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651696.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651702.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651705.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651712.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651716.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651720.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651723.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651727.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651731.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651764.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/park%20hotel%20continental/1359651769.jpg"/>
     <br/>
     <p><span><strong>Расположение:</strong></span><br/>
         Гостинечный комплекс "Континенталь" расположен в южной части к.к. Солнечный Берег, в 300 м от пляжа (перейти песчаные дюны)<br/>

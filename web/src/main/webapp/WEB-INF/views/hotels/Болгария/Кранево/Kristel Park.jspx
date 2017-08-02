@@ -4,18 +4,18 @@
     <body>
     <h2><span>Кранево. Отель Кристел Парк 3 ***</span></h2>
     <p>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409848.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409854.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409860.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409865.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409870.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409876.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409883.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409897.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409903.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409907.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409911.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/kranevo/kristel%20park/1273409916.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409848.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409854.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409860.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409865.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409870.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409876.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409883.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409897.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409903.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409907.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409911.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/kranevo/kristel%20park/1273409916.jpg"/>
         <br/>
         <span><strong>Расположение:</strong></span><br/>
         Отель "Кристел Парк" расположен в самом центре курортного комплекса Кранево, в нескольких минутах ходьбы от

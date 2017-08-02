@@ -4,21 +4,21 @@
     <body>
     <h2>
         <span>Болгария. Золотые Пески. Отель Блю Скай 3 ***</span></h2>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020091.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020103.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020110.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020118.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020122.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020131.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020139.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020145.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020152.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020159.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020169.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020176.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020183.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020195.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/blue%20sky/1307020202.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020091.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020103.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020110.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020118.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020122.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020131.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020139.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020145.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020152.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020159.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020169.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020176.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020183.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020195.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/blue%20sky/1307020202.jpg"/>
     <br/>
     <p>
         <span><strong>Расположение:</strong></span>

@@ -4,23 +4,23 @@
     <body>
     <h2><span>Болгария. Золотые Пески. Отель Бриз 3 ***</span></h2>
     <p>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088556.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088564.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088581.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088605.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088611.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088618.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088632.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088638.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088728.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088743.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088749.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088755.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088762.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088768.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088775.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088783.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/briz%20hotel/1297088791.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088556.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088564.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088581.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088605.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088611.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088618.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088632.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088638.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088728.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088743.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088749.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088755.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088762.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088768.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088775.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088783.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/briz%20hotel/1297088791.jpg"/>
         <br/>
         <span><strong>Расположение</strong></span>:<br/>
         Уютный современный отель "Briz"; расположен среди зелени парка в северной части курорта Золотые пески, в 450

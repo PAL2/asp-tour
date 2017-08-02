@@ -1,15 +1,14 @@
-
 <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
     <html>
     <head><title>Болгария. Албена. Отель Лора 2 звезды</title></head>
     <body>
     <h2><span>Албена. Отель Лора 2 звезды</span></h2>
     <p>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391286.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391293.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391299.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391307.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/lora/1274391311.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/lora/1274391286.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/lora/1274391293.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/lora/1274391299.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/lora/1274391307.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/lora/1274391311.jpg"/>
         <br/>
         <span><strong>Расположение:</strong></span><br/>
         Отель расположен в 300 метрах от моря, в тихой и спокойной части к.к. Албена.<br/>

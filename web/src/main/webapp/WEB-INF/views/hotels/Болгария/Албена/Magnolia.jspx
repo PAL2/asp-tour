@@ -3,19 +3,19 @@
     <head><title>Болгария. Албена. Отель Магнолия 3***</title></head>
     <body>
     <h2><span>Албена. Отель Магнолия 3***</span></h2>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395298.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395303.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395307.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395313.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395320.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395331.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395336.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395342.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395347.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395355.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395359.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395365.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/magnolia/1274395378.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395298.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395303.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395307.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395313.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395320.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395331.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395336.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395342.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395347.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395355.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395359.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395365.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/magnolia/1274395378.jpg"/>
     <br/>
     <p>
         <span><strong>Расположение</strong></span>:<br/>
@@ -69,7 +69,6 @@
         ▪ танцы ▪ фольклорные вечера ▪ конкурсы на открытом воздухе ▪ теннисный корт ▪ школа парашютистов
         ▪ школа виндсерфинга ▪ прокат водных велосипедов / водных бананов / горных велосипедов ▪ дартс ▪ шахматы ▪ бильярд<br/>
     </p>
-
     </body>
     </html>
 </jsp:root>

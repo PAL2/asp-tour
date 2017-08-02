@@ -3,20 +3,20 @@
     <head><title>Отель-лагерь "Царевец" 2 звезды. Болгария. Золотые Пески.</title></head>
     <body>
     <h2><span>Отель-лагерь "Царевец" 2 звезды. Болгария. Золотые Пески.</span></h2>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287514.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287516.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287519.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287521.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287525.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287528.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287530.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287532.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287552.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287576.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287585.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287593.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287598.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/golden%20sands/tsarevets/1425287603.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287514.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287516.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287519.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287521.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287525.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287528.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287530.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287532.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287552.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287576.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287585.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287593.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287598.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/golden%20sands/tsarevets/1425287603.jpg"/>
     <br/>
 
     <p><span><strong>Расположение:</strong></span><br/>
@@ -94,7 +94,6 @@
         Небольшая уютная территория отельного комплекса располагает к быстрому знакомству всей отдыхающих здесь.
         Анимационная программа составлена с учётом возрастных особенностей отдыхающих детей и включает в себя
         развлекательные и спортивные мероприятия.</p>
-
     </body>
     </html>
 </jsp:root>

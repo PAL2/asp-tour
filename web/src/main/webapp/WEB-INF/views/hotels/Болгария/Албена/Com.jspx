@@ -3,25 +3,25 @@
     <head><title>Болгария. Албена. Отель КОМ 3 ***</title></head>
     <body>
     <h2><span>Албена. Отель КОМ 3 ***</span></h2>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610575.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610582.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610589.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610594.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610601.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610607.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610611.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610616.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610621.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610627.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610633.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610642.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610652.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610657.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610663.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610673.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610679.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610685.jpg"/>
-    <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/com/1273610691.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610575.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610582.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610589.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610594.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610601.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610607.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610611.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610616.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610621.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610627.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610633.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610642.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610652.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610657.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610663.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610673.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610679.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610685.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/com/1273610691.jpg"/>
     <br/>
     <p>
         <span><strong>Расположение:</strong></span>

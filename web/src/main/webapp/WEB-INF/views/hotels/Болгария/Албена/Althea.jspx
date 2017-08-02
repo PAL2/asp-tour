@@ -4,17 +4,17 @@
     <body>
     <h2><span>Албена. Отель Алтея 3***</span></h2>
     <p>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605502.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605510.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605516.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605522.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605527.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605532.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605546.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605554.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605560.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605564.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/althea/1273605571.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605502.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605510.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605516.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605522.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605527.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605532.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605546.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605554.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605560.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605564.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/althea/1273605571.jpg"/>
         <br/>
         <span><strong>Расположение:</strong></span><br/>
         Отель "Алтея" (бывшая "Лайпциг") расположена в 850 метрах от пляжа, в непосредственной близости к международному

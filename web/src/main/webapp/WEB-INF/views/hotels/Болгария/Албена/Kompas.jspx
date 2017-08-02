@@ -3,16 +3,16 @@
     <head><title>Болгария. Албена. Отель Компас 3***</title></head>
     <body><h2><span>Албена. Отель Компас 3***</span></h2>
     <p>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393593.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393598.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393603.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393610.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393616.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393628.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393637.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393642.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393658.jpg"/>
-        <img src="${pageContext.request.contextPath}/resources/images/photogallery/countries/bulgary/albena/kompas/1274393669.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393593.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393598.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393603.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393610.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393616.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393628.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393637.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393642.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393658.jpg"/>
+        <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/albena/kompas/1274393669.jpg"/>
         <br/>
         <span><strong>Расположение:</strong></span><br/>
         Отель "Kompas" расположен в спокойной и тихой части курорта, на 3 линии, в 650 метрах от моря и 1500 метрах от
