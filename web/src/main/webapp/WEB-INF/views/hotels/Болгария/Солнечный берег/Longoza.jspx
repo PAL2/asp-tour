@@ -1,0 +1,99 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Лонгоза 4 звезды.</title></head>
+    <body>
+    <h2><span>Лонгоза 4 звезды. Солнечный Берег. Болгария</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632356.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632362.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632367.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632373.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632377.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632382.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632387.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632403.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632409.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632414.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632418.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632427.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/longoza/1490632442.jpg"/>
+    <br/>
+    <p>От отеля до пляжа - всего 3 минуты. До центра курорта Солнечный берег - примерно 2 км. Пляж Какао находится в
+        600 метрах от отеля. в 50 м от отеля - автобусная остановка, откуда ходят автобусы в Несебр. Аквапарк
+        "Санни Бич" находится в 4 км от отеля. Отель работает по системе "All Inclusive" В отеле 167 номеров.</p>
+
+    <p><strong>В номере - двухместный номер с 2 отдельными кроватями (для 2 взрослых и 1 ребенка):</strong><br/>
+        - 2 отдельные кровти<br/>
+        - балкон;<br/>
+        - телевизор со спутниковыми каналами;<br/>
+        - телефон;<br/>
+        - кондиционер;<br/>
+        - диван;<br/>
+        - плиточный или мраморный пол;<br/>
+        - москитная сетка;<br/>
+        - шкаф или гардероб;<br/>
+        - душ;<br/>
+        - фен;<br/>
+        - туалетные принадлежности;<br/>
+        - туалет;<br/>
+        - ванная комната;<br/>
+        - полотенца;<br/>
+        - белье.<br/>
+        Общая площадь номера - 20м2.</p>
+
+    <p><strong>В номере - двухместный номер с 2 отдельными кроватями:</strong><br/>
+        - 2 отдельные кровати;<br/>
+        - диван;<br/>
+        - кондиционер;<br/>
+        - балкон;<br/>
+        - телевизор со спутниковыми каналами;<br/>
+        - плиточный или мраморный пол;<br/>
+        - москитная сетка;<br/>
+        - шкаф или гардероб;&nbsp;<br/>
+        - ванная комната;<br/>
+        - душ;<br/>
+        - туалет;<br/>
+        - фен;<br/>
+        - туалетные принадлежности;<br/>
+        - полотенца;<br/>
+        белье.<br/>
+        Общая площадь номера - 20м2.</p>
+
+    <p><strong>В номере - трехместный номер (для 3 взрослых):</strong><br/>
+        - балкон;<br/>
+        - телевизор со спутниковыми каналами;<br/>
+        - кондиционер;<br/>
+        - рабочий стол;<br/>
+        - гостиный уголок;<br/>
+        - диван;<br/>
+        - плиточный или мраморный пол;<br/>
+        - москитная сетка;<br/>
+        - шкаф или гардероб;<br/>
+        - ваннная комната;<br/>
+        - душ;<br/>
+        - фен;<br/>
+        - туалет;<br/>
+        - туалетные принадлежности;<br/>
+        - полотенца;<br/>
+        - белье.</p>
+
+    <p><strong>Рестораны/кафе:</strong><br/>
+        - ресторан;<br/>
+        - пивной сад.</p>
+
+    <p><strong>Развлечения:</strong><br/>
+        - крытый плавтельный бассейн;<br/>
+        - открытый плавательный бассейн;<br/>
+        - бильярд;<br/>
+        - настольный теннис;<br/>
+        - анимационные программы 6 раз в неделю.</p>
+
+    <p><strong>Прочие услуги:</strong><br/>
+        - русскоговорящий персонал;<br/>
+        - массаж;<br/>
+        - фитнес-центр;<br/>
+        - парковка;<br/>
+        - Wi-Fi.</p>
+
+    </body>
+    </html>
+</jsp:root>
