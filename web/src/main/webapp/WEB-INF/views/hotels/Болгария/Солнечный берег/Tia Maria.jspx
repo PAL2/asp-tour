@@ -1,0 +1,64 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Отель Тиа Мария 3 звезды.</title></head>
+    <body>
+    <h2><span>Отель Тиа Мария 3 звезды. Солнечный Берег. Болгария</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375258882.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259046.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259049.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259054.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259060.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259063.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259067.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259072.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259075.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259080.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259085.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259091.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259098.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259103.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/tia%20maria/1375259107.jpg"/>
+    <br/>
+    <p><span><strong>Расположение:</strong></span><br/>
+        Отель "Тиа Мария" расположен в юго-западной части курорта, в оживленном месте, в 30 метрах от центральной дороги,
+        проходящей через курорт. Рядом с отелем рестораны, кафе, магазины, супермаркет, автобусная оставновка и др.<br/>
+        <u>Расстояния:</u><br/>
+        ▪ до моря - 350-400 метров<br/>
+        ▪ до центра Солнечного Берега - 500-800 метров<br/>
+        ▪ до аэропорта Бургаса - 30 км<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель "Tia Maria" был открыт в 2006 году, каждый год в отеле проводится косметический ремонт.<br/>
+        Располагает 124 стандартными номерами.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ кондиционер<br/>
+        ▪ совмещенный санузел: душ / раковина / туалет / фен<br/>
+        ▪ телевизор<br/>
+        ▪ холодильник<br/>
+        ▪ 2 раздельные или соединенные кровати<br/>
+        ▪ доп.место - раскладное кресло<br/>
+        ▪ пол - ковролин<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн<br/>
+        Шезлонги и зонты у бассейна.<br/>
+        <br/>
+        <span><strong>Рестораны, кафе</strong></span>:<br/>
+        ▪ основной ресторан<br/>
+        ▪ лобби-бар<br/>
+        <br/>
+        <span><strong>Дополнительные услуги отеля:</strong></span><br/>
+        ▪ интернет в общественных местах<br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ комната хранения багажа<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ оздоровительный центр: массаж, лечебные процедуры, сауна, тренажерный зал<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Песчаный пляж в 350-400 метрах от отеля, пологий вход в море.<br/>
+        Шезлонги и зонты - платно.<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
