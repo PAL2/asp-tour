@@ -1,0 +1,128 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Болгария. Солнечный Берег. Отель Планета 4 звезды</title></head>
+    <body>
+    <h2><span>Отель Планета 4 звезды. Солнечный Берег. Болгария</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791460.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791473.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791480.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791492.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791499.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791534.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791542.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791557.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791566.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791571.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791585.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791591.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791600.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791606.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791615.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791621.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791626.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791633.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791637.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791643.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791650.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791663.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791688.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791697.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791702.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791709.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791716.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791722.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791728.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/bulgary/sunny%20beach/planeta/1335791734.jpg"/>
+    <br/>
+    <p><span><strong>Расположение</strong></span>:<br/>
+        Отель "Planeta" расположн на 2 пляжной линии, в 150 метрах от пляжа.<br/>
+        ▪ До аэропорта Бургаса - 40 км.<br/>
+        ▪ До Несебра - 5 км<br/>
+        ▪ До пляжа - 100 метров<br/>
+        <br/>
+        <span><strong>Описание</strong></span>:<br/>
+        В отеле "Планета" последний ремонт был проведен в 2010 году.<br/>
+        Располагает 10 этажами, 8 лифтами.<br/>
+        <u>Номерной фонд:</u><br/>
+        ▪ 346 двухместных номеров (37 кв.м., боковой вид на море)<br/>
+        ▪ 63 двухместных расширенных номера (48 кв.м.)<br/>
+        ▪ 28 семейных номеров "family" (60 кв.м.)<br/>
+        ▪ 42 номера "studio"<br/>
+        ▪ 63 апартаментов "Junior" (60 кв.м., спальня + гостиная)<br/>
+        ▪ 7 больших апартаментов (2 спальни + гостиная)<br/>
+        Предусмотрены номера для людей с ограниченными возможностями.<br/>
+        <br/>
+        <strong><span>В номерах:</span></strong><br/>
+        <u>Во всех номерах:</u><br/>
+        ▪ 2 отдельные кровати<br/>
+        ▪ доп.спальное место - раскладной диван<br/>
+        ▪ кондиционер<br/>
+        ▪ телевизор со спутниковыми каналами<br/>
+        ▪ холодильник<br/>
+        ▪ сейф (доп.оплата)<br/>
+        ▪ балкон / сушилка для белья<br/>
+        ▪ ванная комната: ванна или душевая кабина / фен<br/>
+        <u>В апартаментах:</u><br/>
+        ▪ спальня (или 2 спальни) + гостиная с мягкой мебелью<br/>
+        ▪ в спальне - 2 отдельные кровати<br/>
+        ▪ доп.место - раскладной диван<br/>
+        ▪ интернет<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ банкомат<br/>
+        ▪ WI-FI (в фойе - доп.оплата)<br/>
+        ▪ парковка (доп.оплата)<br/>
+        ▪ круглосуточная охрана<br/>
+        ▪ химчистка / прачечная<br/>
+        ▪ пункт аренда автомобиля<br/>
+        ▪ 3 конференц-зала (на 60, 80, 350 мест)<br/>
+        ▪ возможность оплаты кредитными картами<br/>
+        ▪ услуги - для людей с ограниченными возможностями<br/>
+        ▪ сейф на рецепции<br/>
+        ▪ парикмахерская / салон красоты<br/>
+        ▪ врач - по вызову<br/>
+        <br/>
+        <span><strong>Рестораны, кафе:</strong></span><br/>
+        ▪ основной ресторан с террасой на 850 мест<br/>
+        ▪ бар у бассейна на 100 мест<br/>
+        ▪ лобби бар в холле отеля<br/>
+        ▪ панорманый бар на крыше отеля<br/>
+        ▪ ресторан a la carte<br/>
+        Тип питания: отель работает по системе "ALL" (все включено)<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн<br/>
+        ▪ закрытый басейн<br/>
+        Зонты и шезлонги - бесплатно.<br/>
+        <br/>
+        <span><strong>Развлечения, спорт:</strong></span><br/>
+        ▪ анимационные программы в течение дня<br/>
+        ▪ ночной клуб<br/>
+        ▪ зал игровых автоматов<br/>
+        ▪ интернет-зал<br/>
+        ▪ бильярд<br/>
+        ▪ фитнес-зал<br/>
+        ▪ тренажерный зал<br/>
+        ▪ настольный теннис<br/>
+        ▪ аэробный зал<br/>
+        ▪ аква-аэробика<br/>
+        ▪ СПА-Центр<br/>
+        ▪ сауна<br/>
+        ▪ парная баня<br/>
+        ▪ массажный кабинет<br/>
+        <br/>
+        <strong><span>Пляж:</span></strong><br/>
+        Муниципальный песчаный пляж - в 100 метрах от отеля.<br/>
+        Шезлонги и зонты (доп.плата).<br/>
+        <br/>
+        <span><strong>Для детей:</strong></span><br/>
+        ▪ детская анимация в течение дня<br/>
+        ▪ открытый детский бассейн<br/>
+        ▪ детская кроватка (по запросу)<br/>
+        ▪ мини-клуб<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
