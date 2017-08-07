@@ -1,0 +1,76 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Испания. Коста Брава. Отель Esplendid 3 ***</title></head>
+    <body>
+    <h2><span>Испания. Коста Брава. Отель Esplendid 3 ***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930342.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930346.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930350.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930354.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930359.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930366.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930371.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930379.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930384.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930389.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930395.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/esplendid/1278930402.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель "Esplendid" расположен в 85 км от аэропорта Барселоны, в 30 км от аэропорта Жироны, в 500 м от центра
+        г. Бланес и в 500 м от пляжа.<br/>
+        <br/>
+        <span><strong>Номера:</strong></span><br/>
+        Отель находится в тихой зоне курорта, в двух шагах от центра курорта и пляжа. Кухня немного ориентирована на
+        мусульманские традиции, в отеле не подаются алкогольные напитки и блюда из свинины. Бюджетный вариант для
+        молодежи и отдыха с детьми. Отель построен в 1987 году, реконструирован в 1999 году. Номерной фонд - 397 номеров.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ ванная комната с ванной и душем<br/>
+        ▪ кондиционер / отопление<br/>
+        ▪ спутниковое ТВ<br/>
+        ▪ телефон в комнате<br/>
+        ▪ балкон<br/>
+        ▪ сейф (платно)<br/>
+        ▪ уборка номера - ежедневно<br/>
+        ▪ смена полотенец - ежедневно<br/>
+        ▪ смена белья - 1 раз в неделю<br/>
+        <br/>
+        <span><strong>Рестораны, бары:</strong></span><br/>
+        ▪ лобби-бар<br/>
+        ▪ основной ресторан<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ парковка (платно) ▪ салон для отдыха ▪ ТВ-зал<br/>
+        ▪ конференц-зал (макс. 100 чел., возможность аренды оборудования)<br/>
+        ▪ прокат автомобилей и велосипедов ▪ почта/факс ▪ услуги врача<br/>
+        ▪ автостоянка (платно) ▪ интернет<br/>
+        <br/>
+        <span><strong>Развлечения и спорт:</strong></span><br/>
+        ▪ ночная развлекательная программа (июль, август) ▪ дневная спортивная и развлекательная программы (июль, август)<br/>
+        ▪ сауна ▪ массажный кабинет<br/>
+        ▪ игровые автоматы ▪ тренажерный зал ▪ дартс ▪ теннисный корт ▪ настольный теннис<br/>
+        ▪ сквош ▪ бильярд<br/>
+        <br/>
+        <span><strong>Для детей:</strong></span><br/>
+        ▪ детская игровая площадка<br/>
+        ▪ детское меню в ресторане (июль, август)<br/>
+        ▪ мини-клуб (2-12 лет, 10:00-19:00 июль, август)<br/>
+        ▪ детская кроватка (бесплатно)<br/>
+        ▪ анимационная программа (июль, август)<br/>
+        ▪ дискотека для детей (июль, август)<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ 2 открытых бассейна с секцией для детей<br/>
+        ▪ крытый бассейн с подогревом<br/>
+        ▪ терраса для загорания<br/>
+        Шезлонги и зонтики - бесплатно.<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Муниципальный, песчаный пляж (Playa Sabanell), в 150 метрах от отеля.<br/>
+        Зонтики, шезлонги, матрасы - платно.<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
