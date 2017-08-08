@@ -1,0 +1,39 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Испания. Коста Брава. Отель Mersedes 3 ***</title></head>
+    <body>
+    <h2 style="text-align: center;">
+        <span style="color: rgb(0, 102, 153);">Испания. Коста Брава. Отель Mersedes 3 ***</span></h2>
+    <p>
+        <span style="color: rgb(0, 153, 204);"><span style="font-size: 14px;"><strong>Расположение:</strong></span></span><br />
+        в Коста Браве, в районе Lloret de Mar, в 35 км от аэропорта Жироны, в 70 км от аэропорта Барселоны. Удаленность от моря: 500 м.<br />
+        <br />
+        <span style="color: rgb(0, 153, 204);"><span style="font-size: 14px;"><strong>В отеле:</strong></span></span><br />
+        Отель представляет собой 1 шестиэтажный корпус, состоит из 120 номеров, из них: ▪ 98 двухместных номеров<br />
+        ▪ 15 одноместных номеров<br />
+        построен в 1970 году, реконструирован в 2002 году.<br />
+        <br />
+        <span style="color: rgb(0, 153, 204);"><span style="font-size: 14px;"><strong>Развлечения, спорт:</strong></span></span><br />
+        ▪ анимация&nbsp; ▪ бильярд&nbsp; ▪ дискотека ▪ живая музыка ▪ игровые автоматы&nbsp; ▪ шоу-программы ▪ тренажерный зал&nbsp; ▪ сауна&nbsp; ▪ настольный теннис ▪ массажный кабинет&nbsp; ▪ дартс&nbsp; ▪ бильярд&nbsp; ▪ игровые автоматы&nbsp; ▪ интернет<br />
+        <br />
+        <span style="color: rgb(0, 153, 204);"><span style="font-size: 14px;"><strong>Питание:</strong></span></span><br />
+        ▪ 2 бара<br />
+        ▪ 3 ресторана<br />
+        <br />
+        <span style="color: rgb(0, 153, 204);"><span style="font-size: 14px;"><strong>В номере:</strong></span></span><br />
+        ▪ балкон/терраса<br />
+        ▪ совмещенный санузел: душ или ванна / туалет / фен<br />
+        ▪ кондиционер<br />
+        ▪ мини-бар<br />
+        ▪ радио<br />
+        ▪ сейф (платно)<br />
+        ▪ спутниковое TV&nbsp; / русский канал TV<br />
+        ▪ телевизор<br />
+        ▪ телефон<br />
+        <br />
+        <span style="color: rgb(0, 153, 204);"><span style="font-size: 14px;"><strong>Пляж:</strong></span></span><br />
+        Песчаный пляж в 450 метрах от отеля.<br />
+        Шезлонги и зонты &ndash; платно.</p>
+    </body>
+    </html>
+</jsp:root>
