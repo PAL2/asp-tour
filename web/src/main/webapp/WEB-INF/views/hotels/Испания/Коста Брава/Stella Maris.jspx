@@ -1,0 +1,63 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Испания. Коста Брава. Отель Stella Maris 3 ***</title></head>
+    <body>
+    <h2><span>Испания. Коста Брава. Отель Stella Maris 3 ***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934596.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934600.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934606.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934610.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934615.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934620.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934626.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/spain/costa%20brava/stella%20maris/1278934631.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение и описание:</strong></span><br/>
+        Отель Stella Maris 3* (Стелла Марис 3*) - уютный отель расположился в фешенебельном курортном районе рядом с
+        небольшим сосновым бором и замечательным пляжем, в 1 км от центра Бланеса. Недалеко от территории гостиницы
+        расположены многочисленные бары, рестораны, магазины, таверны и др.<br/>
+        Отель был построен в 1966 году, реконструирован в 2007. Располагает двумя корпусами на 2 и 4 этажа.<br/>
+        Номерной фонд:<br/>
+        ▪ 70 стандартных двухместных номеров (макс. 2+1)<br/>
+        ▪ 12 одноместных номеров<br/>
+        ▪ 8 двухкомнатных семейных номеров (спальня, гостиная с дверью, 2 балкона, макс. 6 чел)<br/>
+        ▪ 3 номера для инвалидов<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ ванная комната: ванна или душевая кабина / раковина / туалет /фен<br/>
+        ▪ ТВ - телевизор<br/>
+        ▪ балкон<br/>
+        ▪ сейф (платно)<br/>
+        ▪ телефон<br/>
+        ▪ интернет wi-fi<br/>
+        ▪ пол - керамическая плитка<br/>
+        ▪ Смена белья в номере - 2 раза в неделю.<br/>
+        ▪ Уборка номера - ежедневно.<br/>
+        <br/>
+        <span><strong>Рестораны, бары:</strong></span><br/>
+        ▪ Лобби-бар<br/>
+        ▪ Основной ресторан с европейской кухней<br/>
+        ▪ Бар у бассейн<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ лифт ▪ обмен валют ▪ сейф ▪ парковка (платно) ▪ аренда автомобилей ▪ магазин ▪ врач (платно)<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ бассейн открытый с секцией для детей<br/>
+        Зонтики и шезлонги - бесплатно<br/>
+        <br/>
+        <span><strong>Развлечения, спорт:</strong></span><br/>
+        ▪ TV салон<br/>
+        ▪ видеосалон<br/>
+        ▪ бильярд<br/>
+        ▪ прокат велосипедов<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Песчаный пляж (Playa de Sabanell) в 100-300м от отеля.<br/>
+        Зонты и шезлонги - платно.<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
