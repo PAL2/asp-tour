@@ -52,6 +52,11 @@ p {
     margin-bottom: 10px;
 }
 
+.about {
+    max-width: 720px;
+    text-align: justify;
+}
+
 a {
     color: #3E91E5;
     text-decoration: none;
@@ -449,7 +454,7 @@ article .article-info a {
 }
 
 .pagination {
-    margin: 5px 240px 5px;
+    margin: 4px 215px 4px;
     display: inline-block;
 }
 
@@ -525,7 +530,7 @@ footer .footer-content ul.endfooter {
 
 footer .network {
     float: right;
-    margin: -8px 100px;
+    margin: -20px 100px;
 }
 
 footer .network a {
