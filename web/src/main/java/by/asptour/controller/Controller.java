@@ -42,11 +42,12 @@ public class Controller {
 
     @RequestMapping(value = "{country}/{pageNumber}", method = RequestMethod.GET)
     public String showToursByCountry(Model model, @PathVariable String country, @PathVariable int pageNumber) {
-        Page<Tour> pages = tourService.findByCountry(country, pageNumber);
+        int toursPerPage = 28;
+        Page<Tour> pages = tourService.findByCountry(country, pageNumber, toursPerPage);
         List<Tour> tours = pages.getContent();
         int current = pages.getNumber() + 1;
-        int begin = Math.max(1, current - 5);
-        int end = Math.min(begin + 20, pages.getTotalPages());
+        int begin = Math.max(1, current - 3);
+        int end = Math.min(current + 3, pages.getTotalPages());
         model.addAttribute("pages", pages);
         model.addAttribute("tours", tours);
         model.addAttribute("beginIndex", begin);

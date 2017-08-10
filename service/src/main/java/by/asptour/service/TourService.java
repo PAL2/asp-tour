@@ -7,7 +7,7 @@ import java.util.List;
 
 public interface TourService {
 
-    Page<Tour> findByCountry(String country, int pageNumber);
+    Page<Tour> findByCountry(String country, int pageNumber, int toursPerPage);
 
     Tour findById(Integer id);
 

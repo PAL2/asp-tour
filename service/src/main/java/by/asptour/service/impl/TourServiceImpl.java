@@ -23,8 +23,8 @@ public class TourServiceImpl implements TourService {
 
     @Override
     @Transactional(readOnly = true)
-    public Page<Tour> findByCountry(String country, int pageNumber) {
-        PageRequest request = new PageRequest(pageNumber - 1, 20);
+    public Page<Tour> findByCountry(String country, int pageNumber, int toursPerPage) {
+        PageRequest request = new PageRequest(pageNumber - 1, toursPerPage);
         return tourRepository.findByCountry(country, request);
     }
 
