@@ -1,0 +1,107 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <body>
+    <h2><span>Arabella Azur Beach Resort 4**** Хургада.</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349282150.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349282158.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349282162.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349282167.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286524.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286530.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286534.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286541.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286548.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286554.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286559.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286564.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286570.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286575.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286578.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286582.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286587.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286591.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286595.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286599.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349286603.jpg"/>
+    <br/>
+    <p>
+        <strong><span>Расположение:</span></strong><br/>
+        Отель "Arabella Azur" расположен в 9 км от аэропорта Хургады, в 7 км от центра Хургады, 3 км от Старого Города
+        - на 1 линии у моря.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        Отель "Arabella Azur" был построен в 1996 году, полная реставрация прошла в 2007 году, частичная - в 2009 году.
+        Общая территория отеля занимает 50 400 кв.м., представляет собой большую красивую зеленую территорию.<br/>
+        Отель состоит из основного 2-этажного здания и комплекса 2х и 3х этажных корпусов, соединенных между собой, всего 296 номеров:<br/>
+        ▪ 264 стандартных номеров (2+1 чел., 25 кв.м.)<br/>
+        ▪ 8 family room<br/>
+        ▪ 24 superior room<br/>
+        <u>Из них:</u><br/>
+        ▪ 6 номеров connected<br/>
+        ▪ 30 номеров для некурящих<br/>
+        ▪ и номера с видом на море<br/>
+        <br/>
+        <span><strong>Номера:</strong></span><br/>
+        ▪ ТВ с российским каналом ▪ индивидуальный кондиционер ▪ мини-бар (платно) ▪ ванная комната: душ / ванна / фен
+        ▪ телефон ▪ пол - керамическое покрытие ▪ wi-fi (платно) ▪ балкон или терраса<br/>
+        ▪ вид из окна на море или внутреннюю территорию<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Собственный песчаный пляж, платформа, первая береговая линия.<br/>
+        Зонты, шезлонги, матрасы, полотенца - бесплатно.<br/>
+        Протяженность пляжа - 200 м.<br/>
+        <br/>
+        <span><strong>Питание, рестораны, бары:</strong></span><br/>
+        Отель работает по системе "ALL" - все включено<br/>
+        ▪ основной ресторан с террасой<br/>
+        ▪ 2 ресторана "a la carte" (платно)<br/>
+        ▪ 6 баров<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ 2 открытых бассейна (без подогрева)<br/>
+        <br/>
+        <span><strong>Конференц-залы:</strong></span><br/>
+        Отель предлагает комнату для проведения переговоров (макс. 30 человек).<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ прачечная / химчистка<br/>
+        ▪ кабинет врача<br/>
+        ▪ заказ такси<br/>
+        ▪ парковка (б/платно)<br/>
+        ▪ итернет-кафе<br/>
+        ▪ парикмахерская<br/>
+        ▪ магазины<br/>
+        ▪ обмен валюты<br/>
+        ▪ сейф на рецепции<br/>
+        <br/>
+        <span><strong>Развлечения и спорт:</strong></span><br/>
+        <u>Бесплатно</u>:<br/>
+        ▪ аэробика ▪ аква-аэробика ▪ волейбол на пляже ▪ тренажерный зал ▪ 2 теннисных корта (освещение платно)
+        ▪ настольный тенис ▪ прокат теннисных ракеток ▪ дартс ▪ мини-футбол ▪ катамаран ▪ каноэ
+        ▪ дискотека (напитки после 02:00 - платно) ▪ шоу-программы ▪ живая музыка<br/>
+        <u>Платно:</u><br/>
+        ▪ сауна ▪ массаж ▪ парная турецкая ▪ джакузи ▪ виндсерфинг ▪ банан ▪ дайвинг-центр<br/>
+        ▪ катание на лошадях и верблюдах ▪ сквош (обучение - платно) ▪ бильярд<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ детский бассейн<br/>
+        ▪ игровая площадка<br/>
+        ▪ детская анимация<br/>
+        ▪ детское меню в ресторанах (по запросу)<br/>
+        ▪ детские стульчики в ресторане<br/>
+        ▪ мини-клуб (с 14 по 12 лет)<br/>
+        ▪ няня (по запросу / платно)<br/>
+        ▪ детская кроватка (бесплатно / рецепция / по запросу)<br/>
+        <br/>
+        <span><strong>Пляж</strong></span>:<br/>
+        Собственный песчаный пляж.<br/>
+        Есть причал.<br/>
+        Шезлонги, зонты и полотенца - бесплатно.<br/>
+        <br/>
+        <span><strong>Размещение с животными:</strong></span><br/>
+        нет</p>
+    <p><strong><em>Ответственность за предоставленную информацию несет отель.</em></strong></p>
+    </body>
+    </html>
+</jsp:root>
