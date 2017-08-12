@@ -1,6 +1,6 @@
 <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
     <html>
-    <head><title>Title</title></head>
+    <head><title>Arabella Azur Beach Resort 4**** Хургада.</title></head>
     <body>
     <h2><span>Arabella Azur Beach Resort 4**** Хургада.</span></h2>
     <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/arabella%20azur/1349282150.jpg"/>

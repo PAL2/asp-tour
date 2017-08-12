@@ -1,6 +1,6 @@
 <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
     <html>
-    <head><title>Title</title></head>
+    <head><title>Египет. Хургада. Отель Lillyland Beach Club 4 ****</title></head>
     <body>
     <h2><span>Египет. Хургада. Отель Lillyland Beach Club 4 ****</span></h2>
     <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659744.jpg"/>

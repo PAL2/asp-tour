@@ -1,0 +1,112 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Египет. Хургада. Отель Sea Gull Resort 4 ****</title></head>
+    <body>
+    <h2><span>Египет. Хургада. Отель Sea Gull Resort 4 ****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677649.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677653.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677658.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677663.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677669.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677673.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677679.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677684.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677689.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677696.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677701.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677707.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677712.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677717.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677722.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677728.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677733.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677737.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/sea%20gull%20resort/1285677741.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель расположен в 7 км от аэропорта, в центре "Нового Города" Хургады, на самом берегу моря.
+        Рядом с отелем множество ресторанов, кафе, баров и магазинов.
+    </p>
+    <p>
+        <span><strong>Описание</strong></span>:<br/>
+        Отель "Sea Gull" был построен в 1999 году, реконструирован в 2009 и в 2011 году.<br/>
+        Состоит из комплекса 3-х и 5-ти этажных корпусов "Sea Gull Resort" и "Sea Gull Club" (новое здание).
+        Территория отель большая и зеленая.<br/>
+        <u>Всего: 710 номеров:</u><br/>
+        ▪ 595 стандартных номеров (2+2, 25 кв.м.)<br/>
+        ▪ 105 Family rooms (1 комната, с ванной, 68 кв.м.)<br/>
+        ▪ 10 Lux<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ ванная комната: душ / биде (не везде) / туалет / фен<br/>
+        ▪ индивидуальный кондиционер<br/>
+        ▪ телевизор со спутниковыми каналами<br/>
+        ▪ прямой телефон<br/>
+        ▪ мини-бар<br/>
+        ▪ пол - кафель ▪ балкон или терраса<br/>
+        ▪ уборка номера - ежедневно ▪ смена белья - 3 раза в неделю<br/>
+        <br/>
+        <span><strong>Рестораны</strong></span>:<br/>
+        ▪ ресторан "Клеопатра"<br/>
+        ▪ ресторан "Марк Энтони"<br/>
+        ▪ ресторан "Рамзес"<br/>
+        ▪ ресторан "Оазис"<br/>
+        ▪ бар "Долфин" на пляже<br/>
+        ▪ бар у бассейна<br/>
+        ▪ лобби-бар<br/>
+        ▪ бар на пляже<br/>
+        <strong>Работает по системам: HB, ALL.</strong><br/>
+        <u>Система питания All inclusive:</u><br/>
+        ▪ завтрак: 07:00 - 10:00<br/>
+        ▪ обед: 13:00 - 15:00<br/>
+        ▪ ужин: 19:00 - 22:00<br/>
+        ▪ поздний ужин: 23:00 - 00:30br/>
+        ▪ напитки в течение дня с 10:00 - 17:00<br/>
+        ▪ закуски: с 11:00 - 13:00<br/>
+        ▪ кофе/чай: с 16:00 - до захода солнца<br/>
+        ▪ мороженное: с 11:00 - до захода солнца<br/>
+        ▪ алкоголь местного производства - бесплатно в течение дня<br/>
+        <br/>
+        <span><strong>Бассейны</strong></span>:<br/>
+        ▪ 2 открытых бассейна<br/>
+        ▪ 1 детский бассейн с мини-горками<br/>
+        ▪ мини-аквапарк: 3 горки, бассейн с подогревом.<br/>
+        Зонтики, шезлонги, матрасы - бесплатно.<br/>
+        Пляжные полотенца - бесплатно.<br/>
+        На территории:<br/>
+        ▪ сейф на рецепции ▪ room service - 24 часа ▪ кабинет врача / врач по вызову<br/>
+        ▪ прачечная ▪ интернет зал ▪ парковка ▪ кинотеатр ▪ парикмахерская<br/>
+        ▪ магазины ▪ пункт обмена валюты<br/>
+        <br/>
+        <span><strong>Конференц-залы:</strong></span><br/>
+        Отель располагает 2 конференц-залами на 180 и 120 человек.<br/>
+        <br/>
+        <span><strong>Спорт и развлечение:</strong></span><br/>
+        <u>Бесплатно</u><br/>
+        ▪ анимационные дневные и вечерние программы ▪ аэробика ▪ пляжный волейбол<br/>
+        ▪ вотерполо в бассейне ▪ дартс<br/>
+        ▪ волейбол на пляже ▪ дискотека King Tut Disco<br/>
+        <u>Платно:</u><br/>
+        ▪ настольный теннис ▪ бильярд ▪ бильярд<br/>
+        ▪ серфинг ▪ курсы подводного плавания ▪ банан ▪ водные лыжи ▪ катамаран<br/>
+        <u>Здоровье</u>:<br/>
+        ▪ турецкая баня ▪ сауна ▪ джакузи ▪ тренажерный зал ▪ массажный кабинет<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ детский бассейн<br/>
+        ▪ детская площадка<br/>
+        ▪ детский клуб<br/>
+        ▪ няня (по вызову - платно)<br/>
+        <br/>
+        <span><strong>Пляж</strong></span>:<br/>
+        Собственный песчаный пляж.<br/>
+        Зонтики, шезлонги, матрасы - бесплатно.<br/>
+        Пляжные полотенца - бесплатно.<br/>
+        <br/>
+        <strong><em>Ответственность за предоставленную информацию несет отель.</em></strong></p>
+    <p>
+    </p>
+    </body>
+    </html>
+</jsp:root>
