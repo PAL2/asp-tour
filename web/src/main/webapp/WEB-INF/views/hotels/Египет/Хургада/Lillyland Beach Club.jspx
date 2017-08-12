@@ -1,0 +1,87 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <body>
+    <h2><span>Египет. Хургада. Отель Lillyland Beach Club 4 ****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659744.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659749.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659753.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659758.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659764.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659769.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659774.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659779.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659785.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659791.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659798.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659804.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659811.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659817.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659823.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659829.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659834.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659839.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659844.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659849.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659854.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659858.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659863.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659869.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659875.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659880.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659886.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/lillyland%20beach%20club/1285659890.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение</strong></span><br/>
+        Отель расположен в 8 км от аэропорта Хургада, в 21 км от Старого города, на самом берегу моря.<br/>
+        <br/>
+        <span><strong>Описание отеля</strong></span><br/>
+        Отель был построен в 1994 году, полная реновация в 2006 году. Представляет собой комплекс состоящий из основного
+        здания и -одно и -двух этажных бунгало. Общая территория занимает 18 га. Всего в отеле 540 номеров, с
+        возможностью размещения более 1300 гостей.<br/>
+        ▪ 233 standard номеров расположенных в новой части отеля (макс 3 чел., 35 кв.м.)<br/>
+        ▪ 270 двухкомнатных и трехкомнатных bungalow (гостиная, спальня с дверью, мини-кухня, 1 балкон или 2 террасы, макс. 2+2, 62 кв.м.)<br/>
+        ▪ 15 suites<br/>
+        ▪ 4 villas (4 спальни, гостиная, 3 ванные комнаты)<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ сейф (в номерах и апартаментах - бесплатно) ▪ смена белья - 3 раза в неделю<br/>
+        ▪ индивидуальный кондиционер ▪ спутниковое телевидение с русским каналом<br/>
+        ▪ ванна / душевая кабина / туалет / туалетные принадлежности / фен<br/>
+        ▪ музыкальный радиоканал ▪ мини-бар (платно) ▪ пол - керамическая плитка<br/>
+        ▪ балкон или терраса ▪ телефон ▪ холодильник<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ парикмахерская / салон красоты ▪ прачечная ▪ торговый центр ▪ фото сервис<br/>
+        ▪ сейф на reception (платно) ▪ торговый ряд (магазины сувениров) ▪ обмен валют ▪ прокат автомобилей<br/>
+        <br/>
+        <span><strong>Рестораны/кафе:</strong></span><br/>
+        ▪ основной ресторан с открытой террасой, предоставляется детское меню<br/>
+        ▪ рыбный ресторан-брабекю a la carte<br/>
+        ▪ 4 бара<br/>
+        ▪ пиццерия<br/>
+        <br/>
+        <span><strong>Бассейн</strong></span><br/>
+        ▪ 2 открытых бассейна<br/>
+        ▪ детский бассейн<br/>
+        Зонтики, шезлонги, полотенца - бесплатно<br/>
+        <br/>
+        <span><strong>Пляж</strong></span><br/>
+        Пляж: собственный, песчаный.<br/>
+        Зонтики, шезлонги, полотенца - бесплатно.<br/>
+        <br/>
+        <span><strong>Специально для детей</strong></span><br/>
+        ▪ мини-клуб (от 4 до 12 лет)<br/>
+        ▪ детская игровая площадка<br/>
+        ▪ няня (по запросу, платно)<br/>
+        <br/>
+        <span><strong>Спорт, здоровье, развлечения</strong></span><br/>
+        ▪ дискотека ▪ вечерние шоу-программы ▪ анимация ▪ аэробика ▪ настольный теннис ▪ тренажёрный зал ▪ пляжный волейбол
+        ▪ сауна ▪ массаж ▪ джакузи ▪ бильярд ▪ курсы подводного плавания ▪ водные виды спорта ▪ 4 теннисных корта ▪ верховая езда
+        ▪ волейбол ▪ дайвинг ▪ стрельба из лука ▪ футбол ▪ 2 площадки для сквоша ▪ катера для рыбалки и морских прогулок<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
