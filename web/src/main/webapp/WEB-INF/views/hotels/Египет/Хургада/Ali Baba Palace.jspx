@@ -1,0 +1,107 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Египет. Хургада. Отель Ali Baba Palace 4 ****</title></head>
+    <body>
+    <h2><span>Египет. Хургада. Отель Ali Baba Palace 4 ****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683453.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683457.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683462.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683470.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683475.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683481.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683487.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683491.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683496.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683501.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683508.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683514.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683519.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683524.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683529.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683534.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683540.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683547.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683552.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683558.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683564.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683569.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683574.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683580.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683586.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683591.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683595.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683601.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/ali%20baba%20palace/1285683606.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span><br/>
+        Расположен на самом берегу Красного моря, в 13 км - от аэропорта, в 20 км - от центра Хургады. Через дорогу -
+        отель "Титаник" с крупнейшим аквапарком Хургады.<br/>
+        <br/>
+        <span><strong>Описание</strong></span>:<br/>
+        Один из самых популярных отелей Хургады. Большая зеленая территория, прекрасная анимация, общая инфраструктура
+        с отелями: Ali Baba Palace, Jasmin Village, Aladdin Beach Resort.<br/>
+        Отель "Али Баба Палас" официально открыт в 2001 году, полностью реконструирован в 2007 году и входит в комплекс
+        "Jasmine Village - Alibaba - Titanic Aquapark".<br/>
+        <u>Отель располагает 8 двухэтажными и трехэтажными корпусами:</u><br/>
+        ▪ 633 стандартных номеров (2+2, 22 кв.м.)<br/>
+        ▪ 11 номеров улучшенной планировки (2+1, 30 кв.м.)<br/>
+        ▪ 10 family suite (2 спальни с дверью, 40 кв.м.)<br/>
+        Практически все номера имеют либо прямой, либо боковой вид на море.<br/>
+        <br/>
+        <span><strong>Пляж</strong></span>:<br/>
+        Собственный песчаный пляж.<br/>
+        Зонтики, шезлонги, матрасы - бесплатно. Пляжные полотенца - бесплатно.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ индивидуальный кондиционер ▪ сейф (на рецепции)<br/>
+        ▪ балкон ▪ мини-бар ▪ спутниковое телевидение ▪ телефон<br/>
+        ▪ ванная комната: душ / WC / раковина / банные принадлежности / фен<br/>
+        ▪ пол - ковровое покрытие ▪ уборка номеров - ежедневно<br/>
+        <br/>
+        <span><strong>Рестораны:</strong></span><br/>
+        ▪ главный ресторан "Shabour"<br/>
+        ▪ итальянский ресторан a la carte "Morgana"<br/>
+        ▪ восточный ресторан "Zomorodah"<br/>
+        ▪ пивной паб<br/>
+        ▪ бар у бассейна "Kassem's Hide Away<br/>
+        ▪ бар на пляже "Masrour"<br/>
+        ▪ бар в фойе "Ali Baba"<br/>
+        ▪ диско-бар<br/>
+        <u>Отель работает по системе "All inclusive" с 09:00 - 24:00:</u><br/>
+        ▪ завтрак ▪ обед ▪ полдник / закуски ▪ безалкогольные напитки ▪ местные вина<br/>
+        ▪ пиво<br/>
+        <br/>
+        <span><strong>Бассейны</strong></span>:<br/>
+        ▪ 1 открытый бассейн - самый большой в Хургаде (2700 кв.м.)<br/>
+        ▪ 1 обычный бассейн, открытый с секцией для детей<br/>
+        ▪ 1 закрытый бассейн с подогревом<br/>
+        ▪ 1 охлаждаемый бассейн<br/>
+        ▪ аквапарк и центр водных видов спорта<br/>
+        Зонтики, шезлонги, матрасы и полотенца - бесплатно.<br/>
+        <br/>
+        <span><strong>Развлечения и спорт:</strong></span><br/>
+        ▪ тренажерный зал ▪ 2 теннисных корта (с жестким покрытием) ▪ пляжный волейбол ▪ настольный теннис ▪ мини-гольф
+        ▪ пляжный волейбол ▪ настольный теннис ▪ водные виды спорта на пляже (серфинг / курсы подводного плавания / банан / катамаран)
+        ▪ аэробный зал ▪ волейбол на пляже ▪ мини-футбол ▪ мини-гольф ▪ бильярд ▪ дискотека<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ салон красоты ▪ магазины сувениров и мини-маркет ▪ фото-сервис ▪ пункт обмена валюты ▪ доктор по вызову
+        ▪ услуги прачечной / химчистки ▪ прокат автомобилей ▪ парковка ▪ сейф на рецепции (доп.плата) ▪ вечернее анимационное шоу<br/>
+        <br/>
+        <span><strong>Конференц-залы:</strong></span><br/>
+        Отель располагает конференц-залом вместимостью до 280 человек, полностью оборудованный.<br/>
+        <br/>
+        <span><strong>Здоровье</strong></span>:<br/>
+        ▪ спортивно оздоровительный центр ▪ джакузи ▪ парная ▪ сауна ▪ массажный кабинет<br/>
+        <br/>
+        <span><strong>Детям:</strong></span><br/>
+        ▪ мини-клуб для детей (4-12 лет)<br/>
+        ▪ детский бассейн<br/>
+        ▪ детская игровая площадка<br/>
+        ▪ няня по вызову<br/>
+        <br/>
+        <strong><em>Ответственность за предоставленную информацию несет отель.</em></strong></p>
+    </body>
+    </html>
+</jsp:root>
