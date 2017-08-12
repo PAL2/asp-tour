@@ -3,6 +3,12 @@
     <head><title>Египет. Хургада. Отель Biba Hotel 2**</title></head>
     <body>
     <h2><span>Египет. Хургада. Отель Biba Hotel 2**</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/biba%20hotel/1285617883.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/biba%20hotel/1285617890.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/biba%20hotel/1285617897.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/biba%20hotel/1285617905.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/egypt/hurghada/biba%20hotel/1285617913.jpg"/>
+    <br/>
     <p>
         <span><strong>Расположение:</strong></span><br/>
         Отель "Biba Hotel" расположен в старой части Хургады, в 1 км от центра "Нового города", в 800 метрах от моря,
