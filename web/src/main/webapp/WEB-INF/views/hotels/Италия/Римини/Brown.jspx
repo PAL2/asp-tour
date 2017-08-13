@@ -1,6 +1,6 @@
 <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
     <html>
-    <head><title>Title</title></head>
+    <head><title>Италия. Римини. Brown Hotel 3 ***</title></head>
     <body>
     <h2><span>Италия. Римини. Brown Hotel 3 ***</span></h2>
     <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438042.jpg"/>

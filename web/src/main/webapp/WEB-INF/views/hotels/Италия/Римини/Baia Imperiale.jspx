@@ -1,0 +1,60 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Италия. Римини. Отель Baia Imperiale 4 ****</title></head>
+    <body>
+    <h2><span>Италия. Римини. Отель Baia Imperiale 4 ****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276868.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276876.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276887.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276894.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276899.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276906.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276914.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276920.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276925.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276930.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276934.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276938.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276944.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276958.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276962.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276968.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/baia%20imperiale/1278276972.jpg"/>
+    <br/>
+    <p>
+        Отель Baia Imperiale - это новый роскошный 4-х звездочный отель, который находится в очаровательном заливе San
+        Giuliano Mare, на 1 пляжной полосе, что делает отель одним из лучших мест для летнего отпуска.<br/>
+        <br/>
+        <span><strong>В номере:</strong></span><br/>
+        ▪ Светлые, современные и элегантные номера с видом на море<br/>
+        ▪ кондиционер ▪ ТВ ▪ доступ в интернет ▪ сейф ▪ ванная комната с феном ▪ балкон с видом на море<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ панорамный ресторан с элегантным интерьером и видом на море и разнообразными блюдами традиционной итальянской и международной кухни (рыбные блюда, большой выбор салатов, десертов и гарниров)<br/>
+        ▪ лобби-бар<br/>
+        Тип питания: BB (завтрак буфет), ALL<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ автостоянка прямо у бассейна<br/>
+        ▪ элегантный холл<br/>
+        ▪ стойка регистрации<br/>
+        ▪ солнечная терраса с шезлонгами и пляжными зонтами<br/>
+        ▪ прокат велосипедов / мопедов<br/>
+        ▪ интернет wi-fi<br/>
+        <br/>
+        <span><strong>Бассейны:</strong></span><br/>
+        ▪ бассейн с шезлонгами<br/>
+        ▪ внутренний бассейн с джакузи и подогревом<br/>
+        <br/>
+        <span><strong>Спорт и развлечения:</strong></span><br/>
+        ▪ тренажерный зал<br/>
+        ▪ сауна<br/>
+        ▪ турецкая баня<br/>
+        ▪ фитнесс-центр<br/>
+        <br/>
+        <span><strong>Пляж:</strong></span><br/>
+        Частный песчаный пляж, где клиентам отеля предоставляются пляжные зонты и шезлонги.<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
