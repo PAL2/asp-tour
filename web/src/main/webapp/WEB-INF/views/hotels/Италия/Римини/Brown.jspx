@@ -1,0 +1,64 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <body>
+    <h2><span>Италия. Римини. Brown Hotel 3 ***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438042.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438048.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438053.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438058.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438063.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438068.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438074.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438079.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438085.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438091.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/brown/1281438097.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span><br/>
+        "Браун Отель" расположен прямо в центре Римини - "Марина Центро", недалеко от моря, рядом с конференц-выставочным
+        центром, недалеко от набережной Viale Amerigo Vespucci, в окружении зеленого парка.<br/>
+        <br/>
+        <span><strong>Расстояния:</strong></span><br/>
+        ▪ В 150 метрах от пляжа<br/>
+        ▪ В 5 минутах ходьбы от старого города<br/>
+        ▪ В 4 км от здания конференций и выставочного центра<br/>
+        ▪ В 5 минут ходьбы от ж/д вокзал<br/>
+        ▪ В 1,5 км от стадиона и спортивного зала<br/>
+        ▪ В 3,5 км от Римини Sud выход,<br/>
+        ▪ Рядом проходит - А14 автомагистраль<br/>
+        ▪ В 5 километрах от аэропорта Miramare<br/>
+        ▪ В 20 минутах от Сан-Марино<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        "Браун Отель" - это идеальное место для полноценного отдыха, а так же прекрасно подходит для участников деловых
+        встреч, выставок, конгрессов, конференций, учебных курсов и др. мероприятий. "Браун Отель" отличается отличным
+        обслуживанием, вежливостью и внимательностью к своим гостям.<br/>
+        Отель располагает 49 комфортабельными номерами.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ балкон ▪ телевизор ▪ индивидуальный кондиционер<br/>
+        ▪ ванная комната: душевая кабина / фен ▪ сейф в номере (доп.плата)<br/>
+        <br/>
+        <span><strong>Конференц-услуги:</strong></span><br/>
+        Отель предлагает 3 модульных и многофункциональных конференц-залов вместимостью до 200 человек. Все залы
+        оборудованы современной техникой, системой видеонаблюдения, факс, ксерокс, услуги секретаря, услуги переводчика,
+        кофе-брейки, и др.<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ велосипеды на прокат ▪ сейфовые ячейки ▪ интернет-центр ▪ wi-fi на территории отеля<br/>
+        ▪ организация трансфера (аэропорт-отель-аэропорт) ▪ парковка<br/>
+        ▪ анимация - для детей летом.<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с гидромассажем<br/>
+        ▪ секция для детей<br/>
+        <br/>
+        <span><strong>Рестораны:</strong></span><br/>
+        ▪ Основной ресторан с летней террасой<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
