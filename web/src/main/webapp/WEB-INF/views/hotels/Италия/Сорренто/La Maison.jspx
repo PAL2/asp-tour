@@ -1,0 +1,61 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <body>
+    <h2><span>Италия. Сорренто. Отель La Maison 3 ***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312070966.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312070973.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312070978.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312070986.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312070991.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312070996.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071006.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071013.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071021.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071032.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071038.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071044.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071053.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071061.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071510.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071515.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312071523.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span><br/>
+        Отель "La Maison" расположен 1 км от курортного городка Масса Лубренсе, в 4 км от Сорренто, в тихом, спокойном месте,
+        среди оливковых рощ на скале с панорамным видом на Адриатическое море и остров Капри. Отель был недавно реконструирован
+        и предлагает комфортные условия для отдыха. В 600 метрах от "La Maison" расположен отель - Sea Club 4****, от которого
+        по расписанию курсирует автобус до центра Сорренто и обратно). Так жи о гости "La Maison" могут бесплатно пользоваться
+        территорией и пляжем Sea Club.<br/>
+        Это небольшой отель, в нем всего 25 стандартных номеров (одноместные и двухместные).<br/>
+        Все номера оформлены в простом удобном стиле, с современной мебелью и плиткой на полу.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ балкон<br/>
+        ▪ телевизор со спутниковыми каналами<br/>
+        ▪ мини-бар с холодильником<br/>
+        ▪ телефон<br/>
+        ▪ ванная комната: душевая кабина / туалет / банные принадлежности / фен<br/>
+        <br/>
+        <span><strong>Рестораны, бары:</strong></span><br/>
+        ▪ ресторан с международной и итальянской кухней (в отеле Sea Club)<br/>
+        <u>Тип питания:</u><br/>
+        ▪ буфет с континентальным завтраком (в отеле Sea Club) - входит в стоимость проживания<br/>
+        <br/>
+        <span><strong>Услуги отеля:</strong></span><br/>
+        ▪ круглосуточное обслуживание<br/>
+        ▪ автостоянка (доп.плата)<br/>
+        ▪ обслуживание номеров<br/>
+        ▪ пункт обмена валюты<br/>
+        ▪ прачечная<br/>
+        ▪ услуги секретаря / факс<br/>
+        <br/>
+        <span><strong>Пляж и бассейн:</strong></span><br/>
+        ▪ открытый бассейн<br/>
+        ▪ пляж в 50 метрах от отеля (в отеле Sea Club) - без доплат.<br/>
+        ▪ зонтики и шезлонги возле бассейна и на пляже<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
