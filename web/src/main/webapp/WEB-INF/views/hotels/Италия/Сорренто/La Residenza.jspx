@@ -1,0 +1,55 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Италия. Сорренто. Отель La Residenza 4 ****</title></head>
+    <body>
+    <h2><span>Италия. Сорренто. Отель La Residenza 4 ****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068271.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068282.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068290.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068302.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068308.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068316.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068323.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20residenza/1312068331.jpg"/>
+    <br/>
+    <p>
+        <strong><span>Расположение и описание:</span></strong><br/>
+        Отель "La Residenza" расположен в жилом районе Сорренто, в 1 км от центра. Отель делит территорию с отельным
+        комплексом "Parco dei Principi" 5*****. Здание отеля "La Residenza" - было построено в 1970 году, и недавно отель
+        был полностью обновлен. Отель расположен в тихом месте, его окружает зеленый ухоженный парк. Прекрасно подходит
+        для спокойного и семейного отдыха. До общественного пляжа - 2 минуты пешком (спуск по лестнице), пляж комплекса
+        "Parco dei Principi" - в 50 метрах (вход - доп.плата). Отель располагает 81 номером.<br/>
+        <br/>
+        <span><strong>Расстояния:</strong></span><br/>
+        50 км от аэропорта<br/>
+        500 метрах от ж/д станции Sant`Agnello<br/>
+        Рядом с отелем остановка автобуса<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ Основной ресторан<br/>
+        ▪ Американский бар<br/>
+        ▪ Завтраки - на открытой террасе с чудесным видом на побережье (буфет)<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ открытый бассейн<br/>
+        ▪ терраса для принятия солнечных ванн<br/>
+        ▪ ухоженный парк вокруг отеля<br/>
+        ▪ парковка<br/>
+        ▪ боулинг<br/>
+        ▪ новый деловой центр: конференц зал и переговорные комнаты (вместимость от 10 до 350 человек), все залы оборудованы
+        современными техническими средствами.<br/>
+        ▪ водные виды спорта на пляже<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ ванная комната: душ или ванна / фен<br/>
+        ▪ телефон<br/>
+        ▪ спутниковое телевидение<br/>
+        ▪ интернет<br/>
+        ▪ кондиционер<br/>
+        ▪ мини-бар<br/>
+        ▪ сейф<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>

@@ -1,6 +1,6 @@
 <jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
     <html>
-    <head><title>Title</title></head>
+    <head><title>Италия. Сорренто. Отель La Maison 3 ***</title></head>
     <body>
     <h2><span>Италия. Сорренто. Отель La Maison 3 ***</span></h2>
     <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/la%20maison/1312070966.jpg"/>
