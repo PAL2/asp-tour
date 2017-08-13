@@ -1,0 +1,60 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Title</title></head>
+    <body>
+    <h2><span>Италия. Рим. Отель Atlantic Palace 4 ****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031340.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031351.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031362.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031371.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031381.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031390.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031410.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031421.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031430.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031438.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031446.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031453.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/sorrento/atlantic%20palace/1312031461.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение и описание:</strong></span><br/>
+        Отель "Atlantic Palace" 4**** расположен в пригороде Сорренто - в жилом, тихом квартале, относительно недалеко
+        от центра и пляжей. Так же неподалеку расположены такие достопримечательности, как: Museo Bottega della Tasia Lignea,
+        Церковь Св. Франциска и Sedile Dominova, Museo Correale di Terranova.<br/>
+        Вид из отеля открывается на Неаполитанский залив.<br/>
+        Последний ремонт был произведен в 2003 году и сейчас это прекрасное место для отдыха и знакомства с очаровательным
+        миром Сорренто.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        Отель "Atlantic Palace" располагает 95 номерами.<br/>
+        <u>В каждом номере имеются:</u><br/>
+        ▪ Балкон с видом на сад<br/>
+        ▪ LCD телевизор 19 дюймов (+спутниковое телевидение)<br/>
+        ▪ Wi-fi интернет<br/>
+        ▪ Необходимая мебель: стол, стулья, тумбочки, шкаф, кровати<br/>
+        ▪ Телефон с прямым набором<br/>
+        ▪ Постельные и банные принадлежности<br/>
+        ▪ Индивидуальный сейф<br/>
+        ▪ Совмещенные душ и ванна / биде / зеркало / фен<br/>
+        ▪ Кондиционер<br/>
+        ▪ Мини-бар<br/>
+        ▪ Ежедневное обслуживание номеров<br/>
+        ▪ Предоставляются детские кроватки по запросу<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ wi-fi в зонах общественного пользования<br/>
+        ▪ Трансфер до торгового центра Сорренто (бесплатно)<br/>
+        ▪ Парковка у отеля (ограниченное количество мест)<br/>
+        ▪ Помощь в бронировании билетов<br/>
+        ▪ Пункт обмена валюты<br/>
+        ▪ Услуги консьержа<br/>
+        ▪ Открытый бассейн<br/>
+        <br/>
+        <span><strong>Рестораны, бары:</strong></span><br/>
+        ▪ основной ресторан<br/>
+        ▪ бары у бассейна и в холле<br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
