@@ -1,0 +1,71 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Италия. Римини. President Hotel 4 ****</title></head>
+    <body>
+    <h2><span>Италия. Римини. President Hotel 4 ****</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435556.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435560.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435565.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435570.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435575.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435581.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435588.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435595.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435600.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435605.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/president/1281435610.jpg"/>
+    <br/>
+    <p>
+        <span><strong>асположение:</strong></span><br/>
+        Отель "President" - это элегантный отель, который идельано подходит для отпуска, выходных и деловых встреч.
+        Отель расположен всего в нескольких шагах от пляжа и Viale Regina Elena, где вы сможете насладиться прекрасными
+        покупками на торговых улицах.<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        "Президент Отель" был задуман для тех, кто верит, что комфорт, имидж и функциональность - основные черты,
+        которые делают отель идеальным в первую очередь для участников и гостей конгрессов, конференций, семинаров,
+        банкетов и других значимых мероприятий.<br/>
+        Отель располагает номерами:<br/>
+        ▪ "Executive" (18-20 кв.м., 1 комната, до 3 чел.)<br/>
+        ▪ "Royal" (18-20 кв.м., 1 комната, до 3 чел.)<br/>
+        ▪ "Lux Royal" (50 кв.м., 2 комнаты, до 5 чел., 4 этаж)<br/>
+        ▪ "Lux Executive" (35 кв.м., 2 комнаты, до 5 чел., 1 этаж)<br/>
+        <br/>
+        - Предусмотрены номера для инвалидов.<br/>
+        - Возможно заселение с маленькими животными (доп.оплата)<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ современная мебель в номерах "Executive"<br/>
+        ▪ элегантная мебель ручной работы в стиле барокко во всех остальных типах номеров<br/>
+        ▪ холодильник ▪ сейф в номере (доп.плата) ▪ телевизор со спутниковыми каналами<br/>
+        ▪ телефон ▪ звукоизоляция номеров ▪ ванная комната: душевая кабина / туалет / фен<br/>
+        ▪ мини-бар ▪ кондиционер ▪ wi-fi<br/>
+        <br/>
+        <span><strong>Питание:</strong></span><br/>
+        ▪ Комфортабельный ресторан с традиционными и интернациональными блюдами от шеф-повара<br/>
+        ▪ Американский коктейль-бар<br/>
+        <br/>
+        <span><strong>На территории отеля:</strong></span><br/>
+        ▪ Деловой центр ▪ Интернет wi-fi на всей территории отеля ▪ Конференц-центр<br/>
+        ▪ Услуги прачечной ▪ Магазин ▪ Парковка ▪ Консьерж ▪ Лифт <br/>
+        ▪ Обслуживание в номер ▪ Услуга - будильник<br/>
+        <br/>
+        <span><strong>Здоровье и SPA:</strong></span><br/>
+        Отель располагает современным оздоровительным центром и предлагает гостям:<br/>
+        ▪ солярий ▪ косметология ▪ массажный кабинет ▪ спортивный зал 100 кв.м. ▪ сауна<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с видом на город на 5 этаже<br/>
+        <br/>
+        <span><strong>Конференц-услуги:</strong></span><br/>
+        ▪ Конференц-зал "Либерти" (85 кв.м., макс. 20/40/90 чел.)<br/>
+        Оснащение:<br/>
+        ▪ Флип-чарт (магнитно-маркерные доски) ▪ канцелярские принадлежности<br/>
+        ▪ ТВ ▪ Видео ▪ ДВД ▪ усилительная аппаратура ▪ диапроектор ▪ эпидиаскопический проектор (проектор верхнего
+        расположения) ▪ видеопроектор ▪ проекционный экран 2,00 м x 1,80 м ▪ беспроводная ЛВС скоростью 11 мегабит,
+        DSL - соединение скорость In/Out 2 мегабита ▪ кондиционер ▪ копир (ксерокс) ▪ факс<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
