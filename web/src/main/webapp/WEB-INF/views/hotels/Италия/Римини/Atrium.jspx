@@ -1,0 +1,62 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Италия. Римини. Atrium Hotel 3***</title></head>
+    <body>
+    <h2><span>Италия. Римини. Atrium Hotel 3***</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438907.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438913.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438917.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438922.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438929.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438935.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438946.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438951.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438957.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/italy/rimini/atrium/1281438961.jpg"/>
+    <br/>
+    <p>
+        <span><strong>Расположение:</strong></span><br/>
+        "Атриум Отель" расположен прямо в центре Римини - "Марина Центро", недалеко от моря, и набережной Viale Amerigo
+        Vespucci, в окружении зеленого парка.<br/>
+        <u>Расстояния</u>:<br/>
+        ▪ В150 метрах от пляжа<br/>
+        ▪ В 5 минутах ходьбы от старого города<br/>
+        ▪ В 4 км от здания конференций и выставочного центра<br/>
+        ▪ В 5 минут ходьбы от ж/д вокзал<br/>
+        ▪ В 1,5 км от стадиона и спортивного зала<br/>
+        ▪ В 3,5 км от Римини Sud выход,<br/>
+        ▪ Рядом проходит - А14 автомагистраль<br/>
+        ▪ В 5 километрах от аэропорта Miramare<br/>
+        ▪ В 20 минутах от Сан-Марино<br/>
+        <br/>
+        <span><strong>Описание:</strong></span><br/>
+        "Атриум Отель" - работает круглый год и является прекрасным местом для максимального комфорта и спокойствия.
+        Так же отель прекрасно по своему.<br/>
+        Отель располагает одноместными и двухместными комфортабельными номерами, типа standard, Exclusive, Comfort.<br/>
+        <br/>
+        <span><strong>В номерах:</strong></span><br/>
+        ▪ балкон ▪ телевизор ▪ индивидуальный кондиционер<br/>
+        ▪ ванная комната: душевая кабина / фен ▪ сейф в номере (доп.плата)<br/>
+        <br/>
+        <span><strong>Конференц-услуги:</strong></span><br/>
+        Отель предлагает 3 модульных и многофункциональных конференц-залов вместимостью до 240 человек. Все залы
+        оборудованы современной техникой, системой видеонаблюдения, факс, ксерокс, услуги секретаря, услуги переводчика,
+        кофе-брейки, и др.<br/>
+        <br/>
+        <span><strong>На территории:</strong></span><br/>
+        ▪ велосипеды на прокат ▪ сейфовые ячейки ▪ интернет-центр ▪ wi-fi на территории отеля<br/>
+        ▪ организация трансфера (аэропорт-отель-аэропорт) ▪ парковка<br/>
+        ▪ анимация - для детей летом.<br/>
+        <br/>
+        <span><strong>Бассейн:</strong></span><br/>
+        ▪ открытый бассейн с гидромассажем<br/>
+        ▪ секция для детей<br/>
+        <br/>
+        <span><strong>Рестораны, кафе:</strong></span><br/>
+        ▪ Основной ресторан с летней террасой<br/>
+        ▪ лобби-бар<br/>
+        <br/>
+    </p>
+    </body>
+    </html>
+</jsp:root>
