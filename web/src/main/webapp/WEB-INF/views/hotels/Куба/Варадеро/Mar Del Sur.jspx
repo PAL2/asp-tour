@@ -1,0 +1,86 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
+    <html>
+    <head><title>Islazul Mar Del Sur 2 звезды. Варадеро. Куба</title></head>
+    <body>
+    <h2><span>Islazul Mar Del Sur 2 звезды. Варадеро. Куба</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/mar%20del%20sur/1478098657.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/mar%20del%20sur/1478098664.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/mar%20del%20sur/1478098678.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/mar%20del%20sur/1478098684.jpg"/>
+    <br/>
+
+    <span><strong>Расположение:</strong></span><br/>
+
+    Отель находится в 20 минутах езды от аэропорта, недалеко от центра курорт Варадеро.<br/>
+    Отель располагается на второй линии. Удаленность от моря - чуть более 200 метров.<br/><br/>
+
+    <span><strong>Описание:</strong></span><br/>
+
+    <p class="about">Отельный комплекс состоит из нескольких зданий с апартаментами, рассчитанными на длительное пребывание
+        и с номерами. Отель был построен в 1972 году. Номерной фонд отеля насчитывает 48 двухкомнатных и 98 однокомнатных
+        номеров (60 из них - это апартаменты для длительного пребывания), и 130 стандартных номеров. Заезд в 16:00,
+        выезд в 12:00.</p><br/><br/>
+
+    <span><strong>В номерах:</strong></span>
+
+    <ul>
+        <li>ванная комната с душем;</li>
+        <li>спутниковое ТВ;</li>
+        <li>телефон;</li>
+        <li>мини-бар;</li>
+        <li>сейф (платно).</li>
+    </ul>
+
+    <span><strong>Детям:</strong></span>
+
+    <ul>
+        <li>игровая площадка;</li>
+        <li>детский бассейн.</li>
+    </ul>
+
+    <span><strong>Рестораны / кафе:</strong></span>
+
+    <ul>
+        <li>питание - ВВ;</li>
+        <li>ресторан с кубинской и международной кухней;</li>
+        <li>3 бара;</li>
+        <li>3 снэк-бара;</li>
+        <li>3 кафе.</li>
+    </ul>
+
+    <span><strong>Бассейны:</strong></span>
+
+    <ul>
+        <li>бассейн, шезлонги, лежаки - бесплатно. Полотенца - за депозит;</li>
+        <li>детский бассейн.</li>
+    </ul>
+
+    <span><strong>Спорт и развлечения:</strong></span>
+
+    <ul>
+        <li>ночной клуб/дискотека;</li>
+        <li>дневная и вечерняя развлекательные программы.</li>
+    </ul>
+
+    <span><strong>Здоровье и красота:</strong></span><br/>
+
+    ▪ массаж<br/>
+    <br/>
+
+    <span><strong>На территории:</strong></span>
+
+    <ul>
+        <li>интернет-кафе;</li>
+        <li>магазины;</li>
+        <li>сейф для хранения ценностей на ресепшн;</li>
+        <li>обмен валюты;</li>
+        <li>экскурсионное бюро;</li>
+        <li>прокат автомобилей;</li>
+        <li>такси;</li>
+        <li>автостоянка;</li>
+        <li>телефон (национальные и международные звонки).</li>
+    </ul>
+
+    </body>
+    </html>
+</jsp:root>
