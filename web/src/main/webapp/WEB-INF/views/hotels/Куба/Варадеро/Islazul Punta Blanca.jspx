@@ -3,6 +3,11 @@
     <head><title>Islazul Punta Blanca 2 звезды. Варадеро. Куба</title></head>
     <body>
     <h2><span>Islazul Punta Blanca 2 звезды. Варадеро. Куба</span></h2>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/islazul%20punta%20blanca/1478097315.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/islazul%20punta%20blanca/1478097321.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/islazul%20punta%20blanca/1478097328.jpg"/>
+    <img src="${pageContext.request.contextPath}/resources/images/countries/cuba/varadero/islazul%20punta%20blanca/1478097333.jpg"/>
+    <br/>
 
     <p><strong><span>Расположение:</span></strong></p>
 
@@ -26,33 +31,30 @@
         <li>балкон.</li>
     </ul>
 
-    <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet=""><span style="color: rgb(0, 0, 0);"><span style="font-size: 14px;"><strong background-color:="" font-size:="" trebuchet="">Рестораны&nbsp;</strong><strong background-color:="" font-size:="" trebuchet="">/ кафе:</strong></span></span></p>
+    <span><strong>Рестораны / кафе:</strong></span>
 
     <ul>
         <li>бар на пляже;</li>
         <li>ресторан а-ля карт.</li>
     </ul>
 
-    <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet=""><strong style="font-size: 14px; color: rgb(0, 0, 0);">Спорт и развлечения:</strong></p>
+    <span><strong>Спорт и развлечения:</strong></span>
 
     <ul>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">водные виды спорта;</li>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">экскурсии.</li>
+        <li>водные виды спорта;</li>
+        <li>экскурсии.</li>
     </ul>
 
-    <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet=""><strong style="font-size: 14px; color: rgb(0, 0, 0);">На территории:</strong></p>
+    <span><strong>На территории:</strong></span>
 
     <ul>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">обслуживание номеров;</li>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">сейф;</li>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">врач;</li>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">прачечная;</li>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">магазин;</li>
-        <li font-size:="" style="color: rgb(51, 51, 51);" trebuchet="">парк.</li>
+        <li>обслуживание номеров;</li>
+        <li>сейф;</li>
+        <li>врач;</li>
+        <li>прачечная;</li>
+        <li>магазин;</li>
+        <li>парк.</li>
     </ul>
-
-    <hr />
-    <p font-size:="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">&nbsp;</p>
 
     </body>
     </html>
