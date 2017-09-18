@@ -394,13 +394,6 @@ aside#sidebar li ul.blocklist li.selected-item {
     border-bottom: none;
 }
 
-aside#sidebar li ul.blocklist li.selected-item a,
-aside#sidebar li ul.blocklist li.selected-item a:hover {
-    color: #fff;
-    font-weight: bold;
-    background: linear-gradient(#F198C4, #E8549E);
-}
-
 aside#sidebar li ul.blocklist li a:hover {
     background: #f0f0f0;
     text-decoration: none;
@@ -565,6 +558,46 @@ footer .footer-bottom p, footer .footer-bottom p a {
 
 .clear {
     display: block;
+}
+
+.search {
+    width: 730px;
+}
+
+.tagline {
+    font-size: 32px;
+    color: white;
+    background-color: #3E91E5;
+}
+
+.search .line {
+    position: relative;
+    font-family: Tahoma, Arial;
+    font-size: 11px;
+    line-height: 57px;
+}
+
+.search .color {
+    background-color:#f2f2f2;
+}
+
+.line .country {
+    height:22px;
+    vertical-align:middle;
+    font-size:12px;
+    margin-left: 10px;
+}
+
+.line .city {
+    width: 130px;
+}
+
+.line .hidden {
+    display: none;
+}
+
+.line .visible {
+    display: inline-block;
 }
 
 @media screen and (max-width: 740px) {

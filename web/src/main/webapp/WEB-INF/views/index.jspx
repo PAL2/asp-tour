@@ -5,6 +5,174 @@
     <jsp:directive.page contentType="text/html;charset=UTF-8"/>
     <jsp:output omit-xml-declaration="yes"/>
     <head><title>Main</title></head>
+    <div class="search">
+        <div class="tagline">
+            Поиск тура. Заполни форму и выбери отдых!
+        </div>
+        <div class="line">
+            <tbody>
+            <tr>
+                <td>Вылет из:
+                    <select name="City" id="City" class="country city">
+                        <option value="Minsk">Минск</option>
+                    </select></td>
+                <td>Страна:
+                    <select onChange="Selected(this)" name="Country" id="Country" class="country city">
+                        <option value="Болгария" selected="selected">Болгария</option>
+                        <option value="Греция">Греция</option>
+                        <option value="Египет">Египет</option>
+                        <option value="Испания">Испания</option>
+                        <option value="Италия">Италия</option>
+                        <option value="Кипр">Кипр</option>
+                        <option value="Куба">Куба</option>
+                        <option value="Марокко">Марокко</option>
+                        <option value="ОАЭ">ОАЭ</option>
+                        <option value="Таиланд">Таиланд</option>
+                        <option value="Турция">Турция</option>
+                        <option value="Черногория">Черногория</option>
+                    </select></td>
+                <td>Курорт:
+                    <select name="Болгария" id="Болгария" class="country city visible">
+                        <option value="Любой">Любой</option>
+                        <option value="Албена">Албена</option>
+                        <option value="Золотые пески">Золотые пески</option>
+                        <option value="Кранево">Кранево</option>
+                        <option value="Солнечный берег">Солнечный берег</option>
+                    </select>
+                    <select name="Греция" id="Греция" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select name="Испания" id="Испания" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Коста Брава">Коста Брава</option>
+                    </select>
+                    <select name="Египет" id="Египет" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Хургада">Хургада</option>
+                    </select>
+                    <select name="Италия" id="Италия" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Римини">Римини</option>
+                        <option value="Сорренто">Сорренто</option>
+                    </select>
+                    <select name="Кипр" id="Кипр" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select name="Куба" id="Куба" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Варадеро">Варадеро</option>
+                    </select>
+                    <select name="Марокко" id="Марокко" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select name="ОАЭ" id="ОАЭ" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select name="Таиланд" id="Таиланд" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select name="Турция" id="Турция" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select name="Черногория" id="Черногория" class="country city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                </td>
+            </tr>
+            </tbody>
+        </div>
+        <div class="line color">
+            Дата с:
+            <input path="start" id="start" style="width: 130px;"/>
+            Дата по:
+            <input path="end" id="end" style="width: 130px;"/>
+            Ночи от:
+            <select name="nightsFrom" id="nightsFrom"
+                    style="height:22px; vertical-align:middle; font-size:12px; margin-left: 10px;">
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7" selected="selected">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+            </select>
+            Ночи до:
+            <select name="nightsTo" id="nightsTo"
+                    style="height:22px; vertical-align:middle; font-size:12px; margin-left: 10px;">
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14" selected="selected">14</option>
+            </select>
+        </div>
+        <div class="line">
+            Отель:
+            <select name="Category" id="Category"
+                    style="width:40px; height:18px; line-height: 18px; vertical-align:middle; font-size:12px; margin-left: 10px;">
+                <option>Любая</option>
+                <option>1*</option>
+                <option>2*</option>
+                <option selected="selected">3*</option>
+                <option>4*</option>
+                <option>5*</option>
+            </select>
+            <div id="DivCategoryBetter"
+                 style="position:absolute; left: 100px; top: 0px;">и лучше
+                <input type="checkbox" name="CategoryBetter" id="CategoryBetter" checked="checked" style="vertical-align: middle;"/></div>
+            <div style="display: inline-block; margin-left: 100px;">Номер:
+                <select id="hotelStayType" name="hotelStayType"
+                        style="width:200px; height: 22px; vertical-align:middle; margin-left: 10px;">
+                    <option child="0" value="1">одноместный номер</option>
+                    <option child="0" selected="selected" value="2">двухместный номер</option>
+                    <option child="1" value="4">один взрослый и ребёнок</option>
+                    <option child="2" value="5">один взрослый и два ребёнка</option>
+                    <option child="1" value="6">два взрослых и ребёнок</option>
+                    <option child="2" value="7">два взрослых и два ребёнка</option>
+                    <option child="1" value="8">три взрослых и ребёнок</option>
+                    <option child="2" value="9">три взрослых и два ребёнка</option>
+                    <option child="0" value="10">трёхместный номер</option>
+                </select></div>
+        </div>
+        <div class="line color">
+            Питание:
+            <select name="Pansion" id="Pansion"
+                    style="width:88px; height:22px; line-height: 18px; vertical-align:middle; font-size:12px; margin-left: 10px;">
+                <option value="0">Любое</option>
+                <option selected="selected" value="30">завтраки</option>
+                <option value="31">полупансион</option>
+                <option value="32">полный пансион</option>
+                <option value="33">"всё включено"</option>
+                <option value="34">"ультра всё включено"</option>
+            </select>
+            <div id="DivPansionBetter" style="position: absolute; left: 171px; top: 0px;">и лучше
+                <input style="vertical-align: middle" type="checkbox" name="pansionBetter" id="pansionBetter" checked="checked"/></div>
+            <div style="display: inline-block; margin-left: 100px;">
+                Цена от:
+                <input name="priceFrom" type="text" size="5" value="0"
+                       style="width:30px; height:20px; line-height: 18px; vertical-align:middle; font-size:12px; margin-left: 10px;"/>$
+                Цена до:
+                <input name="priceTo" type="text" size="5" value="3000"
+                       style="width:30px; height:20px; line-height: 18px; vertical-align:middle; font-size:12px; margin-left: 10px;"/>$
+            </div>
+        </div>
+        <div>
+            <input id="HottourSubmitButton" type="image" src="${pageContext.request.contextPath}/resources/images/search_small.png" style="margin-left: 310px;"/>
+        </div>
+    </div>
     <c:forEach items="${tours}" var="tour">
         <div class="element">
             <div class="img_block">
