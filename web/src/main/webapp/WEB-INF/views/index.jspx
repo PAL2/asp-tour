@@ -13,11 +13,11 @@
             <tbody>
             <tr>
                 <td>Вылет из:
-                    <select name="City" id="City" class="country city">
+                    <select name="City" id="City" class="countries city">
                         <option value="Minsk">Минск</option>
                     </select></td>
                 <td>Страна:
-                    <select onChange="Selected(this)" name="Country" id="Country" class="country city">
+                    <select onChange="Selected(this)" name="Country" id="Country" class="countries city">
                         <option value="Болгария" selected="selected">Болгария</option>
                         <option value="Греция">Греция</option>
                         <option value="Египет">Египет</option>
@@ -32,49 +32,49 @@
                         <option value="Черногория">Черногория</option>
                     </select></td>
                 <td>Курорт:
-                    <select name="Болгария" id="Болгария" class="country city visible">
+                    <select name="Болгария" id="Болгария" class="countries city visible">
                         <option value="Любой">Любой</option>
                         <option value="Албена">Албена</option>
                         <option value="Золотые пески">Золотые пески</option>
                         <option value="Кранево">Кранево</option>
                         <option value="Солнечный берег">Солнечный берег</option>
                     </select>
-                    <select name="Греция" id="Греция" class="country city hidden">
+                    <select name="Греция" id="Греция" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Испания" id="Испания" class="country city hidden">
+                    <select name="Испания" id="Испания" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Коста Брава">Коста Брава</option>
                     </select>
-                    <select name="Египет" id="Египет" class="country city hidden">
+                    <select name="Египет" id="Египет" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Хургада">Хургада</option>
                     </select>
-                    <select name="Италия" id="Италия" class="country city hidden">
+                    <select name="Италия" id="Италия" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Римини">Римини</option>
                         <option value="Сорренто">Сорренто</option>
                     </select>
-                    <select name="Кипр" id="Кипр" class="country city hidden">
+                    <select name="Кипр" id="Кипр" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Куба" id="Куба" class="country city hidden">
+                    <select name="Куба" id="Куба" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Варадеро">Варадеро</option>
                     </select>
-                    <select name="Марокко" id="Марокко" class="country city hidden">
+                    <select name="Марокко" id="Марокко" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="ОАЭ" id="ОАЭ" class="country city hidden">
+                    <select name="ОАЭ" id="ОАЭ" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Таиланд" id="Таиланд" class="country city hidden">
+                    <select name="Таиланд" id="Таиланд" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Турция" id="Турция" class="country city hidden">
+                    <select name="Турция" id="Турция" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Черногория" id="Черногория" class="country city hidden">
+                    <select name="Черногория" id="Черногория" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
                 </td>
@@ -87,8 +87,7 @@
             Дата по:
             <input path="end" id="end" style="width: 130px;"/>
             Ночи от:
-            <select name="nightsFrom" id="nightsFrom"
-                    style="height:22px; vertical-align:middle; font-size:12px; margin-left: 10px;">
+            <select name="nightsFrom" id="nightsFrom" class="countries">
                 <option value="3">3</option>
                 <option value="4">4</option>
                 <option value="5">5</option>
@@ -103,8 +102,7 @@
                 <option value="14">14</option>
             </select>
             Ночи до:
-            <select name="nightsTo" id="nightsTo"
-                    style="height:22px; vertical-align:middle; font-size:12px; margin-left: 10px;">
+            <select name="nightsTo" id="nightsTo" class="countries">
                 <option value="3">3</option>
                 <option value="4">4</option>
                 <option value="5">5</option>

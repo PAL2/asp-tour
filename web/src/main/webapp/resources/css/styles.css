@@ -224,7 +224,7 @@ header h2 {
     font-style: italic;
 }
 
-header div.tagline {
+header div.tag {
     color: #f0f0f0;
     font-size: 0.9em;
 }
@@ -581,7 +581,7 @@ footer .footer-bottom p, footer .footer-bottom p a {
     background-color:#f2f2f2;
 }
 
-.line .country {
+.line .countries {
     height:22px;
     vertical-align:middle;
     font-size:12px;
