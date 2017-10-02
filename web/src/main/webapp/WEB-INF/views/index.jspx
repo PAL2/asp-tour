@@ -168,7 +168,7 @@
             </div>
         </div>
         <div>
-            <input id="HottourSubmitButton" type="image" src="${pageContext.request.contextPath}/resources/images/search_small.png" style="margin-left: 310px;"/>
+            <input id="findTour" type="button" class="button" value="Подобрать тур!" style="margin-left: 295px;"/>
         </div>
     </div>
     <c:forEach items="${tours}" var="tour">

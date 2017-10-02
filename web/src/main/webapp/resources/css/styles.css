@@ -562,6 +562,7 @@ footer .footer-bottom p, footer .footer-bottom p a {
 
 .search {
     width: 730px;
+    margin-bottom: 3px;
 }
 
 .tagline {
