@@ -42,9 +42,30 @@ public class Controller {
 
     @RequestMapping(value = "find", method = RequestMethod.POST)
     public String findTour(@RequestParam(value = "country") String country,
-                           @RequestParam(value = "city") String city){
+                           @RequestParam(value = "city") String city,
+                           @RequestParam(value = "start") String start,
+                           @RequestParam(value = "end") String end,
+                           @RequestParam(value = "nightsFrom") int nightsFrom,
+                           @RequestParam(value = "nightsTo") int nightsTo,
+                           @RequestParam(value = "stars") String stars,
+                           @RequestParam(value = "starsMore", required = false) boolean starsMore,
+                           @RequestParam(value = "child") int child,
+                           @RequestParam(value = "adult") int adult,
+                           @RequestParam(value = "priceFrom") int priceFrom,
+                           @RequestParam(value = "priceTo") int priceTo
+                           ){
         System.out.println(country);
         System.out.println(city);
+        System.out.println(start);
+        System.out.println(end);
+        System.out.println(nightsFrom);
+        System.out.println(nightsTo);
+        System.out.println(stars);
+        System.out.println(starsMore);
+        System.out.println(child);
+        System.out.println(adult);
+        System.out.println(priceFrom);
+        System.out.println(priceTo);
         return "find";
     }
 
