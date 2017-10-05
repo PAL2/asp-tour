@@ -28,6 +28,8 @@ function Selected(a) {
     } else if (country == "Греция") {
         document.getElementById("Болгария").style.display = 'none';
         document.getElementById("Греция").style.display = 'inline-block';
+        document.getElementById("Греция").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Египет").style.display = 'none';
         document.getElementById("Испания").style.display = 'none';
         document.getElementById("Италия").style.display = 'none';
@@ -42,6 +44,8 @@ function Selected(a) {
         document.getElementById("Болгария").style.display = 'none';
         document.getElementById("Греция").style.display = 'none';
         document.getElementById("Египет").style.display = 'inline-block';
+        document.getElementById("Египет").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Испания").style.display = 'none';
         document.getElementById("Италия").style.display = 'none';
         document.getElementById("Кипр").style.display = 'none';
@@ -56,6 +60,8 @@ function Selected(a) {
         document.getElementById("Греция").style.display = 'none';
         document.getElementById("Египет").style.display = 'none';
         document.getElementById("Испания").style.display = 'inline-block';
+        document.getElementById("Испания").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Италия").style.display = 'none';
         document.getElementById("Кипр").style.display = 'none';
         document.getElementById("Куба").style.display = 'none';
@@ -70,6 +76,8 @@ function Selected(a) {
         document.getElementById("Египет").style.display = 'none';
         document.getElementById("Испания").style.display = 'none';
         document.getElementById("Италия").style.display = 'inline-block';
+        document.getElementById("Италия").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Кипр").style.display = 'none';
         document.getElementById("Куба").style.display = 'none';
         document.getElementById("Марокко").style.display = 'none';
@@ -84,6 +92,8 @@ function Selected(a) {
         document.getElementById("Испания").style.display = 'none';
         document.getElementById("Италия").style.display = 'none';
         document.getElementById("Кипр").style.display = 'inline-block';
+        document.getElementById("Кипр").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Куба").style.display = 'none';
         document.getElementById("Марокко").style.display = 'none';
         document.getElementById("ОАЭ").style.display = 'none';
@@ -98,6 +108,8 @@ function Selected(a) {
         document.getElementById("Италия").style.display = 'none';
         document.getElementById("Кипр").style.display = 'none';
         document.getElementById("Куба").style.display = 'inline-block';
+        document.getElementById("Куба").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Марокко").style.display = 'none';
         document.getElementById("ОАЭ").style.display = 'none';
         document.getElementById("Таиланд").style.display = 'none';
@@ -112,6 +124,8 @@ function Selected(a) {
         document.getElementById("Кипр").style.display = 'none';
         document.getElementById("Куба").style.display = 'none';
         document.getElementById("Марокко").style.display = 'inline-block';
+        document.getElementById("Марокко").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("ОАЭ").style.display = 'none';
         document.getElementById("Таиланд").style.display = 'none';
         document.getElementById("Турция").style.display = 'none';
@@ -126,6 +140,8 @@ function Selected(a) {
         document.getElementById("Куба").style.display = 'none';
         document.getElementById("Марокко").style.display = 'none';
         document.getElementById("ОАЭ").style.display = 'inline-block';
+        document.getElementById("ОАЭ").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Таиланд").style.display = 'none';
         document.getElementById("Турция").style.display = 'none';
         document.getElementById("Черногория").style.display = 'none';
@@ -140,6 +156,8 @@ function Selected(a) {
         document.getElementById("Марокко").style.display = 'none';
         document.getElementById("ОАЭ").style.display = 'none';
         document.getElementById("Таиланд").style.display = 'inline-block';
+        document.getElementById("Таиланд").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Турция").style.display = 'none';
         document.getElementById("Черногория").style.display = 'none';
     } else if (country == "Турция") {
@@ -154,6 +172,8 @@ function Selected(a) {
         document.getElementById("ОАЭ").style.display = 'none';
         document.getElementById("Таиланд").style.display = 'none';
         document.getElementById("Турция").style.display = 'inline-block';
+        document.getElementById("Турция").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
         document.getElementById("Черногория").style.display = 'none';
     } else if (country == "Черногория") {
         document.getElementById("Болгария").style.display = 'none';
@@ -168,18 +188,7 @@ function Selected(a) {
         document.getElementById("Таиланд").style.display = 'none';
         document.getElementById("Турция").style.display = 'none';
         document.getElementById("Черногория").style.display = 'inline-block';
-    } else {
-        document.getElementById("Болгария").style.display = 'none';
-        document.getElementById("Греция").style.display = 'none';
-        document.getElementById("Египет").style.display = 'none';
-        document.getElementById("Испания").style.display = 'none';
-        document.getElementById("Италия").style.display = 'none';
-        document.getElementById("Кипр").style.display = 'none';
-        document.getElementById("Куба").style.display = 'none';
-        document.getElementById("Марокко").style.display = 'none';
-        document.getElementById("ОАЭ").style.display = 'none';
-        document.getElementById("Таиланд").style.display = 'none';
-        document.getElementById("Турция").style.display = 'none';
-        document.getElementById("Черногория").style.display = 'none';
+        document.getElementById("Черногория").setAttribute("name", "city");
+        document.getElementById("Болгария").setAttribute("name", "c");
     }
 }
