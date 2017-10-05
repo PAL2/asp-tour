@@ -5,7 +5,7 @@
     <jsp:directive.page contentType="text/html;charset=UTF-8"/>
     <jsp:output omit-xml-declaration="yes"/>
     <head><title>Main</title></head>
-    <div class="search">
+    <form:form class="search" method="post" action="/asp-tour/find">
         <div class="tagline">
             Поиск тура. Заполни форму и выбери отдых!
         </div>
@@ -13,11 +13,11 @@
             <tbody>
             <tr>
                 <td>Вылет из:
-                    <select name="City" id="City" class="countries city">
+                    <select class="countries city">
                         <option value="Minsk">Минск</option>
                     </select></td>
                 <td>Страна:
-                    <select onChange="Selected(this)" name="Country" id="Country" class="countries city">
+                    <select onChange="Selected(this)" name="country" id="Country" class="countries city countryto">
                         <option value="Болгария" selected="selected">Болгария</option>
                         <option value="Греция">Греция</option>
                         <option value="Египет">Египет</option>
@@ -32,49 +32,49 @@
                         <option value="Черногория">Черногория</option>
                     </select></td>
                 <td>Курорт:
-                    <select name="Болгария" id="Болгария" class="countries city visible">
+                    <select name="city" id="Болгария" class="countries city visible">
                         <option value="Любой">Любой</option>
                         <option value="Албена">Албена</option>
                         <option value="Золотые пески">Золотые пески</option>
                         <option value="Кранево">Кранево</option>
                         <option value="Солнечный берег">Солнечный берег</option>
                     </select>
-                    <select name="Греция" id="Греция" class="countries city hidden">
+                    <select id="Греция" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Испания" id="Испания" class="countries city hidden">
+                    <select id="Испания" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Коста Брава">Коста Брава</option>
                     </select>
-                    <select name="Египет" id="Египет" class="countries city hidden">
+                    <select id="Египет" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Хургада">Хургада</option>
                     </select>
-                    <select name="Италия" id="Италия" class="countries city hidden">
+                    <select id="Италия" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Римини">Римини</option>
                         <option value="Сорренто">Сорренто</option>
                     </select>
-                    <select name="Кипр" id="Кипр" class="countries city hidden">
+                    <select id="Кипр" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Куба" id="Куба" class="countries city hidden">
+                    <select id="Куба" class="countries city hidden">
                         <option value="Любой">Любой</option>
                         <option value="Варадеро">Варадеро</option>
                     </select>
-                    <select name="Марокко" id="Марокко" class="countries city hidden">
+                    <select id="Марокко" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="ОАЭ" id="ОАЭ" class="countries city hidden">
+                    <select id="ОАЭ" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Таиланд" id="Таиланд" class="countries city hidden">
+                    <select id="Таиланд" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Турция" id="Турция" class="countries city hidden">
+                    <select id="Турция" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
-                    <select name="Черногория" id="Черногория" class="countries city hidden">
+                    <select id="Черногория" class="countries city hidden">
                         <option value="Любой">Любой</option>
                     </select>
                 </td>
@@ -148,13 +148,8 @@
         <div class="line color">
             Питание:
             <select name="Pansion" id="Pansion"
-                    style="width:88px; height:22px; line-height: 18px; vertical-align:middle; font-size:12px; margin-left: 10px;">
-                <option value="0">Любое</option>
-                <option selected="selected" value="30">завтраки</option>
-                <option value="31">полупансион</option>
-                <option value="32">полный пансион</option>
-                <option value="33">"всё включено"</option>
-                <option value="34">"ультра всё включено"</option>
+                    style="width:105px; height:22px; line-height: 18px; vertical-align:middle; font-size:12px; margin-left: 10px;">
+                <option selected="selected" value="30">всё включено</option>
             </select>
             <div id="DivPansionBetter" style="position: absolute; left: 171px; top: 0px;">и лучше
                 <input style="vertical-align: middle" type="checkbox" name="pansionBetter" id="pansionBetter" checked="checked"/></div>
@@ -167,10 +162,8 @@
                        style="width:30px; height:20px; line-height: 18px; vertical-align:middle; font-size:12px; margin-left: 10px;"/>$
             </div>
         </div>
-        <div>
-            <input id="findTour" type="button" class="button" value="Подобрать тур!" style="margin-left: 295px;"/>
-        </div>
-    </div>
+        <input type="submit" class="button" value="Подобрать тур!" style="margin-left: 295px;"/>
+    </form:form>
     <c:forEach items="${tours}" var="tour">
         <div class="element">
             <div class="img_block">
