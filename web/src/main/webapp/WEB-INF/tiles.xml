@@ -43,6 +43,10 @@
         <put-attribute name="body" value="/WEB-INF/views/loginfail.jspx"/>
     </definition>
 
+    <definition name="find" extends="default">
+        <put-attribute name="body" value="/WEB-INF/views/find.jspx"/>
+    </definition>
+
     <definition name="admin" extends="default">
         <put-attribute name="body" value="/WEB-INF/views/admin/main.jspx"/>
     </definition>
