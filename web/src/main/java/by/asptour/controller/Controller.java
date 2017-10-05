@@ -40,6 +40,14 @@ public class Controller {
         return "redirect:/";
     }
 
+    @RequestMapping(value = "find", method = RequestMethod.POST)
+    public String findTour(@RequestParam(value = "country") String country,
+                           @RequestParam(value = "city") String city){
+        System.out.println(country);
+        System.out.println(city);
+        return "find";
+    }
+
     @RequestMapping(value = "{country}/{pageNumber}", method = RequestMethod.GET)
     public String showToursByCountry(Model model, @PathVariable String country, @PathVariable int pageNumber) {
         int toursPerPage = 28;
