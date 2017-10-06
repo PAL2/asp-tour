@@ -32,7 +32,7 @@
                     <div class="img_block">
                         <img src="/asp-tour/tour/${tour.id}" class="img_size"></img>
                         <div class="offer-price byn">${tour.priceByn}</div>
-                        <div class="offer-price usd">${tour.priceUsd}$</div>
+                        <div class="offer-price usd">${tour.price}$</div>
                         <div class="country">${tour.country}</div>
                     </div>
                     <a class="offer-title"
@@ -95,7 +95,7 @@
                     <td>${tour.city}</td>
                     <td><fmt:formatDate value="${tour.date}" pattern="dd-MM"/></td>
                     <td>${tour.duration}</td>
-                    <td>${tour.priceUsd}</td>
+                    <td>${tour.price}</td>
                     <td>${tour.priceByn}</td>
                     <td>
                         <a class="button" href="${pageContext.request.contextPath}/admin/${tour.id}?form">Edit</a>

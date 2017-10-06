@@ -11,7 +11,7 @@ public class Tour implements Serializable {
     private String country, city, hotel;
     private byte star, duration;
     private Date date;
-    private int priceUsd, priceByn, version;
+    private int price, priceByn, version;
     private byte[] photo;
 
     @Id
@@ -79,13 +79,13 @@ public class Tour implements Serializable {
         this.date = date;
     }
 
-    @Column(name = "PRICE_USD")
-    public int getPriceUsd() {
-        return priceUsd;
+    @Column(name = "PRICE")
+    public int getPrice() {
+        return price;
     }
 
-    public void setPriceUsd(int priceUsd) {
-        this.priceUsd = priceUsd;
+    public void setPrice(int price) {
+        this.price = price;
     }
 
     @Column(name = "PRICE_BYN")
@@ -127,7 +127,7 @@ public class Tour implements Serializable {
                 ", star=" + star +
                 ", duration=" + duration +
                 ", date=" + date +
-                ", priceUsd=" + priceUsd +
+                ", price=" + price +
                 ", priceByn=" + priceByn +
                 ", photo='" + photo + '\'' +
                 '}';
