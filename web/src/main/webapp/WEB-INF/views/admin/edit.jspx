@@ -18,8 +18,8 @@
             <form:input path="star" id="star"/>
             <label for="city">Город:</label>
             <form:input path="city" id="city"/>
-            <label for="startDate">Дата вылета:</label>
-            <form:input path="startDate" id="startDate"/>
+            <label for="date">Дата вылета:</label>
+            <form:input path="date" id="date"/>
             <label for="duration">Ночей:</label>
             <form:input path="duration" id="duration"/>
             <form:hidden path="version"/>

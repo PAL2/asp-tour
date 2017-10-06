@@ -63,7 +63,7 @@
                     <div class="offer-options">
                         <div class="city">${tour.city}</div>
                         <div>Вылет из Минска</div>
-                        <div class="d">С <fmt:formatDate value="${tour.startDate}"
+                        <div class="d">С <fmt:formatDate value="${tour.date}"
                                                          pattern="dd-MM"/>, ${tour.duration} ночей
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                     </td>
                     <td>${tour.star}</td>
                     <td>${tour.city}</td>
-                    <td><fmt:formatDate value="${tour.startDate}" pattern="dd-MM"/></td>
+                    <td><fmt:formatDate value="${tour.date}" pattern="dd-MM"/></td>
                     <td>${tour.duration}</td>
                     <td>${tour.priceUsd}</td>
                     <td>${tour.priceByn}</td>

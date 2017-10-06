@@ -10,7 +10,7 @@ public class Tour implements Serializable {
     private Integer id;
     private String country, city, hotel;
     private byte star, duration;
-    private Date startDate;
+    private Date date;
     private int priceUsd, priceByn, version;
     private byte[] photo;
 
@@ -70,13 +70,13 @@ public class Tour implements Serializable {
         this.duration = duration;
     }
 
-    @Column(name = "START_DATE")
-    public Date getStartDate() {
-        return startDate;
+    @Column(name = "DATE")
+    public Date getDate() {
+        return date;
     }
 
-    public void setStartDate(Date startDate) {
-        this.startDate = startDate;
+    public void setDate(Date date) {
+        this.date = date;
     }
 
     @Column(name = "PRICE_USD")
@@ -126,7 +126,7 @@ public class Tour implements Serializable {
                 ", hotel='" + hotel + '\'' +
                 ", star=" + star +
                 ", duration=" + duration +
-                ", startDate=" + startDate +
+                ", date=" + date +
                 ", priceUsd=" + priceUsd +
                 ", priceByn=" + priceByn +
                 ", photo='" + photo + '\'' +
