@@ -83,9 +83,9 @@
         </div>
         <div class="line color">
             Дата с:
-            <input name="start" id="start" style="width: 130px;"/>
+            <input name="start" id="start" required="true" style="width: 130px;"/>
             Дата по:
-            <input name="end" id="end" style="width: 130px;"/>
+            <input name="end" id="end" required="true" style="width: 130px;"/>
             Ночи от:
             <select name="nightsFrom" class="countries">
                 <option value="3">3</option>
