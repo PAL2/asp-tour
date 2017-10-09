@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Random;
 
@@ -55,6 +56,20 @@ public class TourServiceImpl implements TourService {
             if (tour != null) tours.add(tour);
         }
         return tours;
+    }
+
+    @Override
+    public List<Tour> findByCountryAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
+            (String country, Date start, Date end, byte nightsFrom, byte nightsTo, byte star) {
+        return tourRepository.findByCountryAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
+                (country, start, end, nightsFrom, nightsTo, star);
+    }
+
+    @Override
+    public List<Tour> findByCityAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
+            (String city, Date start, Date end, byte nightsFrom, byte nightsTo, byte star) {
+        return tourRepository.findByCityAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
+                (city, start, end, nightsFrom, nightsTo, star);
     }
 
     @Autowired

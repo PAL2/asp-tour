@@ -3,6 +3,7 @@ package by.asptour.service;
 import by.asptour.entity.Tour;
 import org.springframework.data.domain.Page;
 
+import java.util.Date;
 import java.util.List;
 
 public interface TourService {
@@ -16,4 +17,10 @@ public interface TourService {
     void delete(Integer id);
 
     List<Tour> findToursForMainPage();
+
+    List<Tour> findByCountryAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
+            (String country, Date start, Date end, byte nightsFrom, byte nightsTo, byte star);
+
+    List<Tour> findByCityAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
+            (String city, Date start, Date end, byte nightsFrom, byte nightsTo, byte star);
 }
