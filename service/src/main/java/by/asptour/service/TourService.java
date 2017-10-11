@@ -23,4 +23,8 @@ public interface TourService {
 
     List<Tour> findByCityAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
             (String city, Date start, Date end, byte nightsFrom, byte nightsTo, byte star);
+
+    List<Tour> findAll();
+
+    void updateDate();
 }

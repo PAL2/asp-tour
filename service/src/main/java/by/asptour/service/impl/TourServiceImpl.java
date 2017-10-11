@@ -6,10 +6,12 @@ import by.asptour.service.TourService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -70,6 +72,27 @@ public class TourServiceImpl implements TourService {
             (String city, Date start, Date end, byte nightsFrom, byte nightsTo, byte star) {
         return tourRepository.findByCityAndDateBetweenAndDurationBetweenAndStarGreaterThanEqual
                 (city, start, end, nightsFrom, nightsTo, star);
+    }
+
+    @Override
+    public List<Tour> findAll() {
+        return tourRepository.findAll();
+    }
+
+    @Override
+    @Scheduled(fixedDelay = 1000000)
+    public void updateDate() {
+        System.out.println("Обновление. Начало");
+        System.out.println("Date" + new Date());
+        List<Tour> tours = findAll();
+        for (Tour tour : tours) {
+            LocalDate localDate = tour.getDate().toLocalDate();
+            LocalDate newLocalDate = localDate.plusDays(1);
+            tour.setDate(java.sql.Date.valueOf(newLocalDate));
+            tourRepository.saveAndFlush(tour);
+        }
+        System.out.println("Обновление. Конец");
+        System.out.println("Date" + new Date());
     }
 
     @Autowired
