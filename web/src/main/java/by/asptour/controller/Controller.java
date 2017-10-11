@@ -45,21 +45,28 @@ public class Controller {
     }
 
     @RequestMapping(value = "find", method = RequestMethod.POST)
-    public String findTour(@RequestParam(value = "country") String country,
-                           @RequestParam(value = "city") String city,
-                           @RequestParam(value = "start") String startDateString,
-                           @RequestParam(value = "end") String endDateString,
-                           @RequestParam(value = "nightsFrom") byte nightsFrom,
-                           @RequestParam(value = "nightsTo") byte nightsTo,
-                           @RequestParam(value = "stars") String stars,
-                           @RequestParam(value = "starsMore", required = false) boolean starsMore,
-                           @RequestParam(value = "child") byte child,
-                           @RequestParam(value = "adult") byte adult,
-                           @RequestParam(value = "priceFrom") int priceFrom,
-                           @RequestParam(value = "priceTo") int priceTo,
-                           Model model) throws ParseException {
+    public String findTourOrder(@ModelAttribute("bid") Bid bid) {
+        bidService.save(bid);
+        return "redirect:/";
+    }
+
+    @RequestMapping(value = "find", method = RequestMethod.GET)
+    public String findTourGet(@RequestParam(value = "country") String country,
+                              @RequestParam(value = "city") String city,
+                              @RequestParam(value = "start") String startDateString,
+                              @RequestParam(value = "end") String endDateString,
+                              @RequestParam(value = "nightsFrom") byte nightsFrom,
+                              @RequestParam(value = "nightsTo") byte nightsTo,
+                              @RequestParam(value = "stars") String stars,
+                              @RequestParam(value = "starsMore", required = false) boolean starsMore,
+                              @RequestParam(value = "child") byte child,
+                              @RequestParam(value = "adult") byte adult,
+                              @RequestParam(value = "priceFrom") int priceFrom,
+                              @RequestParam(value = "priceTo") int priceTo,
+                              Model model) throws ParseException {
+        model.addAttribute("bid", new Bid());
         byte star = Byte.parseByte(stars.substring(0, 1));
-        double coefficient = adult + child * 0.6;
+        double coefficient = adult + child * 0.5;
         SimpleDateFormat format = new SimpleDateFormat();
         format.applyPattern("MM/dd/yyyy");
         Date startDate = format.parse(startDateString);
