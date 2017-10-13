@@ -2,6 +2,161 @@
           xmlns:fmt="http://java.sun.com/jsp/jstl/fmt" xmlns:c="http://java.sun.com/jsp/jstl/core"
           xmlns:form="http://www.springframework.org/tags/form">
     <head><title>Поиск тура</title></head>
+    <form:form class="search" method="get" action="/asp-tour/find">
+        <div class="tagline">
+            Поиск тура. Заполни форму и выбери отдых!
+        </div>
+        <div class="line">
+            <tbody>
+            <tr>
+                <td>Вылет из:
+                    <select class="countries city">
+                        <option value="Minsk">Минск</option>
+                    </select></td>
+                <td>Страна:
+                    <select onChange="Selected(this)" name="country" class="countries city countryto">
+                        <option value="Болгария" selected="selected">Болгария</option>
+                        <option value="Греция">Греция</option>
+                        <option value="Египет">Египет</option>
+                        <option value="Испания">Испания</option>
+                        <option value="Италия">Италия</option>
+                        <option value="Кипр">Кипр</option>
+                        <option value="Куба">Куба</option>
+                        <option value="Марокко">Марокко</option>
+                        <option value="ОАЭ">ОАЭ</option>
+                        <option value="Таиланд">Таиланд</option>
+                        <option value="Турция">Турция</option>
+                        <option value="Черногория">Черногория</option>
+                    </select></td>
+                <td>Курорт:
+                    <select name="city" id="Болгария" class="countries city visible">
+                        <option value="Любой">Любой</option>
+                        <option value="Албена">Албена</option>
+                        <option value="Золотые пески">Золотые пески</option>
+                        <option value="Кранево">Кранево</option>
+                        <option value="Солнечный берег">Солнечный берег</option>
+                    </select>
+                    <select id="Греция" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select id="Испания" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Коста Брава">Коста Брава</option>
+                    </select>
+                    <select id="Египет" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Хургада">Хургада</option>
+                    </select>
+                    <select id="Италия" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Римини">Римини</option>
+                        <option value="Сорренто">Сорренто</option>
+                    </select>
+                    <select id="Кипр" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select id="Куба" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                        <option value="Варадеро">Варадеро</option>
+                    </select>
+                    <select id="Марокко" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select id="ОАЭ" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select id="Таиланд" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select id="Турция" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                    <select id="Черногория" class="countries city hidden">
+                        <option value="Любой">Любой</option>
+                    </select>
+                </td>
+            </tr>
+            </tbody>
+        </div>
+        <div class="line color">
+            Дата с:
+            <input name="start" id="start" required="true" style="width: 130px;"/>
+            Дата по:
+            <input name="end" id="end" required="true" style="width: 130px;"/>
+            Ночи от:
+            <select name="nightsFrom" class="countries">
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7" selected="selected">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+            </select>
+            Ночи до:
+            <select name="nightsTo" class="countries">
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14" selected="selected">14</option>
+            </select>
+        </div>
+        <div class="line">
+            Отель:
+            <select name="stars" style="width:40px; line-height: 18px;" class="countries">
+                <option>Любая</option>
+                <option>1*</option>
+                <option>2*</option>
+                <option selected="selected">3*</option>
+                <option>4*</option>
+                <option>5*</option>
+            </select>
+            <div style="position:absolute; left: 100px; top: 0px;">и лучше
+                <input type="checkbox" name="starsMore" checked="checked" style="vertical-align: middle;"/></div>
+            <div style="display: inline-block; margin-left: 120px;">Взрослые:
+                <select name="adult" style="width:50px;" class="countries">
+                    <option>1</option>
+                    <option selected="selected">2</option>
+                </select>
+            </div>
+            <div style="display: inline-block; margin-left: 20px;">Дети:
+                <select name="child" style="width:50px;" class="countries">
+                    <option selected="selected">0</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                </select>
+            </div>
+        </div>
+        <div class="line color">
+            Питание:
+            <select name="Pansion" style="width:105px; line-height: 18px;" class="countries">
+                <option selected="selected">всё включено</option>
+            </select>
+            <div style="position: absolute; left: 171px; top: 0px;">и лучше
+                <input style="vertical-align: middle" type="checkbox" name="pansionBetter" checked="checked"/></div>
+            <div style="display: inline-block; margin-left: 100px;">
+                Цена от:
+                <input name="priceFrom" type="text" size="5" value="0" style="width:30px; line-height: 18px;" class="countries"/>$
+                Цена до:
+                <input name="priceTo" type="text" size="5" value="9999" style="width:30px; line-height: 18px;" class="countries"/>$
+            </div>
+        </div>
+        <input type="submit" class="button" value="Подобрать тур!" style="margin-left: 295px;"/>
+    </form:form>
     <c:forEach items="${tours}" var="tour">
         <div class="element">
             <div class="img_block">
