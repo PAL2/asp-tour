@@ -51,7 +51,7 @@ public class TourServiceImpl implements TourService {
         Tour tour;
         List<Tour> tours = new ArrayList<>();
         Random random = new Random();
-        long count = (long) (tourRepository.count() * 1.2);
+        long count = (long) (tourRepository.count() * 1.1);
         while (tours.size() <= 15) {
             int id = random.nextInt((int) (count)) + 1;
             tour = tourRepository.findOne(id);
@@ -80,19 +80,18 @@ public class TourServiceImpl implements TourService {
     }
 
     @Override
-    @Scheduled(fixedDelay = 1000000)
+    @Scheduled(cron = "0 0 0 * * ?")
     public void updateDate() {
-        System.out.println("Обновление. Начало");
-        System.out.println("Date" + new Date());
+        System.out.println("Обновление. Начало: " + new Date());
         List<Tour> tours = findAll();
+        System.out.println("После поиска туров: " + new Date());
         for (Tour tour : tours) {
             LocalDate localDate = tour.getDate().toLocalDate();
             LocalDate newLocalDate = localDate.plusDays(1);
             tour.setDate(java.sql.Date.valueOf(newLocalDate));
             tourRepository.saveAndFlush(tour);
         }
-        System.out.println("Обновление. Конец");
-        System.out.println("Date" + new Date());
+        System.out.println("Обновление. Конец: " + new Date());
     }
 
     @Autowired
