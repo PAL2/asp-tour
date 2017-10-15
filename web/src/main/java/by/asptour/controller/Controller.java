@@ -89,7 +89,7 @@ public class Controller {
             if (!starsMore) {
                 if (tour.getStar() > star) iterator.remove();
             }
-            if (!(priceFrom <= tour.getPrice()&& priceTo >= tour.getPrice())) iterator.remove();
+            if (!(priceFrom <= tour.getPrice() && priceTo >= tour.getPrice())) iterator.remove();
         }
         model.addAttribute("tours", tours);
         return "find";
