@@ -35,11 +35,11 @@
 
     <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-        <property name="url" value="jdbc:mysql://localhost:3306/asp-tour"/>
-        <property name="username" value="root"/>
-        <property name="password" value="1234"/>
-        <property name="initialSize" value="2"/>
-        <property name="maxTotal" value="5"/>
+        <property name="url" value="jdbc:mysql://node49246-polegoshko.mycloud.by/asp-tour?useUnicode=yes&amp;characterEncoding=UTF-8"/>
+        <property name="username" value="user"/>
+        <property name="password" value="neDug6H3ChzU6EAz"/>
+        <property name="initialSize" value="3"/>
+        <property name="maxTotal" value="6"/>
     </bean>
 
     <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
@@ -56,7 +56,7 @@
         <property name="packagesToScan" value="by.asptour"/>
         <property name="jpaProperties">
             <props>
-                <prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
+                <prop key="hibernate.dialect">org.hibernate.dialect.MySQL57Dialect</prop>
                 <prop key="hibernate.show_sql">false</prop>
                 <prop key="hibernate.format_sql">true</prop>
             </props>
