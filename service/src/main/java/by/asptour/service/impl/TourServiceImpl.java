@@ -80,7 +80,7 @@ public class TourServiceImpl implements TourService {
     }
 
     @Override
-    @Scheduled(cron = "0 0 0 * * ?")
+    @Scheduled(cron = "0 0 21 * * ?")
     public void updateDate() {
         System.out.println("Обновление. Начало: " + new Date());
         List<Tour> tours = findAll();
