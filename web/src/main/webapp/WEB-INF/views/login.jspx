@@ -4,6 +4,9 @@
     <head><title>Login</title></head>
     <div class="login">
         <c:url value="/login" var="authUrl"/>
+        Admin role:<br/>
+        login: admin <br/>
+        password: admin
         <form action="${authUrl}" method="post">
             <table>
                 <tr>
