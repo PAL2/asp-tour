@@ -35,7 +35,7 @@
 
     <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-        <property name="url" value="jdbc:mysql://node49246-polegoshko.mycloud.by/asp-tour?useUnicode=yes&amp;characterEncoding=UTF-8"/>
+        <property name="url" value="jdbc:mysql://node49246-polegoshko.mycloud.by/asp-tour?useUnicode=yes&amp;characterEncoding=UTF-8&amp;useSSL=false"/>
         <property name="username" value="user"/>
         <property name="password" value="neDug6H3ChzU6EAz"/>
         <property name="initialSize" value="3"/>
