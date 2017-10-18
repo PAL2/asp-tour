@@ -117,7 +117,6 @@
         <div class="line">
             Отель:
             <select name="stars" style="width:40px; line-height: 18px;" class="countries">
-                <option>Любая</option>
                 <option>1*</option>
                 <option>2*</option>
                 <option selected="selected">3*</option>
@@ -176,7 +175,7 @@
         </div>
     </c:forEach>
     <form:form class="order-form" modelAttribute="bid">
-        <label for="name"/>Имя
+        <label for="name">Имя</label>>
         <br/>
         <form:input path="name" id="name" required="true"/>
         <br/>
