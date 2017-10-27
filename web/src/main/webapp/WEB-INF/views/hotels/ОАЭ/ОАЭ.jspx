@@ -9,44 +9,51 @@
     <c:url var="nextUrl" value="/ОАЭ/${currentIndex + 1}"/>
     <div>
         <sec:authorize access="isAnonymous()">
-            <c:forEach items="${tours}" var="tour">
-                <div class="element">
-                    <div class="img_block">
-                        <img src="/asp-tour/tour/${tour.id}" class="img_size"></img>
-                        <div class="offer-price byn">${tour.priceByn}</div>
-                        <div class="offer-price usd">${tour.price}$</div>
-                        <div class="country">${tour.country}</div>
-                    </div>
-                    <a class="offer-title"
-                       href="${pageContext.request.contextPath}/hotels/${tour.country}/${tour.city}/${tour.hotel}">${tour.hotel} ${tour.star}*</a>
-                    <div class="offer-options">
-                        <div class="city">${tour.city}</div>
-                        <div>Вылет из Минска</div>
-                        <div class="d">С <fmt:formatDate value="${tour.date}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
-                    </div>
-                    <input type="button" class="button bid" value="Оставить заявку"/>
-                </div>
-            </c:forEach>
-            <form:form class="order-form" modelAttribute="bid">
-                <label for="name">Имя</label>
-                <br/>
-                <form:input path="name" id="name"/>
-                <br/>
-                <label for="phone">Телефон</label>
-                <br/>
-                <form:input path="phone" id="phone"/>
-                <br/>
-                <label for="description">Описание</label>
-                <br/>
-                <form:textarea rows="7" cols="40" path="description" id="description"/>
-                <br/>
-                <label for="note">Примечание</label>
-                <br/>
-                <form:textarea rows="5" cols="40" path="note" id="note"/>
-                <form:hidden path="version"/>
-                <br/>
-                <input type="submit" class="button" value="Оставить заявку"/>
-            </form:form>
+            <c:choose>
+                <c:when test="${not empty tours}">
+                    <c:forEach items="${tours}" var="tour">
+                        <div class="element">
+                            <div class="img_block">
+                                <img src="/asp-tour/tour/${tour.id}" class="img_size"></img>
+                                <div class="offer-price byn">${tour.priceByn}</div>
+                                <div class="offer-price usd">${tour.price}$</div>
+                                <div class="country">${tour.country}</div>
+                            </div>
+                            <a class="offer-title"
+                               href="${pageContext.request.contextPath}/hotels/${tour.country}/${tour.city}/${tour.hotel}">${tour.hotel} ${tour.star}*</a>
+                            <div class="offer-options">
+                                <div class="city">${tour.city}</div>
+                                <div>Вылет из Минска</div>
+                                <div class="d">С <fmt:formatDate value="${tour.date}" pattern="dd-MM"/>, ${tour.duration} ночей</div>
+                            </div>
+                            <input type="button" class="button bid" value="Оставить заявку"/>
+                        </div>
+                    </c:forEach>
+                    <form:form class="order-form" modelAttribute="bid">
+                        <label for="name">Имя</label>
+                        <br/>
+                        <form:input path="name" id="name"/>
+                        <br/>
+                        <label for="phone">Телефон</label>
+                        <br/>
+                        <form:input path="phone" id="phone"/>
+                        <br/>
+                        <label for="description">Описание</label>
+                        <br/>
+                        <form:textarea rows="7" cols="40" path="description" id="description"/>
+                        <br/>
+                        <label for="note">Примечание</label>
+                        <br/>
+                        <form:textarea rows="5" cols="40" path="note" id="note"/>
+                        <form:hidden path="version"/>
+                        <br/>
+                        <input type="submit" class="button" value="Оставить заявку"/>
+                    </form:form>
+                </c:when>
+                <c:otherwise>
+                    <h3>К сожалению, сейчас нет подходящих туров</h3>
+                </c:otherwise>
+            </c:choose>
         </sec:authorize>
     </div>
     <sec:authorize access="hasRole('ROLE_ADMIN')">
@@ -89,37 +96,41 @@
         </table>
     </sec:authorize>
     <br/>
-    <div class="pagination">
-        <c:choose>
-            <c:when test="${currentIndex == 1}">
-                <a class="button" href="#">&lt;&lt;</a>
-                <a class="button" href="#">&lt;</a>
-            </c:when>
-            <c:otherwise>
-                <a class="button" href="${firstUrl}">&lt;&lt;</a>
-                <a class="button" href="${prevUrl}">&lt;</a>
-            </c:otherwise>
-        </c:choose>
-        <c:forEach var="i" begin="${beginIndex}" end="${endIndex}">
-            <c:url var="pageUrl" value="/ОАЭ/${i}"/>
-            <c:choose>
-                <c:when test="${i == currentIndex}">
-                    <a class="button" href="${pageUrl}"><c:out value="${i}"/></a>
-                </c:when>
-                <c:otherwise>
-                    <a class="button" href="${pageUrl}"><c:out value="${i}"/></a>
-                </c:otherwise>
-            </c:choose>
-        </c:forEach>
-        <c:choose>
-            <c:when test="${currentIndex == pages.totalPages}">
-                <a class="button" href="#">&gt;</a>
-                <a class="button" href="#">&gt;&gt;</a>
-            </c:when>
-            <c:otherwise>
-                <a class="button" href="${nextUrl}">&gt;</a>
-                <a class="button" href="${lastUrl}">&gt;&gt;</a>
-            </c:otherwise>
-        </c:choose>
-    </div>
+    <c:choose>
+        <c:when test="${not empty tours}">
+            <div class="pagination">
+                <c:choose>
+                    <c:when test="${currentIndex == 1}">
+                        <a class="button" href="#">&lt;&lt;</a>
+                        <a class="button" href="#">&lt;</a>
+                    </c:when>
+                    <c:otherwise>
+                        <a class="button" href="${firstUrl}">&lt;&lt;</a>
+                        <a class="button" href="${prevUrl}">&lt;</a>
+                    </c:otherwise>
+                </c:choose>
+                <c:forEach var="i" begin="${beginIndex}" end="${endIndex}">
+                    <c:url var="pageUrl" value="/ОАЭ/${i}"/>
+                    <c:choose>
+                        <c:when test="${i == currentIndex}">
+                            <a class="button" href="${pageUrl}"><c:out value="${i}"/></a>
+                        </c:when>
+                        <c:otherwise>
+                            <a class="button" href="${pageUrl}"><c:out value="${i}"/></a>
+                        </c:otherwise>
+                    </c:choose>
+                </c:forEach>
+                <c:choose>
+                    <c:when test="${currentIndex == pages.totalPages}">
+                        <a class="button" href="#">&gt;</a>
+                        <a class="button" href="#">&gt;&gt;</a>
+                    </c:when>
+                    <c:otherwise>
+                        <a class="button" href="${nextUrl}">&gt;</a>
+                        <a class="button" href="${lastUrl}">&gt;&gt;</a>
+                    </c:otherwise>
+                </c:choose>
+            </div>
+        </c:when>
+    </c:choose>
 </jsp:root>

@@ -159,6 +159,8 @@
         </div>
         <input type="submit" class="button" value="Подобрать тур!" style="margin-left: 295px;"/>
     </form:form>
+    <c:choose>
+    <c:when test="${not empty tours}">
     <c:forEach items="${tours}" var="tour">
         <div class="element">
             <div class="img_block">
@@ -197,4 +199,9 @@
         <br/>
         <input type="submit" class="button" value="Оставить заявку"/>
     </form:form>
+    </c:when>
+        <c:otherwise>
+            <h3>К сожалению, сейчас нет подходящих туров</h3>
+        </c:otherwise>
+    </c:choose>
 </div>
