@@ -51,9 +51,9 @@ public class TourServiceImpl implements TourService {
         Tour tour;
         List<Tour> tours = new ArrayList<>();
         Random random = new Random();
-        long count = (long) (tourRepository.count() * 1.1);
+        int count = (int) (tourRepository.count() * 1.1);
         while (tours.size() <= 15) {
-            int id = random.nextInt((int) (count)) + 1;
+            int id = random.nextInt(count) + 1;
             tour = tourRepository.findOne(id);
             if (tour != null) tours.add(tour);
         }
