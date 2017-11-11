@@ -50,7 +50,7 @@ public class TourServiceImpl implements TourService {
     public List<Tour> findToursForMainPage() {
         Tour tour;
         List<Tour> tours = new ArrayList<>();
-        Random random = new Random();
+        Random random = new Random(new Date().getTime());
         int count = (int) (tourRepository.count() * 1.1);
         while (tours.size() <= 15) {
             int id = random.nextInt(count) + 1;
