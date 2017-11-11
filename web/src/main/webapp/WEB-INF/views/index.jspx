@@ -152,9 +152,9 @@
                 <input style="vertical-align: middle" type="checkbox" name="pansionBetter" checked="checked"/></div>
             <div style="display: inline-block; margin-left: 100px;">
                 Цена от:
-                <input name="priceFrom" type="text" size="5" value="0" style="width:30px; line-height: 18px;" class="countries"/>$
+                <input name="priceFrom" type="text" size="5" value="0" pattern="[0-9]{1,4}" style="width:30px; line-height: 18px;" class="countries"/>$
                 Цена до:
-                <input name="priceTo" type="text" size="5" value="9999" style="width:30px; line-height: 18px;" class="countries"/>$
+                <input name="priceTo" type="text" size="5" value="9999" pattern="[0-9]{1,4}" style="width:30px; line-height: 18px;" class="countries"/>$
             </div>
         </div>
         <input type="submit" class="button" value="Подобрать тур!" style="margin-left: 295px;"/>
@@ -190,7 +190,7 @@
         <br/>
         <label for="description">Описание</label>
         <br/>
-        <form:textarea rows="7" cols="40" path="description" id="description" required="true"/>
+        <form:textarea rows="7" cols="40" path="description" id="description" required="true" readonly="true"/>
         <br/>
         <label for="note">Примечание</label>
         <br/>
