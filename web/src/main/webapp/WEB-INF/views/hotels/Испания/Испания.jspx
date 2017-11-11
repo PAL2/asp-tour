@@ -58,7 +58,7 @@
                         <br/>
                         <label for="description">Описание</label>
                         <br/>
-                        <form:textarea rows="7" cols="40" path="description" id="description"/>
+                        <form:textarea rows="7" cols="40" path="description" id="description" readonly="true"/>
                         <br/>
                         <label for="note">Примечание</label>
                         <br/>
